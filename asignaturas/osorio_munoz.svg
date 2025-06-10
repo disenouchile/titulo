@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.97 21.62">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 1.88px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2 {
+        font-size: 1.88px;
+      }
+
+      .cls-3 {
+        font-size: 1px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        font-size: 2.26px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        fill: #ff3f0d;
+      }
+
+      .cls-7 {
+        fill: #ffccbe;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-5" points="99.97 13.95 0 13.95 0 14.4 16.6 14.4 16.6 15.53 16.96 15.53 16.96 14.4 50.45 14.4 50.45 15.49 50.81 15.49 50.81 14.4 87.22 14.4 87.22 15.53 87.58 15.53 87.58 14.4 99.97 14.4 99.97 13.95"/>
+  <text class="cls-4" transform="translate(10.4 18.15) scale(1.05 1)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="3.45" y="2.71">I a IV</tspan></text>
+  <text class="cls-4" transform="translate(40.14 18.18) scale(1.05 1)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="5.96" y="2.71">V a VIII</tspan></text>
+  <text class="cls-4" transform="translate(78.65 18.18) scale(1.05 1)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="5.27" y="2.71">IX a X</tspan></text>
+  <g>
+    <rect class="cls-7" x="1.95" y="7" width="29" height="4.96"/>
+    <rect class="cls-6" x="1.95" y="11.96" width="29" height=".84"/>
+  </g>
+  <rect class="cls-7" x="1.95" width="29" height="4.96"/>
+  <rect class="cls-6" x="1.95" y="4.96" width="29" height=".84"/>
+  <g>
+    <rect class="cls-7" x="34.98" y="6.99" width="29" height="4.96"/>
+    <rect class="cls-6" x="34.98" y="11.95" width="29" height=".84"/>
+  </g>
+  <text class="cls-1" transform="translate(41.4 10.4) scale(1.05 1)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-8" x="10.04" y="0"> </tspan><tspan x="10.52" y="0">Título I</tspan></text>
+  <text class="cls-3" transform="translate(13.87 11.4) scale(1.05 1)"><tspan x="0" y="0">AUD40005</tspan></text>
+  <text class="cls-3" transform="translate(13.87 4.4) scale(1.05 1)"><tspan x="0" y="0">AUD30005</tspan></text>
+  <text class="cls-2" transform="translate(6.62 10.11)"><tspan x="0" y="0">Procesos y prototipos II</tspan></text>
+  <text class="cls-2" transform="translate(6.88 2.94)"><tspan x="0" y="0">Procesos y prototipos I</tspan></text>
+</svg>
