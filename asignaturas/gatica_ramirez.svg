@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.3, SVG Export Plug-In . SVG Version: 9.03 Build 53313)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 20" style="enable-background:new 0 0 100 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:#FFD3CC;}
+	.st2{fill:#FF5432;}
+	.st3{fill:#FF5432;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:2px;}
+</style>
+<line class="st0" x1="15.68" y1="14.47" x2="15.68" y2="11.67"/>
+<rect x="34.93" y="1.65" class="st1" width="30.15" height="10.01"/>
+<rect x="69.85" y="1.65" class="st1" width="30.15" height="10.01"/>
+<rect y="1.65" class="st1" width="30.15" height="10.01"/>
+<rect y="10.18" class="st2" width="30.15" height="1.49"/>
+<rect x="69.85" y="10.18" class="st2" width="30.15" height="1.49"/>
+<rect x="34.93" y="10.18" class="st2" width="30.15" height="1.49"/>
+<line class="st3" x1="0" y1="11.67" x2="100" y2="11.67"/>
+<line class="st0" x1="50" y1="14.47" x2="50" y2="11.67"/>
+<line class="st0" x1="84.93" y1="14.47" x2="84.93" y2="11.67"/>
+<text transform="matrix(1 0 0 1 9.785 16.891)"><tspan x="0" y="0" class="st4 st5">Ciclo básico</tspan><tspan x="3.56" y="2.4" class="st4 st5">I a IV</tspan></text>
+<text transform="matrix(1 0 0 1 40.7028 16.7968)"><tspan x="0" y="0" class="st4 st5">Ciclo Especializado</tspan><tspan x="6.06" y="2.4" class="st4 st5">V a VIII</tspan></text>
+<text transform="matrix(1 0 0 1 76.8139 16.7854)"><tspan x="0" y="0" class="st4 st5">Ciclo profesional</tspan><tspan x="5.39" y="2.4" class="st4 st5">IX a X</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 37.5511 6.6615)" class="st4 st5">Seminario de Licenciatura</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 10.2855 6.6619)" class="st4 st5">Proyecto III</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 76.2026 6.662)" class="st4 st5">Proyecto de Título</text>
+</g>
+</svg>

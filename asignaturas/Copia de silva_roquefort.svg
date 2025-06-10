@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb199;
+      }
+
+      .cls-2 {
+        fill: #dfdfdf;
+      }
+
+      .cls-3 {
+        fill: #f2d5d3;
+      }
+
+      .cls-4 {
+        fill: #383c95;
+      }
+
+      .cls-5 {
+        font-family: MontserratRoman-Medium, Montserrat;
+        font-size: 1.96px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: #fafafa;
+      }
+
+      .cls-7 {
+        fill: #d0cdea;
+      }
+
+      .cls-8 {
+        font-family: MontserratRoman-Regular, Montserrat;
+        font-size: 1.72px;
+        font-variation-settings: 'wght' 400;
+      }
+    </style>
+  </defs>
+  <g id="fondo">
+    <rect class="cls-6" width="100" height="20"/>
+  </g>
+  <g id="Capa_1" data-name="Capa 1">
+    <rect class="cls-2" x="7.31" y="11.22" width="88.06" height="1.3" rx=".52" ry=".52"/>
+    <rect class="cls-3" x="37.51" y="2.35" width="28.08" height="5.22" rx=".7" ry=".7"/>
+    <rect class="cls-7" x="7.78" y="2.31" width="28.08" height="5.17" rx=".47" ry=".47"/>
+    <rect class="cls-3" x="67.5" y="2.31" width="28.08" height="5.05" rx=".43" ry=".43"/>
+    <rect class="cls-1" x="67.5" y="6.54" width="28.08" height="1.41" rx=".52" ry=".52"/>
+    <path class="cls-2" d="M20.93,12.52h1.11v.66c0,.25-.2.45-.45.45h-.22c-.25,0-.45-.2-.45-.45v-.66h0Z"/>
+    <path class="cls-2" d="M51.95,12.5v.55c0,.31-.25.55-.55.55h0c-.31,0-.55-.25-.55-.55v-.55"/>
+    <path class="cls-2" d="M84.39,12.49v.55c0,.31-.25.55-.55.55h0c-.31,0-.55-.25-.55-.55v-.55"/>
+    <text class="cls-5" transform="translate(16.14 16.1)"><tspan x="0" y="0">Ciclo básico </tspan><tspan x="3.48" y="2.33">I a IV</tspan></text>
+    <text class="cls-5" transform="translate(42.15 16.1)"><tspan x="0" y="0">Ciclo especializado </tspan><tspan x="5.99" y="2.33">V a VIII</tspan></text>
+    <text class="cls-5" transform="translate(75.58 16.1)"><tspan x="0" y="0">Ciclo profesional </tspan><tspan x="5.52" y="2.33">IX a X</tspan></text>
+    <text class="cls-8" transform="translate(39.45 5.27)"><tspan x="0" y="0">Seminario de Licenciatura II</tspan></text>
+    <text class="cls-8" transform="translate(73.28 5.13)"><tspan x="0" y="0">Proyecto de título I</tspan></text>
+    <text class="cls-8" transform="translate(12.4 4.13)"><tspan x="0" y="0">Ergonomía y Factores </tspan><tspan x="5.19" y="2.08">Humanos</tspan></text>
+    <rect class="cls-1" x="37.53" y="6.54" width="28.08" height="1.41" rx=".52" ry=".52"/>
+    <rect class="cls-4" x="7.78" y="6.54" width="28.08" height="1.41" rx=".52" ry=".52"/>
+  </g>
+</svg>

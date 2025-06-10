@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20">
+  <rect x="72.4" y="7.47" width="20.15" height="5.5" fill="#ffccbe" stroke-width="0"/>
+  <rect x="72.4" y="12.97" width="20.15" height=".87" fill="#ff3f0d" stroke-width="0"/>
+  <rect x="39.92" y="7.51" width="20.15" height="5.5" fill="#d1cee8" stroke-width="0"/>
+  <rect x="39.92" y="13.01" width="20.15" height=".87" fill="#393e95" stroke-width="0"/>
+  <text transform="translate(42.92 9.93)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Electi</tspan><tspan x="3.84" y="0" letter-spacing="0em">v</tspan><tspan x="4.6" y="0">o V y M: O</tspan><tspan x="11.28" y="0" letter-spacing=".01em">f</tspan><tspan x="11.79" y="0">icio </tspan><tspan x="5.19" y="2.02">dijital</tspan></text>
+  <text transform="translate(76.33 9.89)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0" letter-spacing="-.02em">P</tspan><tspan x=".92" y="0" letter-spacing="-.01em">r</tspan><tspan x="1.56" y="0" letter-spacing="-.02em">o</tspan><tspan x="2.37" y="0" letter-spacing="0em">y</tspan><tspan x="3.1" y="0">ecto de Título</tspan><tspan x="4.72" y="2.02">I y II</tspan></text>
+  <text transform="translate(11.79 17.08)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="2.41" y="2.02">I a </tspan><tspan x="4.48" y="2.02" letter-spacing=".02em">I</tspan><tspan x="4.93" y="2.02">V</tspan></text>
+  <text transform="translate(43.43 17.08)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="4.2" y="2.02">V a </tspan><tspan x="6.75" y="2.02" letter-spacing="0em">V</tspan><tspan x="7.66" y="2.02">III</tspan></text>
+  <text transform="translate(76.69 16.95)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo p</tspan><tspan x="4.64" y="0" letter-spacing="0em">r</tspan><tspan x="5.28" y="0">o</tspan><tspan x="6.12" y="0" letter-spacing="-.01em">f</tspan><tspan x="6.58" y="0">esional</tspan><tspan x="3.87" y="2.02">IX a X</tspan></text>
+  <line x1="5.85" y1="14.37" x2="92.55" y2="14.37" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <rect x="15.51" y="14.87" width=".8" height=".8" stroke-width="0"/>
+  <rect x="49.6" y="14.87" width=".8" height=".8" stroke-width="0"/>
+  <rect x="82.07" y="14.87" width=".8" height=".8" stroke-width="0"/>
+  <rect x="39.92" width="20.15" height="5.5" fill="#ffccbe" stroke-width="0"/>
+  <rect x="39.92" y="5.5" width="20.15" height=".87" fill="#ff3f0d" stroke-width="0"/>
+  <text transform="translate(40.98 2.42)" font-family="Bahnschrift, Bahnschrift" font-size="1.54" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Seminario de Licenciatura</tspan><tspan x="7.6" y="2.02">I y II</tspan></text>
+</svg>

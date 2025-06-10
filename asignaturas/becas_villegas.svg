@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 17.47">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        letter-spacing: .01em;
+      }
+
+      .cls-5 {
+        font-family: Bahnschrift, Bahnschrift;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #231f20;
+        font-size: 2.5px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        fill: #ec552e;
+      }
+
+      .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-10 {
+        fill: #f8bab2;
+      }
+
+      .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <line class="cls-2" y1="6.72" x2="100" y2="6.72"/>
+  <text class="cls-5" transform="translate(8.21 10.86)"><tspan x="0" y="0">Ciclo básico </tspan><tspan x="0" y="3" xml:space="preserve">      I a </tspan><tspan class="cls-1" x="7.39" y="3">I</tspan><tspan x="8.13" y="3">V</tspan></text>
+  <text class="cls-5" transform="translate(38.08 10.86)"><tspan x="0" y="0">Ciclo especializado </tspan><tspan x="0" y="3" xml:space="preserve">           V a </tspan><tspan class="cls-14" x="11.53" y="3">V</tspan><tspan x="13.01" y="3">III</tspan></text>
+  <text class="cls-5" transform="translate(72.65 10.86)"><tspan x="0" y="0">Ciclo p</tspan><tspan class="cls-13" x="7.54" y="0">r</tspan><tspan x="8.58" y="0">o</tspan><tspan class="cls-15" x="9.94" y="0">f</tspan><tspan x="10.7" y="0">esional </tspan><tspan x="0" y="3" xml:space="preserve">         IX a X</tspan></text>
+  <rect class="cls-10" x=".75" width="28.64" height="4.39"/>
+  <rect class="cls-9" x=".75" y="4.39" width="28.64" height="1.79"/>
+  <text class="cls-6" transform="translate(9.7 2.83) scale(.92 1)"><tspan class="cls-11" x="0" y="0">P</tspan><tspan class="cls-12" x="1.29" y="0">r</tspan><tspan class="cls-7" x="2.08" y="0">o</tspan><tspan class="cls-12" x="3.44" y="0">y</tspan><tspan x="4.59" y="0">e</tspan><tspan class="cls-4" x="5.84" y="0">c</tspan><tspan class="cls-8" x="6.99" y="0">t</tspan><tspan x="7.81" y="0">o IV</tspan></text>
+  <line class="cls-3" x1="15.07" y1="6.72" x2="15.07" y2="8.19"/>
+  <line class="cls-3" x1="48.66" y1="6.72" x2="48.66" y2="8.19"/>
+  <line class="cls-3" x1="82.26" y1="7.27" x2="82.26" y2="8.73"/>
+</svg>

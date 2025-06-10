@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90.73 17.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb199;
+      }
+
+      .cls-2 {
+        fill: #dfdfdf;
+      }
+
+      .cls-3 {
+        fill: #f2d5d3;
+      }
+
+      .cls-4 {
+        font-family: MontserratRoman-Regular, Montserrat;
+        font-size: 1.76px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5 {
+        fill: #383c95;
+      }
+
+      .cls-6 {
+        fill: #d0cdea;
+      }
+
+      .cls-7 {
+        font-family: MontserratRoman-Medium, Montserrat;
+        font-size: 2.01px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="0" y="9.16" width="90.5" height="1.34" rx=".67" ry=".67"/>
+  <rect class="cls-3" x="31.05" y=".05" width="28.86" height="5.36" rx=".87" ry=".87"/>
+  <rect class="cls-1" x="31.05" y="4.2" width="28.86" height="2.14" rx=".46" ry=".46"/>
+  <rect class="cls-6" x=".49" y="0" width="28.86" height="5.32" rx="1.03" ry="1.03"/>
+  <rect class="cls-5" x=".49" y="4.2" width="28.86" height="2.04" rx=".46" ry=".46"/>
+  <rect class="cls-3" x="61.87" y=".24" width="28.86" height="4.94" rx=".69" ry=".69"/>
+  <rect class="cls-1" x="61.87" y="4.25" width="28.86" height="2.29" rx=".67" ry=".67"/>
+  <path class="cls-2" d="M14,10.5h1.14v.57c0,.31-.26.57-.57.57h0c-.31,0-.57-.26-.57-.57v-.57h0Z"/>
+  <path class="cls-2" d="M45.88,10.47v.57c0,.31-.25.57-.57.57h0c-.31,0-.57-.25-.57-.57v-.57"/>
+  <path class="cls-2" d="M79.22,10.47v.57c0,.31-.25.57-.57.57h0c-.31,0-.57-.25-.57-.57v-.57"/>
+  <text class="cls-7" transform="translate(9.08 14.17)"><tspan x="0" y="0">Ciclo básico </tspan><tspan x="3.58" y="2.39">I a IV</tspan></text>
+  <text class="cls-7" transform="translate(35.82 14.17)"><tspan x="0" y="0">Ciclo especializado </tspan><tspan x="6.16" y="2.39">V a VIII</tspan></text>
+  <text class="cls-7" transform="translate(70.17 14.17)"><tspan x="0" y="0">Ciclo profesional </tspan><tspan x="5.67" y="2.39">IX a X</tspan></text>
+  <text class="cls-4" transform="translate(33.3 3.04)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
+  <text class="cls-4" transform="translate(66.45 3.39)"><tspan x="0" y="0">Proyecto de título I y II</tspan></text>
+  <text class="cls-4" transform="translate(5.29 3.04)"><tspan x="0" y="0">Configuración Visual I </tspan></text>
+</svg>
