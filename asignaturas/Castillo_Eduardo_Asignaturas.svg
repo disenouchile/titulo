@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.63 17.72">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        fill: #f9c199;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 2px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: #1d1d1b;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        stroke: #ee7233;
+        stroke-width: .5px;
+      }
+
+      .cls-7, .cls-11 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: .01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        fill: none;
+        stroke: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g id="BASE">
+    <line class="cls-11" y1="8.74" x2="93.63" y2="8.74"/>
+    <rect class="cls-6" x="13.67" y="8.85" width=".7" height="1.15"/>
+    <text class="cls-5" transform="translate(9.42 12.42)"><tspan class="cls-13" x="0" y="0">C</tspan><tspan class="cls-20" x="1.15" y="0">iclo bási</tspan><tspan class="cls-8" x="7.87" y="0">c</tspan><tspan x="8.76" y="0">o</tspan><tspan x="3.07" y="2.4">I a III</tspan></text>
+    <rect class="cls-6" x="46.13" y="8.85" width=".7" height="1.15"/>
+    <text class="cls-5" transform="translate(39.4 12.42)"><tspan class="cls-13" x="0" y="0">C</tspan><tspan class="cls-20" x="1.15" y="0">iclo especializado</tspan><tspan x="5.18" y="2.4">V a</tspan><tspan class="cls-19" x="7.68" y="2.4"> </tspan><tspan x="8.03" y="2.4">VIII</tspan></text>
+    <rect class="cls-6" x="78.59" y="8.85" width=".7" height="1.15"/>
+    <text class="cls-5" transform="translate(72.13 12.42)"><tspan class="cls-13" x="0" y="0">C</tspan><tspan class="cls-20" x="1.15" y="0">iclo p</tspan><tspan class="cls-21" x="5.65" y="0">r</tspan><tspan x="6.28" y="0">o</tspan><tspan class="cls-10" x="7.38" y="0">f</tspan><tspan x="7.94" y="0">esional</tspan><tspan x="4.22" y="2.4">V a</tspan><tspan class="cls-19" x="6.72" y="2.4"> </tspan><tspan x="7.08" y="2.4">VIII</tspan></text>
+  </g>
+  <g id="RAMOS">
+    <rect class="cls-2" x="68.68" y="4.66" width="20.52" height="2.88"/>
+    <rect class="cls-2" x="34.84" y="3.98" width="23.28" height="3.56"/>
+    <rect class="cls-2" x="68.68" width="20.52" height="3.5"/>
+  </g>
+  <g id="DETALLES">
+    <line class="cls-7" x1="68.68" y1="3.5" x2="89.2" y2="3.5"/>
+    <line class="cls-7" x1="34.84" y1="7.54" x2="58.12" y2="7.54"/>
+    <line class="cls-7" x1="68.68" y1="7.54" x2="89.2" y2="7.54"/>
+  </g>
+  <g id="TEXTO">
+    <text class="cls-5" transform="translate(70.98 2.47)"><tspan class="cls-17" x="0" y="0">P</tspan><tspan class="cls-21" x="1.03" y="0">r</tspan><tspan class="cls-14" x="1.67" y="0">o</tspan><tspan class="cls-21" x="2.75" y="0">y</tspan><tspan x="3.67" y="0">e</tspan><tspan class="cls-15" x="4.67" y="0">c</tspan><tspan class="cls-8" x="5.6" y="0">t</tspan><tspan class="cls-9" x="6.25" y="0">o de</tspan><tspan class="cls-16" x="9.9" y="0"> </tspan><tspan class="cls-1" x="10.24" y="0">T</tspan><tspan x="11.21" y="0">ítulo I</tspan></text>
+    <text class="cls-5" transform="translate(70.74 6.53)"><tspan class="cls-17" x="0" y="0">P</tspan><tspan class="cls-21" x="1.03" y="0">r</tspan><tspan class="cls-14" x="1.67" y="0">o</tspan><tspan class="cls-21" x="2.75" y="0">y</tspan><tspan x="3.67" y="0">e</tspan><tspan class="cls-15" x="4.67" y="0">c</tspan><tspan class="cls-8" x="5.6" y="0">t</tspan><tspan class="cls-9" x="6.25" y="0">o de</tspan><tspan class="cls-16" x="9.9" y="0"> </tspan><tspan class="cls-1" x="10.24" y="0">T</tspan><tspan x="11.21" y="0">ítulo II</tspan></text>
+    <text class="cls-5" transform="translate(35.27 6.53)"><tspan class="cls-3" x="0" y="0">S</tspan><tspan x="1" y="0">emina</tspan><tspan class="cls-12" x="6.21" y="0">r</tspan><tspan x="6.87" y="0">io de Li</tspan><tspan class="cls-22" x="12.83" y="0">c</tspan><tspan x="13.71" y="0">enci</tspan><tspan class="cls-4" x="17.19" y="0">a</tspan><tspan x="18.14" y="0">tu</tspan><tspan class="cls-18" x="19.91" y="0">r</tspan><tspan x="20.55" y="0">a I</tspan></text>
+  </g>
+</svg>

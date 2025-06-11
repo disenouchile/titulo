@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20.28">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #ea5f33;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 2px;
+      }
+
+      .cls-11 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #ed8269;
+      }
+
+      .cls-21 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-7" x="0" width="100" height="20"/>
+  <g>
+    <line class="cls-11" x1=".5" y1="15.5" x2="99.5" y2="15.5"/>
+    <line class="cls-11" x1="12.5" y1="15.5" x2="12.5" y2="16.5"/>
+    <line class="cls-11" x1="50" y1="15.5" x2="50" y2="16.5"/>
+    <line class="cls-11" x1="87.5" y1="15.5" x2="87.5" y2="16.5"/>
+    <text class="cls-10" transform="translate(5.42 18.71)"><tspan class="cls-9" x="0" y="0">C</tspan><tspan x="1.15" y="0">iclo bási</tspan><tspan class="cls-23" x="7.87" y="0">c</tspan><tspan x="8.76" y="0">o I a IV</tspan></text>
+    <text class="cls-10" transform="translate(39.24 18.71)"><tspan class="cls-9" x="0" y="0">C</tspan><tspan x="1.15" y="0">iclo especializado</tspan><tspan class="cls-14" x="15.76" y="0"> </tspan><tspan x="16.11" y="0">V a</tspan><tspan class="cls-1" x="18.62" y="0"> </tspan><tspan x="18.97" y="0">VIII</tspan></text>
+    <text class="cls-10" transform="translate(77.81 18.71)"><tspan class="cls-9" x="0" y="0">C</tspan><tspan x="1.15" y="0">iclo p</tspan><tspan class="cls-21" x="5.65" y="0">r</tspan><tspan x="6.28" y="0">o</tspan><tspan class="cls-3" x="7.38" y="0">f</tspan><tspan x="7.94" y="0" xml:space="preserve">ecional  IX a X</tspan></text>
+    <g>
+      <rect class="cls-8" x="39" y="8" width="23" height="7"/>
+      <rect class="cls-6" x="39" y="14" width="23" height="1"/>
+    </g>
+    <g>
+      <path class="cls-8" d="M78,1h19c1.1,0,2,.9,2,2v5h-23V3c0-1.1.89-2,2-2Z"/>
+      <rect class="cls-6" x="76" y="7" width="23" height="1"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="76" y="8" width="23" height="7"/>
+      <rect class="cls-6" x="76" y="14" width="23" height="1"/>
+    </g>
+    <g>
+      <path class="cls-8" d="M40.98,1h19.01c1.11,0,2,.9,2,2v5h-23V2.98c0-1.09.89-1.98,1.98-1.98Z"/>
+      <rect class="cls-6" x="39" y="7" width="23" height="1"/>
+    </g>
+    <text class="cls-10" transform="translate(44 10.42)"><tspan class="cls-16" x="0" y="0">S</tspan><tspan x="1" y="0">emina</tspan><tspan class="cls-18" x="6.21" y="0">r</tspan><tspan x="6.87" y="0">io de </tspan><tspan x="0" y="2.56">li</tspan><tspan class="cls-23" x=".94" y="2.56">c</tspan><tspan x="1.82" y="2.56">enci</tspan><tspan class="cls-22" x="5.3" y="2.56">a</tspan><tspan x="6.26" y="2.56">tu</tspan><tspan class="cls-15" x="8.02" y="2.56">r</tspan><tspan x="8.66" y="2.56">a I</tspan></text>
+    <text class="cls-10" transform="translate(44 3.42)"><tspan class="cls-16" x="0" y="0">S</tspan><tspan x="1" y="0">emina</tspan><tspan class="cls-18" x="6.21" y="0">r</tspan><tspan x="6.87" y="0">io de </tspan><tspan x="0" y="2.56">li</tspan><tspan class="cls-23" x=".94" y="2.56">c</tspan><tspan x="1.82" y="2.56">enci</tspan><tspan class="cls-22" x="5.3" y="2.56">a</tspan><tspan x="6.26" y="2.56">tu</tspan><tspan class="cls-15" x="8.02" y="2.56">r</tspan><tspan x="8.66" y="2.56">a II</tspan></text>
+    <text class="cls-10" transform="translate(78.79 11.42)"><tspan class="cls-19" x="0" y="0">P</tspan><tspan class="cls-21" x="1.03" y="0">r</tspan><tspan class="cls-4" x="1.67" y="0">o</tspan><tspan class="cls-21" x="2.75" y="0">y</tspan><tspan x="3.67" y="0">e</tspan><tspan class="cls-2" x="4.67" y="0">c</tspan><tspan class="cls-5" x="5.6" y="0">t</tspan><tspan x="6.25" y="0">o de</tspan><tspan class="cls-17" x="9.9" y="0"> </tspan><tspan class="cls-13" x="10.24" y="0">T</tspan><tspan x="11.21" y="0">itulo I</tspan></text>
+    <text class="cls-10" transform="translate(78.55 4.42)"><tspan class="cls-12" x="0" y="0">P</tspan><tspan class="cls-20" x="1.03" y="0">r</tspan><tspan class="cls-4" x="1.67" y="0">o</tspan><tspan class="cls-21" x="2.75" y="0">y</tspan><tspan x="3.67" y="0">e</tspan><tspan class="cls-2" x="4.67" y="0">c</tspan><tspan class="cls-5" x="5.6" y="0">t</tspan><tspan x="6.25" y="0">o de</tspan><tspan class="cls-17" x="9.9" y="0"> </tspan><tspan class="cls-13" x="10.24" y="0">T</tspan><tspan x="11.21" y="0">itulo II</tspan></text>
+  </g>
+</svg>

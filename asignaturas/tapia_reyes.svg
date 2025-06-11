@@ -1,67 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="30px" viewBox="0 0 100 30" style="enable-background:new 0 0 100 30;" xml:space="preserve">
+	 viewBox="0 0 100 30" style="enable-background:new 0 0 100 30;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#EDEDED;}
-	.st1{fill:#FE5420;}
-	.st2{fill:#FCCBBA;stroke:#FE5420;stroke-width:2;stroke-miterlimit:10;}
-	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
-	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
-	.st5{fill:#FCCBBA;}
-	.st6{fill:none;}
-	.st7{font-family:'Inter18pt-SemiBold';}
-	.st8{font-size:2px;}
-	.st9{font-family:'Inter18pt-Regular';}
-	.st10{font-size:1.3px;}
-	.st11{fill:#DBCCFF;}
-	.st12{fill:#4725A5;}
-	.st13{font-family:'Inter18pt-Light';}
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FCCBBA;}
+	.st3{fill:#FE5420;}
+	.st4{fill:none;}
+	.st5{font-family:'Helvetica';}
+	.st6{font-size:2px;}
+	.st7{font-size:1.3px;}
+	.st8{fill:#DBCCFF;}
+	.st9{fill:#4725A5;}
 </style>
 <g>
-	<line class="st3" x1="4.01" y1="21.49" x2="95.99" y2="21.49"/>
-	<line class="st4" x1="22.14" y1="23.23" x2="22.14" y2="21.49"/>
-	<line class="st4" x1="50" y1="23.23" x2="50" y2="21.49"/>
-	<line class="st4" x1="77.86" y1="23.23" x2="77.86" y2="21.49"/>
+	<line class="st0" x1="4.01" y1="21.49" x2="95.99" y2="21.49"/>
+	<line class="st1" x1="22.14" y1="23.23" x2="22.14" y2="21.49"/>
+	<line class="st1" x1="50" y1="23.23" x2="50" y2="21.49"/>
+	<line class="st1" x1="77.86" y1="23.23" x2="77.86" y2="21.49"/>
 </g>
-<rect x="11.7" y="16.74" class="st5" width="21" height="4.5"/>
-<rect x="11.7" y="20.44" class="st1" width="21" height="0.8"/>
-<rect x="13.33" y="24.71" class="st6" width="17.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 16.35 26.435)"><tspan x="0" y="0" class="st7 st8">Ciclo Básico</tspan><tspan x="3.54" y="2.4" class="st7 st8">I a IV</tspan></text>
-<rect x="38.69" y="24.71" class="st6" width="22.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 40.8149 26.435)"><tspan x="0" y="0" class="st7 st8">Ciclo Especializado</tspan><tspan x="5.94" y="2.4" class="st7 st8">V a VIII</tspan></text>
-<rect x="69.17" y="24.71" class="st6" width="17.5" height="4.75"/>
-<text transform="matrix(1 0 0 1 69.8454 26.435)"><tspan x="0" y="0" class="st7 st8">Ciclo Profesional</tspan><tspan x="5.32" y="2.4" class="st7 st8">IX a X</tspan></text>
-<rect x="67.42" y="16.74" class="st5" width="21" height="4.5"/>
-<rect x="67.42" y="20.44" class="st1" width="21" height="0.8"/>
-<rect x="67.42" y="11.49" class="st5" width="21" height="4.5"/>
-<rect x="67.42" y="15.19" class="st1" width="21" height="0.8"/>
-<text transform="matrix(1 0 0 1 15.0574 18.3598)" class="st9 st10">Procesos y Prototipos II</text>
-<rect x="70.8" y="11.94" class="st6" width="14.25" height="2.5"/>
-<text transform="matrix(1 0 0 1 71.8742 13.0597)" class="st9 st10">Proyecto de Título II</text>
-<rect x="70.8" y="17.26" class="st6" width="14.25" height="2.5"/>
-<text transform="matrix(1 0 0 1 72.0437 18.3808)" class="st9 st10">Proyecto de Título I</text>
-<rect x="39.53" y="6.24" class="st11" width="20.94" height="4.5"/>
-<rect x="39.53" y="9.91" class="st12" width="20.94" height="0.8"/>
-<rect x="39.53" y="16.74" class="st5" width="20.94" height="4.5"/>
-<rect x="39.53" y="20.44" class="st1" width="20.94" height="0.8"/>
-<rect x="39.53" y="11.49" class="st5" width="20.94" height="4.5"/>
-<rect x="39.53" y="15.25" class="st1" width="20.94" height="0.8"/>
-<rect x="45.12" y="17.16" class="st6" width="9.75" height="2.5"/>
-<text transform="matrix(1 0 0 1 46.3218 18.286)" class="st9 st10">Proyecto VII</text>
-<text transform="matrix(1 0 0 1 40.7792 13.2128)" class="st9 st10">Seminario de Licenciatura I y II</text>
-<rect x="42" y="6.59" class="st6" width="16" height="1.9"/>
-<text transform="matrix(1 0 0 1 42.7374 7.7098)" class="st9 st10">Electivo Troncal de I y S</text>
-<rect x="42.94" y="13.74" class="st6" width="14.25" height="1.92"/>
-<text transform="matrix(1 0 0 1 43.5505 14.8596)" class="st13 st10">AUD7002 - AUD8I001</text>
-<rect x="46.56" y="8.39" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 47.1169 9.5179)" class="st13 st10">AUD6I016</text>
-<rect x="46.56" y="18.99" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 46.991 20.1096)" class="st13 st10">AUD7I020</text>
-<rect x="18.7" y="19.08" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 18.8687 20.2019)" class="st13 st10">AUD40005</text>
-<rect x="74.42" y="18.8" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 74.9618 19.9231)" class="st13 st10">AUD9I001</text>
-<rect x="74.42" y="13.48" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 75.099 14.6019)" class="st13 st10">AUD10I01</text>
+<rect x="11.7" y="16.74" class="st2" width="21" height="4.5"/>
+<rect x="11.7" y="20.44" class="st3" width="21" height="0.8"/>
+<rect x="13.33" y="24.71" class="st4" width="17.75" height="4.75"/>
+<text transform="matrix(1 0 0 1 16.703 26.4243)"><tspan x="0" y="0" class="st5 st6">Ciclo Básico</tspan><tspan x="3.17" y="2.4" class="st5 st6">I a IV</tspan></text>
+<rect x="38.69" y="24.71" class="st4" width="22.75" height="4.75"/>
+<text transform="matrix(1 0 0 1 41.3916 26.4243)"><tspan x="0" y="0" class="st5 st6">Ciclo Especializado</tspan><tspan x="5.39" y="2.4" class="st5 st6">V a VIII</tspan></text>
+<rect x="69.17" y="24.71" class="st4" width="17.5" height="4.75"/>
+<text transform="matrix(1 0 0 1 70.4167 26.4243)"><tspan x="0" y="0" class="st5 st6">Ciclo Profesional</tspan><tspan x="4.78" y="2.4" class="st5 st6">IX a X</tspan></text>
+<rect x="67.42" y="16.74" class="st2" width="21" height="4.5"/>
+<rect x="67.42" y="20.44" class="st3" width="21" height="0.8"/>
+<rect x="67.42" y="11.49" class="st2" width="21" height="4.5"/>
+<rect x="67.42" y="15.19" class="st3" width="21" height="0.8"/>
+<text transform="matrix(1 0 0 1 15.3416 18.3598)" class="st5 st7">Procesos y Prototipos II</text>
+<rect x="70.8" y="11.94" class="st4" width="14.25" height="2.5"/>
+<text transform="matrix(1 0 0 1 72.1037 13.0528)" class="st5 st7">Proyecto de Título II</text>
+<rect x="70.8" y="17.26" class="st4" width="14.25" height="2.5"/>
+<text transform="matrix(1 0 0 1 72.2839 18.374)" class="st5 st7">Proyecto de Título I</text>
+<rect x="39.53" y="6.24" class="st8" width="20.94" height="4.5"/>
+<rect x="39.53" y="9.91" class="st9" width="20.94" height="0.8"/>
+<rect x="39.53" y="16.74" class="st2" width="20.94" height="4.5"/>
+<rect x="39.53" y="20.44" class="st3" width="20.94" height="0.8"/>
+<rect x="39.53" y="11.49" class="st2" width="20.94" height="4.5"/>
+<rect x="39.53" y="15.25" class="st3" width="20.94" height="0.8"/>
+<rect x="45.12" y="17.16" class="st4" width="9.75" height="2.5"/>
+<text transform="matrix(1 0 0 1 46.4595 18.2791)" class="st5 st7">Proyecto VII</text>
+<text transform="matrix(1 0 0 1 41.0761 13.2128)" class="st5 st7">Seminario de Licenciatura I y II</text>
+<rect x="42" y="6.59" class="st4" width="16" height="1.9"/>
+<text transform="matrix(1 0 0 1 42.9918 7.703)" class="st5 st7">Electivo Troncal de I y S</text>
+<rect x="42.94" y="13.74" class="st4" width="14.25" height="1.92"/>
+<text transform="matrix(1 0 0 1 43.6677 14.8528)" class="st5 st7">AUD7002 - AUD8I001</text>
+<rect x="46.56" y="8.39" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 47.0637 9.5111)" class="st5 st7">AUD6I016</text>
+<rect x="46.56" y="18.99" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 47.0637 20.1028)" class="st5 st7">AUD7I020</text>
+<rect x="18.7" y="19.08" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 19.0255 20.1951)" class="st5 st7">AUD40005</text>
+<rect x="74.42" y="18.8" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 74.9213 19.9162)" class="st5 st7">AUD9I001</text>
+<rect x="74.42" y="13.48" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 74.9213 14.5951)" class="st5 st7">AUD10I01</text>
 </svg>

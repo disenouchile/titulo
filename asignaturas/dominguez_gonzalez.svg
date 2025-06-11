@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 1.5px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #ff3c00;
+      }
+
+      .cls-4 {
+        stroke: #ff3c00;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-5 {
+        fill: #ffd3ca;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="19.39" y="17.07" width="1.25" height=".85" transform="translate(2.52 37.5) rotate(-90)"/>
+  <rect class="cls-3" x="49.38" y="17.08" width="1.25" height=".85" transform="translate(32.51 67.51) rotate(-90)"/>
+  <rect class="cls-3" x="79.36" y="17.06" width="1.25" height=".85" transform="translate(62.5 97.47) rotate(-90)"/>
+  <line class="cls-4" x1="3.98" y1="16.8" x2="96.02" y2="16.8"/>
+  <rect class="cls-5" x="68.03" y="2" width="23.86" height="6.28" rx="1.01" ry="1.01"/>
+  <text class="cls-2" transform="translate(73.29 5.09)"><tspan x="0" y="0">Práctica Profesional</tspan></text>
+  <text class="cls-1" transform="translate(73.93 19.63)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="4.04" y="2.15">IX a X</tspan></text>
+  <text class="cls-1" transform="translate(43.09 19.64)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="4.67" y="2.15">V a VII</tspan></text>
+  <text class="cls-1" transform="translate(15.59 19.48)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="2.67" y="2.15">I a IV</tspan></text>
+  <path class="cls-3" d="M68.03,7.52c0,.44.45.79,1.01.79h21.83c.56,0,1.01-.35,1.01-.79v-.28h-23.86v.28Z"/>
+  <rect class="cls-5" x="68.02" y="9.28" width="23.86" height="6.28" rx="1.01" ry="1.01"/>
+  <path class="cls-3" d="M68.02,14.81c0,.44.45.79,1.01.79h21.83c.56,0,1.01-.35,1.01-.79v-.28h-23.86v.28Z"/>
+  <text class="cls-2" transform="translate(72.55 12.53)"><tspan x="0" y="0">Proyecto de título I y II</tspan></text>
+  <rect class="cls-5" x="38.09" y="9.31" width="23.86" height="6.28" rx="1.01" ry="1.01"/>
+  <path class="cls-3" d="M38.09,14.83c0,.44.45.79,1.01.79h21.83c.56,0,1.01-.35,1.01-.79v-.28h-23.86v.28Z"/>
+  <text class="cls-2" transform="translate(39.96 12.54)"><tspan x="0" y="0">Seminario de licenciatura I y II</tspan></text>
+</svg>

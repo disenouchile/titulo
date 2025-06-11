@@ -17,16 +17,6 @@
       }
 
       .cls-5 {
-        fill: #fff;
-        stroke: #1d1d1b;
-      }
-
-      .cls-5, .cls-3 {
-        stroke-miterlimit: 10;
-        stroke-width: .25px;
-      }
-
-      .cls-6 {
         fill: #1d1d1b;
         font-family: ArialMT, Arial;
         font-size: 1px;
@@ -34,14 +24,15 @@
 
       .cls-3 {
         stroke: #da633c;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
       }
 
-      .cls-7 {
+      .cls-6 {
         letter-spacing: -.04em;
       }
     </style>
   </defs>
-  <rect class="cls-5" x=".74" y=".66" width="98.36" height="26" rx="4.91" ry="4.91"/>
   <g>
     <rect class="cls-1" x="66.42" y="14.46" width="28.39" height="5.95" rx="1.08" ry="1.08"/>
     <path class="cls-2" d="M66.42,19.28h28.39v.66c0,.26-.21.47-.47.47h-27.44c-.26,0-.47-.21-.47-.47v-.66h0Z"/>
@@ -51,11 +42,11 @@
   <rect class="cls-2" x="49.49" y="21.27" width="1.02" height="1.51"/>
   <rect class="cls-2" x="80.11" y="21.27" width="1.02" height="1.51"/>
   <rect class="cls-1" x="35.81" y="12.72" width="28.39" height="7.69" rx="1.23" ry="1.23"/>
-  <text class="cls-4" transform="translate(41.38 15.87)"><tspan x="0" y="0">Electivo Mención V y M:</tspan><tspan x="-1.93" y="1.8">Diseño Gráfico para las</tspan><tspan class="cls-7" x="14.82" y="1.8"> </tspan><tspan x="15.18" y="1.8">Artes</tspan></text>
+  <text class="cls-4" transform="translate(41.38 15.87)"><tspan x="0" y="0">Electivo Mención V y M:</tspan><tspan x="-1.93" y="1.8">Diseño Gráfico para las</tspan><tspan class="cls-6" x="14.82" y="1.8"> </tspan><tspan x="15.18" y="1.8">Artes</tspan></text>
   <text class="cls-4" transform="translate(73.86 17.33)"><tspan x="0" y="0">Proyecto de título I</tspan></text>
-  <text class="cls-6" transform="translate(45.72 24.11)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="2.67" y="1.2">V y VIII</tspan></text>
-  <text class="cls-6" transform="translate(16.64 24.11)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="1.53" y="1.2">I a IV</tspan></text>
-  <text class="cls-6" transform="translate(76.92 24.11)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="2.33" y="1.2">IX a X</tspan></text>
+  <text class="cls-5" transform="translate(45.72 24.11)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="2.67" y="1.2">V y VIII</tspan></text>
+  <text class="cls-5" transform="translate(16.64 24.11)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="1.53" y="1.2">I a IV</tspan></text>
+  <text class="cls-5" transform="translate(76.92 24.11)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="2.33" y="1.2">IX a X</tspan></text>
   <path class="cls-2" d="M35.81,19.28h28.39v.66c0,.26-.21.47-.47.47h-27.44c-.26,0-.47-.21-.47-.47v-.66h0Z"/>
   <g>
     <rect class="cls-1" x="5.14" y="14.41" width="28.39" height="5.95" rx="1.08" ry="1.08"/>
