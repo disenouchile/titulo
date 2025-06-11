@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -21,17 +22,20 @@
     <script>
     const lugar = document.querySelector("#probando");
     async function datos() {
-        const consulta = await fetch("https://raw.githubusercontent.com/disenouchile/proyecto/refs/heads/main/datos.json");
+        const consulta = await fetch("https://raw.githubusercontent.com/disenouchile/proyecto/refs/heads/main/data.json");
         const data = await consulta.json();
         console.log(data);
 
         data.forEach((d)=>{
             lugar.innerHTML += `<div class="col mb-3">
+            <div class="bg-light shadow-sm p-3">
             <p>${d.name}</p>
+            <p class="small">Responsable: <a href="${d.responsable_repo}" target="_blank">${d.responsable_name} ${d.responsable_surname}</a></p>
             <img src="${d.foto}" class="w-100 mb-1" alt="${d.foto}">
             <object data="${d.asignaturas}" type="image/svg+xml" class="ancho">
             <br>
-            <small>${d.responsable}</small></div>`
+          </div>
+          </div>`
         })
 
     }
