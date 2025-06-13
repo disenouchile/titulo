@@ -1,106 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 39.6">
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 41.36">
   <defs>
     <style>
       .cls-1 {
-        letter-spacing: .02em;
-      }
-
-      .cls-2, .cls-3 {
-        fill: none;
-        stroke: #231f20;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-4 {
-        font-family: Bahnschrift, Bahnschrift;
-        font-variation-settings: 'wght' 400, 'wdth' 100;
-      }
-
-      .cls-4, .cls-5, .cls-6 {
-        fill: #231f20;
-      }
-
-      .cls-4, .cls-6 {
-        font-size: 2.5px;
-      }
-
-      .cls-7 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-8 {
-        letter-spacing: -.01em;
-      }
-
-      .cls-5 {
-        font-size: 2.2px;
-      }
-
-      .cls-5, .cls-6 {
-        font-family: ArialNarrow, Arial;
-      }
-
-      .cls-9 {
-        fill: #ec552e;
-      }
-
-      .cls-9, .cls-10, .cls-11, .cls-12 {
-        stroke-width: 0px;
-      }
-
-      .cls-10 {
-        fill: #f8bab2;
-      }
-
-      .cls-3 {
         stroke-width: 4px;
       }
 
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #221e20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #f6b9b2;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+        font-family: ArialMT, Arial;
+        font-size: 1.8px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-9 {
+        fill: #c1c1e0;
+      }
+
+      .cls-10 {
+        fill: #e95630;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #221e20;
+        font-family: Bahnschrift, Bahnschrift;
+        font-size: 2.5px;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
       .cls-11 {
-        fill: #c2c2e1;
+        letter-spacing: -.02em;
       }
 
       .cls-12 {
-        fill: #304b9f;
-      }
-
-      .cls-13 {
-        letter-spacing: 0em;
-      }
-
-      .cls-14 {
-        letter-spacing: 0em;
-      }
-
-      .cls-15 {
-        letter-spacing: -.01em;
+        fill: #324c9b;
       }
     </style>
   </defs>
-  <rect class="cls-11" x="33.2" y="10.84" width="31.26" height="5.58"/>
-  <rect class="cls-12" x="33.2" y="16.44" width="31.26" height="1.81"/>
-  <rect class="cls-10" x="33.2" y="21.56" width="31.26" height="5.62"/>
-  <rect class="cls-9" x="33.2" y="27.17" width="31.26" height="1.85"/>
-  <rect class="cls-9" x="67.77" y="27.17" width="28.34" height="1.85"/>
-  <line class="cls-2" y1="29.17" x2="100" y2="29.17"/>
-  <text class="cls-6" transform="translate(35.94 23.62)"><tspan x="0" y="0">Seminario de licenciatura I y </tspan><tspan x="0" y="3">II</tspan></text>
-  <rect class="cls-10" x=".66" y="10.74" width="31.26" height="5.71"/>
-  <text class="cls-6" transform="translate(3.3 12.63)"><tspan x="0" y="0">Introduccion a la </tspan><tspan x="0" y="3">investigación del diseño</tspan></text>
-  <text class="cls-4" transform="translate(5.72 33)"><tspan x="0" y="0">Ciclo básico </tspan><tspan x="0" y="3" xml:space="preserve">      I a </tspan><tspan class="cls-1" x="7.39" y="3">I</tspan><tspan x="8.13" y="3">V</tspan></text>
-  <text class="cls-4" transform="translate(38.08 32.7)"><tspan x="0" y="0">Ciclo especializado </tspan><tspan x="0" y="3" xml:space="preserve">           V a </tspan><tspan class="cls-14" x="11.53" y="3">V</tspan><tspan x="13.01" y="3">III</tspan></text>
-  <text class="cls-4" transform="translate(72.65 32.7)"><tspan x="0" y="0">Ciclo p</tspan><tspan class="cls-13" x="7.54" y="0">r</tspan><tspan x="8.58" y="0">o</tspan><tspan class="cls-15" x="9.94" y="0">f</tspan><tspan x="10.7" y="0">esional </tspan><tspan x="0" y="3" xml:space="preserve">         IX a X</tspan></text>
-  <text class="cls-6" transform="translate(35.25 12.81)"><tspan x="0" y="0">Electivo mencion V y M: </tspan><tspan x="0" y="3">Creatividad y diseño</tspan></text>
-  <rect class="cls-11" x="33.2" y=".31" width="31.26" height="7.53"/>
-  <rect class="cls-12" x="33.2" y="7.87" width="31.26" height="1.81"/>
-  <text class="cls-5" transform="translate(35.25 1.89)"><tspan x="0" y="0">Electivo mencion V y M: Enfoques </tspan><tspan x="0" y="2.64">investigativos en diseño, </tspan><tspan x="0" y="5.28">innovación y creatividad</tspan></text>
-  <rect class="cls-10" x=".75" y="21.56" width="31.26" height="5.28"/>
-  <rect class="cls-9" x=".75" y="26.84" width="31.26" height="1.79"/>
-  <text class="cls-6" transform="translate(2.73 25.28)"><tspan x="0" y="0">Diseño estetica y sociedad</tspan></text>
-  <rect class="cls-10" x="67.77" y="23.27" width="28.34" height="3.9"/>
-  <text class="cls-6" transform="translate(70.84 26.17)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-8" x="10.94" y="0"> </tspan><tspan class="cls-7" x="11.48" y="0">T</tspan><tspan x="12.68" y="0">itulo I y II</tspan></text>
-  <rect class="cls-9" x=".66" y="16.44" width="31.26" height="1.73"/>
-  <line class="cls-3" x1="12.83" y1="29.19" x2="12.83" y2="30.65"/>
-  <line class="cls-3" x1="48.83" y1="29.32" x2="48.83" y2="30.78"/>
-  <line class="cls-3" x1="82.87" y1="29.17" x2="82.87" y2="30.64"/>
+  <line class="cls-2" y1="25.94" x2="100" y2="25.94"/>
+  <g class="cls-5">
+    <text class="cls-7" transform="translate(9.82 30.24)"><tspan x="0" y="0">Ciclo básico </tspan></text>
+    <text class="cls-7" transform="translate(9.82 33.24)"><tspan x="0" y="0" xml:space="preserve">      I a </tspan></text>
+    <text class="cls-6" transform="translate(17.21 33.24)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-7" transform="translate(17.95 33.24)"><tspan x="0" y="0">V</tspan></text>
+  </g>
+  <g class="cls-5">
+    <text class="cls-7" transform="translate(37.22 29.98)"><tspan x="0" y="0">Ciclo especializado </tspan></text>
+    <text class="cls-7" transform="translate(37.22 32.98)"><tspan x="0" y="0" xml:space="preserve">           V a </tspan></text>
+    <text class="cls-7" transform="translate(48.75 32.98)"><tspan x="0" y="0">V</tspan></text>
+    <text class="cls-7" transform="translate(50.23 32.98)"><tspan x="0" y="0">III</tspan></text>
+  </g>
+  <g class="cls-5">
+    <text class="cls-7" transform="translate(73.15 29.98)"><tspan x="0" y="0">Ciclo p</tspan></text>
+    <text class="cls-7" transform="translate(80.69 29.98)"><tspan x="0" y="0">r</tspan></text>
+    <text class="cls-7" transform="translate(81.73 29.98)"><tspan x="0" y="0">o</tspan></text>
+    <text class="cls-8" transform="translate(83.09 29.98)"><tspan x="0" y="0">f</tspan></text>
+    <text class="cls-7" transform="translate(83.85 29.98)"><tspan x="0" y="0">esional </tspan></text>
+    <text class="cls-7" transform="translate(73.15 32.98)"><tspan x="0" y="0" xml:space="preserve">         IX a X</tspan></text>
+  </g>
+  <line class="cls-1" x1="16.31" y1="26.47" x2="16.31" y2="27.93"/>
+  <line class="cls-1" x1="48.3" y1="26.43" x2="48.3" y2="27.89"/>
+  <line class="cls-1" x1="83.37" y1="26.45" x2="83.37" y2="27.92"/>
+  <rect class="cls-9" x="35.19" width="28.68" height="6.61"/>
+  <rect class="cls-12" x="35.2" y="6.61" width="28.67" height="2.43"/>
+  <rect class="cls-3" x="4.88" y="10.19" width="24.19" height="5.21"/>
+  <rect class="cls-10" x="4.88" y="15.36" width="24.19" height="1.87"/>
+  <rect class="cls-3" x="35.19" y="18.79" width="28.68" height="4.98"/>
+  <rect class="cls-10" x="35.19" y="23.56" width="28.68" height="1.84"/>
+  <rect class="cls-3" x="68.64" y="18.79" width="28.68" height="4.98"/>
+  <rect class="cls-10" x="68.64" y="23.56" width="28.68" height="1.84"/>
+  <rect class="cls-3" x="4.79" y="18.62" width="24.27" height="4.99"/>
+  <rect class="cls-10" x="4.79" y="23.56" width="24.27" height="1.85"/>
+  <text class="cls-4" transform="translate(5.57 22.05)"><tspan x="0" y="0">Diseño, Estética y Sociedad </tspan></text>
+  <text class="cls-4" transform="translate(6.02 12.52)"><tspan x="0" y="0">Introducción a la </tspan><tspan x="0" y="2">investigación del diseño</tspan></text>
+  <text class="cls-4" transform="translate(37.51 22.05)"><tspan x="0" y="0">Seminario de licenciatura I y II</tspan></text>
+  <rect class="cls-9" x="35.2" y="10.3" width="28.63" height="5"/>
+  <rect class="cls-12" x="35.19" y="15.25" width="28.66" height="1.98"/>
+  <text class="cls-4" transform="translate(39.16 12.32) scale(1.02 1)"><tspan x="0" y="0">Electivo mención V y M: </tspan><tspan x="0" y="2">Creatividad y diseño</tspan></text>
+  <text class="cls-4" transform="translate(35.87 1.8)"><tspan x="0" y="0">Electivo mención V y M: Enfoques </tspan><tspan x="0" y="2">investigativos del diseño, </tspan><tspan x="0" y="4">innovación y creatividad</tspan></text>
+  <text class="cls-4" transform="translate(74.35 22.02)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-11" x="9.61" y="0"> </tspan><tspan x="10.07" y="0">Título I y II</tspan></text>
 </svg>

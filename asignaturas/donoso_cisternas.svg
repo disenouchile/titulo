@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 30.4">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #f1cbbd;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-5 {
+        opacity: .25;
+      }
+
+      .cls-3 {
+        fill: #dfdfdf;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #595959;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #e08f71;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        font-family: ArialMT, Arial;
+        font-size: 2px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="7.3" y="22.58" width="88.1" height="1.3" rx=".5" ry=".5"/>
+  <path class="cls-3" d="m20.9,23.88h1.1v.7c0,.2-.2.4-.4.4h-.2c-.2,0-.4-.2-.4-.4v-.7h-.1Z"/>
+  <path class="cls-3" d="m51.9,23.88v.6c0,.3-.2.6-.6.6h0c-.3,0-.6-.2-.6-.6v-.6"/>
+  <path class="cls-3" d="m84.4,23.88v.6c0,.3-.2.6-.6.6h0c-.3,0-.6-.2-.6-.6v-.6"/>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <rect class="cls-5" x="37.25" y="16.98" width="28.1" height="5.2" rx=".5" ry=".5"/>
+    <rect class="cls-6" x="37.25" y="21.18" width="28.1" height="1.4" rx=".5" ry=".5"/>
+    <rect class="cls-2" x="68.53" y="16.98" width="28.1" height="5.2" rx=".5" ry=".5"/>
+    <rect class="cls-1" x="68.53" y="21.18" width="28.1" height="1.4" rx=".5" ry=".5"/>
+  </g>
+  <text class="cls-9" transform="translate(16.06 26.74)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="3.06" y="2.4">I a IV</tspan></text>
+  <text class="cls-9" transform="translate(42.74 26.74)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="5.28" y="2.4">V a VIII</tspan></text>
+  <text class="cls-9" transform="translate(76.41 26.74)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="4.17" y="2.4">IXv a X</tspan></text>
+  <text class="cls-9" transform="translate(46.41 20.11)"><tspan x="0" y="0">Proyecto V</tspan></text>
+  <rect class="cls-5" x="37.25" y="11.78" width="28.1" height="5.2" rx=".5" ry=".5"/>
+  <text class="cls-9" transform="translate(39.74 13.71)"><tspan x="0" y="0">Métodos de investigación </tspan><tspan x="6.62" y="2.4">cualitativos</tspan></text>
+  <rect class="cls-5" x="37.25" y="6.58" width="28.1" height="5.2" rx=".5" ry=".5"/>
+  <text class="cls-9" transform="translate(38.9 9.71)"><tspan x="0" y="0">Seminario de Licenciatura II</tspan></text>
+  <rect class="cls-5" x="37.25" y="1.38" width="28.1" height="5.2" rx=".5" ry=".5"/>
+  <text class="cls-9" transform="translate(39.18 4.51)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
+  <text class="cls-9" transform="translate(73.74 20.11)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-8" x="10.67" y="0"> </tspan><tspan class="cls-10" x="11.19" y="0">T</tspan><tspan x="12.34" y="0">itulo II</tspan></text>
+  <rect class="cls-2" x="68.53" y="11.78" width="28.1" height="5.2" rx=".5" ry=".5"/>
+  <text class="cls-9" transform="translate(74.02 14.91)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-8" x="10.67" y="0"> </tspan><tspan class="cls-10" x="11.19" y="0">T</tspan><tspan class="cls-7" x="12.34" y="0">itulo I</tspan></text>
+</svg>

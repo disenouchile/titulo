@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 25" style="enable-background:new 0 0 100 25;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st2{fill:#FCCBBA;}
 	.st3{fill:#FE5420;}
-	.st4{fill:#DBCCFF;}
-	.st5{fill:#4725A5;}
-	.st6{fill:none;}
-	.st7{font-family:'Helvetica';}
-	.st8{font-size:2px;}
-	.st9{font-size:1.3px;}
+	.st4{fill:none;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:2px;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:1.3px;}
+	.st9{font-family:'ArialNarrow';}
 </style>
 <g>
-	<line class="st0" x1="4.01" y1="16.26" x2="95.99" y2="16.26"/>
-	<line class="st1" x1="22.14" y1="18.01" x2="22.14" y2="16.26"/>
-	<line class="st1" x1="50" y1="18.01" x2="50" y2="16.26"/>
-	<line class="st1" x1="77.86" y1="18.01" x2="77.86" y2="16.26"/>
+	<line class="st0" x1="4" y1="15.26" x2="95.98" y2="15.26"/>
+	<line class="st1" x1="22.13" y1="17.01" x2="22.13" y2="15.26"/>
+	<line class="st1" x1="49.99" y1="17.01" x2="49.99" y2="15.26"/>
+	<line class="st1" x1="77.85" y1="17.01" x2="77.85" y2="15.26"/>
 </g>
-<rect x="11.7" y="11.51" class="st2" width="21" height="4.5"/>
-<rect x="11.7" y="15.21" class="st3" width="21" height="0.8"/>
-<rect x="13.33" y="19.49" class="st6" width="17.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 16.703 21.2018)"><tspan x="0" y="0" class="st7 st8">Ciclo Básico</tspan><tspan x="3.17" y="2.4" class="st7 st8">I a IV</tspan></text>
-<rect x="38.69" y="19.49" class="st6" width="22.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 41.3916 21.2018)"><tspan x="0" y="0" class="st7 st8">Ciclo Especializado</tspan><tspan x="5.39" y="2.4" class="st7 st8">V a VIII</tspan></text>
-<rect x="69.17" y="19.49" class="st6" width="17.5" height="4.75"/>
-<text transform="matrix(1 0 0 1 70.4167 21.2018)"><tspan x="0" y="0" class="st7 st8">Ciclo Profesional</tspan><tspan x="4.78" y="2.4" class="st7 st8">IX a X</tspan></text>
-<rect x="11.7" y="4.86" class="st2" width="21" height="5.9"/>
-<rect x="11.7" y="9.99" class="st3" width="21" height="0.8"/>
-<text transform="matrix(1 0 0 1 13.1359 12.6375)" class="st7 st9">Gestión del proyecto de Diseño</text>
-<rect x="14.45" y="5.24" class="st6" width="15.5" height="4.75"/>
-<text transform="matrix(1 0 0 1 17.0385 6.3554)"><tspan x="0" y="0" class="st7 st9">Comunicación del </tspan><tspan x="-0.51" y="1.56" class="st7 st9">Proyecto de Diseño</tspan></text>
-<rect x="18.7" y="8.47" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 19.0255 9.5899)" class="st7 st9">AUD30003</text>
-<rect x="18.7" y="13.76" class="st6" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 19.3868 14.8803)" class="st7 st9">AUD4004</text>
+<g>
+	<rect x="11.69" y="10.51" class="st2" width="21" height="4.5"/>
+	<rect x="11.69" y="14.21" class="st3" width="21" height="0.8"/>
+</g>
+<rect x="13.32" y="18.49" class="st4" width="17.75" height="4.75"/>
+<text transform="matrix(1 0 0 1 16.3372 20.2098)" class="st5 st6">Ciclo Básico</text>
+<text transform="matrix(1 0 0 1 19.8772 22.6098)" class="st5 st6">I a IV</text>
+<rect x="38.68" y="18.49" class="st4" width="22.75" height="4.75"/>
+<text transform="matrix(1 0 0 1 40.8021 20.2098)" class="st5 st6">Ciclo Especializado</text>
+<text transform="matrix(1 0 0 1 46.7421 22.6098)" class="st5 st6">V a VIII</text>
+<rect x="69.16" y="18.49" class="st4" width="17.5" height="4.75"/>
+<text transform="matrix(1 0 0 1 69.8326 20.2098)" class="st5 st6">Ciclo Profesional</text>
+<text transform="matrix(1 0 0 1 75.1526 22.6098)" class="st5 st6">IX a X</text>
+<g>
+	<rect x="11.69" y="3.86" class="st2" width="21" height="5.9"/>
+	<rect x="11.69" y="8.99" class="st3" width="21" height="0.8"/>
+</g>
+<text transform="matrix(1 0 0 1 13.1204 12.1124)" class="st7 st8">Gestión del proyecto de Diseño</text>
+<rect x="14.49" y="4.24" class="st4" width="15.5" height="4.75"/>
+<text transform="matrix(1 0 0 1 17.3477 5.326)" class="st7 st8">Comunicación del </text>
+<text transform="matrix(1 0 0 1 16.1612 6.886)" class="st7 st8">  Proyecto de Diseño</text>
+<rect x="18.74" y="7.47" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 19.5887 8.5939)" class="st9 st8">AUD30003</text>
+<rect x="18.74" y="12.76" class="st4" width="7" height="1.92"/>
+<text transform="matrix(1 0 0 1 19.8796 13.8844)" class="st9 st8">AUD4004</text>
 </svg>
