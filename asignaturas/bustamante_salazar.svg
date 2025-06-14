@@ -1,26 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20">
-  <rect x="77.09" y="9.16" width="16.46" height="2.84" fill="#ffd7cd" stroke-width="0"/>
-  <rect x="40.98" y="9.67" width="17.11" height="2.33" fill="#ffd7cd" stroke-width="0"/>
-  <text transform="translate(8.42 16.61)" fill="#301b82" font-family="Bahnschrift, Bahnschrift" font-size="1.37" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="2.22" y="1.73">I a IV</tspan></text>
-  <text transform="translate(43.8 16.6)" fill="#301b82" font-family="Bahnschrift, Bahnschrift" font-size="1.37" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="3.8" y="1.73">V a VIII</tspan></text>
-  <text transform="translate(80.33 16.6)" fill="#301b82" font-family="Bahnschrift, Bahnschrift" font-size="1.37" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Ciclo p</tspan><tspan x="3.98" y="0" letter-spacing="-.01em">r</tspan><tspan x="4.55" y="0">o</tspan><tspan x="5.3" y="0" letter-spacing="-.01em">f</tspan><tspan x="5.71" y="0">esional</tspan><tspan x="3.5" y="1.73">IX a X</tspan></text>
-  <text transform="translate(41.71 11.38)" fill="#000" font-family="Bahnschrift-Light, Bahnschrift" font-size="1.01" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
-  <text transform="translate(77.82 10.87)" fill="#000" font-family="Bahnschrift-Light, Bahnschrift" font-size="1.01" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0" letter-spacing="-.02em">P</tspan><tspan x=".6" y="0" letter-spacing="0em">roy</tspan><tspan x="2.04" y="0">ecto de título I y II</tspan></text>
-  <rect x="5.29" y="9.16" width="13.44" height="2.84" fill="#ffd7cd" stroke-width="0"/>
-  <text transform="translate(5.76 10.45)" fill="#000" font-family="Bahnschrift-Light, Bahnschrift" font-size="1.01" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0">Diseñ</tspan><tspan x="2.54" y="0" letter-spacing="-.02em">o</tspan><tspan x="3.07" y="0">, estética y sociedad</tspan></text>
-  <rect x="40.98" y="5.29" width="17.11" height="3.16" fill="#dacaff" stroke-width="0"/>
-  <text transform="translate(41.73 6.55)" fill="#000" font-family="Bahnschrift-Light, Bahnschrift" font-size="1.01" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0">Electi</tspan><tspan x="2.51" y="0" letter-spacing="0em">v</tspan><tspan x="3.01" y="0">o </tspan><tspan x="3.73" y="0" letter-spacing="-.04em">T</tspan><tspan x="4.17" y="0" letter-spacing="0em">r</tspan><tspan x="4.59" y="0">oncal mención </tspan><tspan x="11.2" y="0" letter-spacing="-.03em">V</tspan><tspan x="11.77" y="0">yM: </tspan><tspan x="0" y="1.22">Diseño en Visualización de In</tspan><tspan x="12.7" y="1.22" letter-spacing="-.01em">f</tspan><tspan x="13" y="1.22">o</tspan></text>
-  <rect x="40.98" y="1.04" width="17.11" height="2.96" fill="#ffd7cd" stroke-width="0"/>
-  <text transform="translate(41.55 2.37)" fill="#000" font-family="Bahnschrift-Light, Bahnschrift" font-size="1.01" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0">Métodos de I</tspan><tspan x="5.52" y="0" letter-spacing="-.01em">nv</tspan><tspan x="6.56" y="0">estigación </tspan><tspan x="0" y="1.22">Cualitati</tspan><tspan x="3.71" y="1.22" letter-spacing="0em">v</tspan><tspan x="4.2" y="1.22">os</tspan></text>
-  <g>
-    <text transform="translate(4.89 2.88)" fill="#301b82" font-family="Bahnschrift, Bahnschrift" font-size=".91" font-variation-settings="&apos;wght&apos; 400, &apos;wdth&apos; 100"><tspan x="0" y="0">Asignaturas impartidas</tspan></text>
-    <text transform="translate(4.85 4.18)" fill="#301b82" font-family="Bahnschrift-Light, Bahnschrift" font-size=".81" font-variation-settings="&apos;wght&apos; 300, &apos;wdth&apos; 100" font-weight="300"><tspan x="0" y="0">Durante los ciclos de la car</tspan><tspan x="9.53" y="0" letter-spacing="0em">r</tspan><tspan x="9.87" y="0">era</tspan></text>
-  </g>
-  <line x1="2.63" y1="13.81" x2="97.69" y2="13.81" fill="#301b82" stroke="#301b82" stroke-miterlimit="10"/>
-  <line x1="5.29" y1="12" x2="18.74" y2="12" fill="#ffd7cd" stroke="#ff5509" stroke-miterlimit="10"/>
-  <line x1="40.98" y1="12" x2="58.09" y2="12" fill="#ffd7cd" stroke="#ff5509" stroke-miterlimit="10"/>
-  <line x1="40.98" y1="8.45" x2="58.09" y2="8.45" fill="#ffd7cd" stroke="#471ba7" stroke-miterlimit="10"/>
-  <line x1="40.98" y1="4" x2="58.09" y2="4" fill="#ffd7cd" stroke="#ff5509" stroke-miterlimit="10"/>
-  <line x1="77.09" y1="12" x2="93.56" y2="12" fill="#ffd7cd" stroke="#ff5509" stroke-miterlimit="10"/>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-size: 1.01px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #ffd7cd;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        stroke: #471ba7;
+      }
+
+      .cls-4, .cls-7, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 1.37px;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #301b82;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        stroke: #301b82;
+      }
+
+      .cls-5 {
+        stroke: #ff5509;
+      }
+
+      .cls-6 {
+        fill: #dacaff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="77.09" y="9.16" width="16.46" height="2.84"/>
+  <rect class="cls-3" x="40.98" y="9.67" width="17.11" height="2.33"/>
+  <text class="cls-2" transform="translate(8.34 16.62)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="2.09" y="1.73">I a IV</tspan></text>
+  <text class="cls-2" transform="translate(43.71 16.6)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="3.61" y="1.73">V a VIII</tspan></text>
+  <text class="cls-2" transform="translate(80.34 16.6)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="3.19" y="1.73">IX a X</tspan></text>
+  <text class="cls-1" transform="translate(41.71 11.38)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
+  <text class="cls-1" transform="translate(77.82 10.88)"><tspan x="0" y="0">Proyecto de título I y II</tspan></text>
+  <rect class="cls-3" x="5.29" y="9.16" width="13.44" height="2.84"/>
+  <text class="cls-1" transform="translate(5.76 10.46)"><tspan x="0" y="0">Diseño, estética y sociedad</tspan></text>
+  <rect class="cls-6" x="40.98" y="5.29" width="17.11" height="3.16"/>
+  <text class="cls-1" transform="translate(41.73 6.56)"><tspan x="0" y="0">Electivo</tspan><tspan class="cls-8" x="3.52" y="0"> </tspan><tspan class="cls-9" x="3.78" y="0">T</tspan><tspan x="4.36" y="0">roncal mención </tspan><tspan class="cls-9" x="11.46" y="0">V</tspan><tspan x="12.1" y="0">yM: </tspan><tspan x="0" y="1.22">Diseño en </tspan><tspan class="cls-8" x="4.81" y="1.22">V</tspan><tspan x="5.46" y="1.22">isualización de Info</tspan></text>
+  <rect class="cls-3" x="40.98" width="17.11" height="4"/>
+  <text class="cls-1" transform="translate(41.55 1.38)"><tspan x="0" y="0">Métodos de Investigación </tspan><tspan x="0" y="1.22">Cualitativos</tspan></text>
+  <line class="cls-7" x1="2.63" y1="13.81" x2="97.69" y2="13.81"/>
+  <line class="cls-5" x1="5.29" y1="12" x2="18.74" y2="12"/>
+  <line class="cls-5" x1="40.98" y1="12" x2="58.09" y2="12"/>
+  <line class="cls-4" x1="40.98" y1="8.45" x2="58.09" y2="8.45"/>
+  <line class="cls-5" x1="40.98" y1="4" x2="58.09" y2="4"/>
+  <line class="cls-5" x1="77.09" y1="12" x2="93.56" y2="12"/>
 </svg>
