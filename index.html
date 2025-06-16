@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Proyectos de Título</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous" />
+        <link href="css/style.css" rel="stylesheet"/>
+        <style>
+            figure {
+                margin: 0.6rem -1.2rem;
+            }
+        </style>
+
+    </head>
+    <body>
+        <nav class="fixed-top bg-light py-3 shadow-sm">
+            <div class="d-flex justify-content-around align-items-center">
+                <a href="index.html" class="link-dark">Resumen <span>de Proyectos de Título</span></a>
+                <a href="profes.html" class="link-secondary"><span>Proyectos por </span>Profesor(a) Guía</a>
+                <a href="titulos.html" class="link-secondary"><span>Proyectos por </span>Título Profesional</a>
+                <a href="semestres.html" class="link-secondary"><span>Proyectos por </span>Semestre</a>
+            </div>
+        </nav>
+        <div class="container mt-5 pt-5">
+            <div class="row">
+                <div class="col-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                    <header>
+                        <h1 class="display-6">Resumen de Proyectos de Título</h1>
+                        <p>Estas páginas ofrecen información de los Proyectos de Título ya aprobados en el actual programa de pregrado en <em>Diseño de la Universidad de Chile</em>, programa vigente desde el año 2019.</p>
+                        <p>Se trata de <em>207 proyectos aprobados</em> que se agrupan por <a href="profes.html">Profesor(a) Guía</a>, <a href="titulos.html">Título Profesional</a> y <a href="semestres.html">Semestre</a>.</p>
+                        <p>A continuación, en esta página, se ofrecen visualizaciones que informan de la situación general sobre los Proyectos de Título de Diseño en la Universidad de Chile.</p>
+                    </header>
+                    <main>
+                        <article>
+                            <h2 class="fs-4">Comparación entre aprobados(as) y reprobados(as) por semestre</h2>
+                            <figure>
+                                <object data="viz/multiset_bar_chart.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>
+                                La asignatura de Proyecto de Título II se imparte desde el segundo semestre del año 2021. Cada semestre la cantidad de
+                                <em><small style="background: #9b9b9b;">&nbsp;&nbsp;&nbsp;&nbsp;</small> reprobados(as)</em> es importante, pero desde el segundo semestre del año 2023 esa cantidad es menor que la suma de quienes aprueban la
+                                asignatura para obtener su Título Profesional de <em><small style="background: #00c3ff;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a)</em>,
+                                <em><small style="background: #189af6;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención en Visualidad y Medios</em>, y
+                                <em><small style="background: #125389;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención Industrial y Servicios</em>.
+                            </p>
+                            <p>Se cuentan como reprobados(as) a quienes, habiendo inscrito Proyecto de Título II, no hacen la entrega final correspondiente a la asignatura o la hacen para después reprobar el examen de título.</p>
+                        </article>
+                        <article>
+                            <h2 class="fs-4 mt-5">Proyectos de título aprobados y guías</h2>
+                            <figure>
+                                <object data="viz/alluvial_diagram_1.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>
+                                La guía de 207 proyectos aprobados, conducentes al título profesional universitario de <small style="background: #00c3ff;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador(a)</em>,
+                                <small style="background: #125389;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador(a) con mención Industrial y Servicios</em> y <small style="background: #189af6;">&nbsp;&nbsp;&nbsp;&nbsp;</small>
+                                <em>Diseñador(a) con mención en Visualidad y Medios</em>, se distribuye entre 38 Profesores(as) Guía.
+                            </p>
+                            <p>El asterisco a la derecha de 9 nombres es para indicar que, al año 2025, tal Profesor(a) Guía <em>no</em> continúa en el rol.</p>
+                        </article>
+                        <article>
+                            <h2 class="fs-4 mt-5">Proyectos de título aprobados, calificaciones finales de examen y guías</h2>
+                            <figure>
+                                <object data="viz/alluvial_diagram_2.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>
+                                Por reglamento, el examen de título se aprueba cuando el <em>promedio de las calificaciones otorgadas por los diferentes miembros de la comisión examinadora</em> es igual o superior a 4,0 (cuatro coma cero).
+                            </p>
+                        </article>
+                        <article>
+                            <h2 class="fs-4 mt-5">Distribución y rangos de calificaciones finales de examen</h2>
+                            <figure>
+                                <object data="viz/box_plot_1.svg" type="image/svg+xml"></object>
+                            </figure>
+                            <p>
+                                No hay <small style="background: #189af6;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador con mención en Visualidad y Medios</em> ni <small style="background: #125389;">&nbsp;&nbsp;&nbsp;&nbsp;</small>
+                                <em>Diseñador con mención Industrial y Servicios</em> que haya alcanzado la calificación máxima (7,0) en su examen de título. En el examen de
+                                <small style="background: #00c3ff;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador</em> si se ha alcanzado tal calificación. También se ha alcanzado en los exámenes de las
+                                <em>Diseñadoras, con o sin mención</em>.
+                            </p>
+                            <p>
+                                Antes de analizar distribución y rangos conviene considerar los siguientes números: Se han titulado 9 Diseñadores, 11 Diseñadores con mención Industrial y Servicios y 19 Diseñadores con mención en Visualidad
+                                y Medios y medios, contra 15 Diseñadoras, 70 Diseñadoras con mención Industrial y Servicios, y 83 Diseñadoras con mención en Visualidad y Medios. Siendo que el 81,6% de las calificaciones finales de exámenes
+                                aprobados le corresponde a ellas, se justifican sus cajas más amplias y la falta de puntos de datos únicos o atípicos.
+                            </p>
+                            <p><em>Sin diferenciar entre ellas y ellos</em>:</p>
+                            <figure>
+                                <object data="viz/box_plot_2.svg" type="image/svg+xml"></object>
+                            </figure>
+                        </article>
+                        <article>
+                            <h2 class="fs-4 mt-5">Relación entre calificaciones finales de Proyecto de Título I y II</h2>
+                            <p>
+                                <small>
+                                    <input type="radio" name="show" value="all" onchange="mostrador(this.value)" checked />Todo <input type="radio" name="show" value="sm" onchange="mostrador(this.value)" /> Diseñador(a)
+                                    <input type="radio" name="show" value="vm" onchange="mostrador(this.value)" /> Diseñador(a) con mención en Visualidad y Medios
+                                    <input type="radio" name="show" value="is" onchange="mostrador(this.value)" /> Diseñador(a) con mención Industrial y Servicios
+                                </small>
+                            </p>
+                            <figure>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 65" id="slope">
+                                    <style>
+                                        line {
+                                            stroke-width: 0.3;
+                                        }
+                                        .sm {
+                                            stroke: #00c3ff;
+                                        }
+                                        .vm {
+                                            stroke: #189af6;
+                                        }
+                                        .is {
+                                            stroke: #125389;
+                                        }
+                                        .hide {
+                                            display: none;
+                                        }
+                                    </style>
+                                    <g>
+                                        <circle cx="5" cy="2.5" r=".5" fill="silver" />
+                                        <line x1="5" y1="2.5" x2="5" y2="62.5" stroke="silver" />
+                                        <circle cx="5" cy="62.5" r=".5" fill="silver" />
+                                    </g>
+                                    <g>
+                                        <circle cx="160" cy="2.5" r=".5" fill="silver" />
+                                        <line x1="160" y1="2.5" x2="160" y2="62.5" stroke="silver" />
+                                        <circle cx="160" cy="62.5" r=".5" fill="silver" />
+                                    </g>
+                                    <!--aquí se agregarán grupos gracias a JavaScript-->
+                                </svg>
+                            </figure>
+                            <p>
+                                <em>A la izquierda está la calificación final de Proyecto de Título I calculada por cada Profesor(a) Guía</em>; si bien existe una comisión que revisa un informe de avance en la primera parte del Proyecto de
+                                Título, esta se limita a evaluar y respaldar a cada Profesor(a) Guía en la aprobación o reprobación del mismo informe, sin indicar calificación.
+                            </p>
+                            <p>
+                                <em>A la derecha está la calificación final de Proyecto de Título II, que es responsabilidad de la comisión examinadora</em>; en esta comisión cada Profesor(a) Guía participa como informante del proceso
+                                llevado a cabo por el (la) estudiante, y puede formular preguntas, pero en ningún caso puede calificar.
+                            </p>
+                        </article>
+                    </main>
+                    <footer class="border-top my-5 pt-2">
+                        <p class="text-center text-body-tertiary">
+                            <small>
+                                Este sitio web, desarrollado por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.u-cursos.cl/fau/2025/1/AUD5V027/1/integrantes/" class="link-dark link-opacity-50 link-opacity-75-hover">Diseño y Visualización de información</a>, es publicado bajo licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" class="link-dark link-opacity-50 link-opacity-75-hover">CC BY-NC 4.0</a>
+                            </small>
+                        </p>
+                    </footer>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const notas = document.querySelector("#slope");
+
+            function clase(dato) {
+                let esto;
+                if (dato == "Diseño") {
+                    esto = 'class="sm hide"';
+                } else if (dato == "Diseño con mención en Visualidad y Medios") {
+                    esto = 'class="vm hide"';
+                } else {
+                    esto = 'class="is hide"';
+                }
+                return esto;
+            }
+
+            function mostrador(dato) {
+                if (dato == "all") {
+                    document.querySelectorAll(".sm").forEach((x) => x.classList.remove("hide"));
+                    document.querySelectorAll(".vm").forEach((x) => x.classList.remove("hide"));
+                    document.querySelectorAll(".is").forEach((x) => x.classList.remove("hide"));
+                } else if (dato == "sm") {
+                    document.querySelectorAll(".sm").forEach((x) => x.classList.remove("hide"));
+                    document.querySelectorAll(".vm").forEach((x) => x.classList.add("hide"));
+                    document.querySelectorAll(".is").forEach((x) => x.classList.add("hide"));
+                } else if (dato == "vm") {
+                    document.querySelectorAll(".sm").forEach((x) => x.classList.add("hide"));
+                    document.querySelectorAll(".vm").forEach((x) => x.classList.remove("hide"));
+                    document.querySelectorAll(".is").forEach((x) => x.classList.add("hide"));
+                } else {
+                    document.querySelectorAll(".sm").forEach((x) => x.classList.add("hide"));
+                    document.querySelectorAll(".vm").forEach((x) => x.classList.add("hide"));
+                    document.querySelectorAll(".is").forEach((x) => x.classList.remove("hide"));
+                }
+            }
+
+            async function datos() {
+                const consulta = await fetch("https://api.myjson.online/v1/records/37160c1e-48e9-4c12-b2c6-41b5165f72f9");
+                const data = await consulta.json();
+                data.data.forEach((d, i) => {
+                    notas.innerHTML += `
+                        <g>
+                            <text x="0.5" y="${140 - d.nota_anteproyecto * 20 + 2.5}" font-size="2" dominant-baseline="middle">${d.nota_anteproyecto.toFixed(1).replace(".", ",")}</text>
+                            <circle cx="5" cy="${140 - d.nota_anteproyecto * 20 + 2.5}" r=".5" fill="var(--gris)"/>
+                            <line x1="5" y1="${140 - d.nota_anteproyecto * 20 + 2.5}" x2="160" y2="${140 - d.nota_proyecto * 20 + 2.5}" ${clase(d.titulo_profesional_neutro)}/>
+                            <circle cx="160" cy="${140 - d.nota_proyecto * 20 + 2.5}" r=".5" fill="var(--gris)"/>
+                            <text x="161.25" y="${140 - d.nota_proyecto * 20 + 2.5}" font-size="2" dominant-baseline="middle">${d.nota_proyecto.toFixed(1).replace(".", ",")}</text>
+                        </g>`;
+                });
+                mostrador("all");
+            }
+            datos().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>
