@@ -1,6 +1,7 @@
 const identidadAqui = document.querySelector("#identidad");
 const asignaturasAqui = document.querySelector("#asignaturas");
 const dialogoAqui = document.querySelector("#dialogo");
+const detallesAqui = document.querySelector("#detalles");
 const resultadosAqui = document.querySelector("#resultados");
 const afinesAqui = document.querySelector("#afines");
 
@@ -76,6 +77,8 @@ async function datos(criterio) {
 
     dialogoAqui.innerHTML = `<h2 class="fs-4 my-3">Conversemos</h2>${dialogante(profeSeleccion.dialogo)}`;
 
+    detallesAqui.innerHTML = `<div class="col-md-6"><dl><dt>Áreas FAU</dt>${areas(profeSeleccion.areas.toString())}</dl></div><div class="col-md-3"><dl><dt>Líneas DdD</dt>${lineas(profeSeleccion.lineas.toString())}</dl></div><div class="col-md-3"><dl><dt>Énfasis en Título</dt>${enfasis(profeSeleccion.enfasis.toString())}</dl></div>`
+
     profeOtres.forEach((a)=>{
         afinesAqui.innerHTML += `<div class="col-4"><a href="profes.html?data=${a.name}"><img src="${a.foto}" class="w-100"> <p>${a.name}</p></a></div>`
     })
@@ -96,13 +99,13 @@ async function datos(criterio) {
 
         resultadosAqui.innerHTML = `<h2 class="fs-4 mt-4">Resultados en Examen de Título*</h2>
                 <p class="lead" id="resumen"></p>
-                <table class="table">
+                <table class="table small">
                     <thead>
                         <th>Egresado/a</th>
                         <th>Título</th>
-                        <th>Semestre</th>
+                        <th class="text-center">Semestre</th>
                         <th>Proyecto</th>
-                        <th>Nota</th>
+                        <th class="text-center">Nota</th>
                     </thead>
                     <tbody></tbody>
                 </table>
@@ -123,11 +126,11 @@ async function datos(criterio) {
         seleccion.forEach((s, i) => {
             if (s.repositorio_academico) {
                 document.querySelector("tbody").innerHTML += `
-                    <tr><td>${s.nombre}</td><td>${s.titulo_profesional}</td><td>${s.semestre_examen}</td><td><a href="${s.repositorio_academico}" target="_blank">${s.proyecto}</a></td><td class="text-center">${s.nota_proyecto.toFixed(
+                    <tr><td>${s.nombre}</td><td>${s.titulo_profesional}</td><td class="text-center">${s.semestre_examen}</td><td><a href="${s.repositorio_academico}" target="_blank">${s.proyecto}</a></td><td class="text-center">${s.nota_proyecto.toFixed(
                     1
                 )}</td></tr>`;
             } else {
-                document.querySelector("tbody").innerHTML += `<tr><td>${s.nombre}</td><td>${s.titulo_profesional}</td><td>${s.semestre_examen}</td><td>${s.proyecto}</td><td class="text-center">${s.nota_proyecto.toFixed(1)}</td></tr>`;
+                document.querySelector("tbody").innerHTML += `<tr><td>${s.nombre}</td><td>${s.titulo_profesional}</td><td class="text-center">${s.semestre_examen}</td><td>${s.proyecto}</td><td class="text-center">${s.nota_proyecto.toFixed(1)}</td></tr>`;
             }
             notas.push(s.nota_proyecto);
             notasPrevias.push(s.nota_anteproyecto);
@@ -192,6 +195,7 @@ document.querySelectorAll("select")[0].addEventListener("change", (event) => {
     identidadAqui.innerHTML = " ";
     asignaturasAqui.innerHTML = " ";
     dialogoAqui.innerHTML = "";
+    detallesAqui.innerHTML = "";
     resultadosAqui.innerHTML = "";
     afinesAqui.innerHTML = "";
     console.clear();
@@ -242,4 +246,70 @@ function dialogante(array) {
         }
     }
     return coso;
+}
+
+function areas(data) {
+    var susAreas = "";
+    if (data.includes("1")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 1. SISTEMAS FÍSICOS, NATURALES Y CAMBIOS AMBIENTALES</dd>";
+    }
+    if (data.includes("2")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 2. DIMENSIONES SOCIOECOLÓGICAS EN EL TERRITORIO</dd>";
+    }
+    if (data.includes("3")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 3. ASENTAMIENTOS, MOVILIDADES Y ORGÁNICAS COMUNITARIAS</dd>";
+    }
+    if (data.includes("4")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 4. DINÁMICAS Y TRANSFORMACIONES MORFOLÓGICAS, URBANAS Y RURALES</dd>";
+    }
+    if (data.includes("5")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 5. CREACIÓN, INNOVACIÓN PROYECTUAL Y DESARROLLOS TECNOLÓGICOS</dd>";
+    }
+    if (data.includes("6")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 6. CONSERVACIÓN E INTERVENCIÓN DE OBRAS, ENTORNOS Y CIUDADES PATRIMONIALES</dd>";
+    }
+    if (data.includes("7")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 7. CULTURAS VISUALES, MATERIALES-INMATERIALES Y MEDIALES</dd>";
+    }
+    if (data.includes("8")) {
+        susAreas += "<dd>ÁREA PRIOTARIA 8. FENÓMENOS SENSIBLES, PERCEPTUALES Y CORPORALES EN EL ENTORNO</dd>";
+    }
+    return susAreas;
+}
+
+function lineas(data) {
+    var susLineas = "";
+    if (data.includes("1")) {
+        susLineas += "<dd>Diseño centrado en la persona</dd>";
+    }
+    if (data.includes("2")) {
+        susLineas += "<dd>Materiales, Tecnologías y Procesos</dd>";
+    }
+    if (data.includes("3")) {
+        susLineas += "<dd>Morfología, Percepción y Color</dd>";
+    }
+    if (data.includes("4")) {
+        susLineas += "<dd>Identidad y Patrimonio</dd>";
+    }
+    if (data.includes("5")) {
+        susLineas += "<dd>Estudios Visuales y Mediales</dd>";
+    }
+    if (data.includes("6")) {
+        susLineas += "<dd>Diseño Editorial y Tipografía</dd>";
+    }
+    return susLineas;
+}
+
+function enfasis(data) {
+    var susEnfasis = "";
+    if (data.includes("1")) {
+        susEnfasis += "<dd>Innovación</dd>";
+    }
+    if (data.includes("2")) {
+        susEnfasis += "<dd>Creación</dd>";
+    }
+    if (data.includes("3")) {
+        susEnfasis += "<dd>Investigación</dd>";
+    }
+    return susEnfasis;
 }
