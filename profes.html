@@ -10,10 +10,10 @@
     <body>
         <nav class="fixed-top bg-light py-3 shadow-sm">
             <div class="d-flex justify-content-around align-items-center">
-                <a href="index.html" class="link-secondary">Resumen <span>de Proyectos de Título</span></a>
-                <a href="profes.html" class="link-dark"><span>Proyectos por </span>Profesor(a) Guía</a>
-                <a href="titulos.html" class="link-secondary"><span>Proyectos por </span>Título Profesional</a>
-                <a href="semestres.html" class="link-secondary"><span>Proyectos por </span>Semestre</a>
+                <a href="index.html" class="link-secondary">Resumen <span class="d-none d-md-inline">de Proyectos de Título</span></a>
+                <a href="profes.html" class="link-dark"><span class="d-none d-md-inline">Proyectos por </span>Prof. Guía</a>
+                <a href="titulos.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Título Profesional</a>
+                <a href="semestres.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Semestre</a>
             </div>
         </nav>
         <div class="container mt-5 pt-5">
@@ -69,10 +69,12 @@
                         <section id="identidad" class="border-bottom pb-3 mb-3"></section>
                         <section id="asignaturas" class="border-bottom pb-3 mb-3"></section>
                         <section id="dialogo" class="border-bottom pb-3 mb-3"></section>
-                        <section id="detalles"></section>
+                        <section class="border-bottom border-3 pb-3 mb-3">
+                            <div class="row" id="detalles"></div>
+                        </section>
                         <section id="resultados"></section>
                         <section>
-                            <h2 class="mt-5 py-3 border-top">Profesores relacionados</h2>
+                            <h2 class="mt-5 py-3 border-top border-3">Profesores relacionados</h2>
                             <div class="row" id="afines"></div>
                         </section>
                     </main>
