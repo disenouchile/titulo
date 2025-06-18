@@ -16,38 +16,39 @@
     <body>
         <nav class="fixed-top bg-light py-3 shadow-sm">
             <div class="d-flex justify-content-around align-items-center">
-                <a href="index.html" class="link-dark">Resumen <span>de Proyectos de Título</span></a>
-                <a href="profes.html" class="link-secondary"><span>Proyectos por </span>Profesor(a) Guía</a>
-                <a href="titulos.html" class="link-secondary"><span>Proyectos por </span>Título Profesional</a>
-                <a href="semestres.html" class="link-secondary"><span>Proyectos por </span>Semestre</a>
+               <a href="index.html" class="link-dark fw-bold">Resumen <span class="d-none d-md-inline">de Proyectos de Título</span></a>
+                <a href="profes.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Prof. Guía</a>
+                <a href="titulos.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Título Profesional</a>
+                <a href="semestres.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Semestre</a>
             </div>
         </nav>
         <div class="container mt-5 pt-5">
             <div class="row">
                 <div class="col-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                     <header>
-                        <h1 class="display-6">Resumen de Proyectos de Título</h1>
-                        <p>Estas páginas ofrecen información de los Proyectos de Título ya aprobados en el actual programa de pregrado en <em>Diseño de la Universidad de Chile</em>, programa vigente desde el año 2019.</p>
-                        <p>Se trata de <em>207 proyectos aprobados</em> que se agrupan por <a href="profes.html">Profesor(a) Guía</a>, <a href="titulos.html">Título Profesional</a> y <a href="semestres.html">Semestre</a>.</p>
+                        <h1 class="display-6 text-body-secondary">Resumen de Proyectos de Título</h1>
+                        <p class="lead">Aquí puede encontrar información de los Proyectos de Título aprobados en el actual programa de pregrado en <em>Diseño de la Universidad de Chile</em>, programa vigente desde el año 2019.</p>
+                        <p>Son <em>207</em> proyectos aprobados hasta el segundo semestre del año 2024; cada proyecto aprobado implica el resultado exitoso de un trabajo tutelado, de carácter autónomo, que el estudiantado debe resolver en el último año del programa.</p>
                         <p>A continuación, en esta página, se ofrecen visualizaciones que informan de la situación general sobre los Proyectos de Título de Diseño en la Universidad de Chile.</p>
                     </header>
                     <main>
                         <article>
-                            <h2 class="fs-4">Comparación entre aprobados(as) y reprobados(as) por semestre</h2>
+                            <h2 class="fs-4 mt-5 mb-3">Comparación entre aprobados(as) y reprobados(as) por semestre</h2>
                             <figure>
                                 <object data="viz/multiset_bar_chart.svg" type="image/svg+xml" class="w-100"></object>
                             </figure>
+                            <p>Como de indica más arriba, el Proyecto de Título consiste en un trabajo tutelado, de carácter autónomo, que el estudiantado debe resolver en el último año del plan de estudios. Como el año lectivo se divide en dos semestres, Proyecto de Título también se divide en dos niveles (I y II).</p>
                             <p>
-                                La asignatura de Proyecto de Título II se imparte desde el segundo semestre del año 2021. Cada semestre la cantidad de
+                                La asignatura de Proyecto de Título II se imparte desde el segundo semestre del año 2021. El registro muestra que cada semestre la cantidad de
                                 <em><small style="background: #9b9b9b;">&nbsp;&nbsp;&nbsp;&nbsp;</small> reprobados(as)</em> es importante, pero desde el segundo semestre del año 2023 esa cantidad es menor que la suma de quienes aprueban la
                                 asignatura para obtener su Título Profesional de <em><small style="background: #00c3ff;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a)</em>,
                                 <em><small style="background: #189af6;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención en Visualidad y Medios</em>, y
                                 <em><small style="background: #125389;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención Industrial y Servicios</em>.
                             </p>
-                            <p>Se cuentan como reprobados(as) a quienes, habiendo inscrito Proyecto de Título II, no hacen la entrega final correspondiente a la asignatura o la hacen para después reprobar el examen de título.</p>
+                            <p>Corresponde indicar que se cuentan como reprobados(as) a quienes, habiendo inscrito Proyecto de Título II, no hacen la entrega final correspondiente a la asignatura o la hacen para después reprobar el examen de título.</p>
                         </article>
                         <article>
-                            <h2 class="fs-4 mt-5">Proyectos de título aprobados y guías</h2>
+                            <h2 class="fs-4 mt-5">Proyectos de título aprobados y sus tutelas</h2>
                             <figure>
                                 <object data="viz/alluvial_diagram_1.svg" type="image/svg+xml" class="w-100"></object>
                             </figure>
@@ -59,7 +60,7 @@
                             <p>El asterisco a la derecha de 9 nombres es para indicar que, al año 2025, tal Profesor(a) Guía <em>no</em> continúa en el rol.</p>
                         </article>
                         <article>
-                            <h2 class="fs-4 mt-5">Proyectos de título aprobados, calificaciones finales de examen y guías</h2>
+                            <h2 class="fs-4 mt-5">Proyectos de título aprobados, calificaciones finales de examen y sus tutelas</h2>
                             <figure>
                                 <object data="viz/alluvial_diagram_2.svg" type="image/svg+xml" class="w-100"></object>
                             </figure>
@@ -68,7 +69,7 @@
                             </p>
                         </article>
                         <article>
-                            <h2 class="fs-4 mt-5">Distribución y rangos de calificaciones finales de examen</h2>
+                            <h2 class="fs-4 mt-5 mb-4">Distribución y rangos de calificaciones finales de examen</h2>
                             <figure>
                                 <object data="viz/box_plot_1.svg" type="image/svg+xml"></object>
                             </figure>
@@ -83,7 +84,7 @@
                                 y Medios y medios, contra 15 Diseñadoras, 70 Diseñadoras con mención Industrial y Servicios, y 83 Diseñadoras con mención en Visualidad y Medios. Siendo que el 81,6% de las calificaciones finales de exámenes
                                 aprobados le corresponde a ellas, se justifican sus cajas más amplias y la falta de puntos de datos únicos o atípicos.
                             </p>
-                            <p><em>Sin diferenciar entre ellas y ellos</em>:</p>
+                            <h3 class="fs-5 my-4">Sin diferenciar entre ellas y ellos</h3>
                             <figure>
                                 <object data="viz/box_plot_2.svg" type="image/svg+xml"></object>
                             </figure>
@@ -129,12 +130,12 @@
                                     <!--aquí se agregarán grupos gracias a JavaScript-->
                                 </svg>
                             </figure>
+
                             <p>
-                                <em>A la izquierda está la calificación final de Proyecto de Título I calculada por cada Profesor(a) Guía</em>; si bien existe una comisión que revisa un informe de avance en la primera parte del Proyecto de
-                                Título, esta se limita a evaluar y respaldar a cada Profesor(a) Guía en la aprobación o reprobación del mismo informe, sin indicar calificación.
+                                <em>En el gráfico se tiene, a la izquierda, la calificación final de Proyecto de Título I calculada por cada Profesor(a) Guía</em>; si bien existe una comisión que revisa un informe de avance en la primera parte del Proyecto de Título, esta se limita a evaluar y respaldar a cada Profesor(a) Guía en la aprobación o reprobación del mismo informe, sin indicar calificación.
                             </p>
                             <p>
-                                <em>A la derecha está la calificación final de Proyecto de Título II, que es responsabilidad de la comisión examinadora</em>; en esta comisión cada Profesor(a) Guía participa como informante del proceso
+                                <em>Y a la derecha está la calificación final de Proyecto de Título II, que es responsabilidad de la comisión examinadora</em>; en esta comisión cada Profesor(a) Guía participa como informante del proceso
                                 llevado a cabo por el (la) estudiante, y puede formular preguntas, pero en ningún caso puede calificar.
                             </p>
                         </article>

@@ -57,31 +57,38 @@ async function datos(criterio) {
             <img src="${profeSeleccion.foto}" class="w-100 rounded">
         </div>
         <div class="col-md-7">
-            <h1 class="fs-3">${profeSeleccion.nombre}</h1>
-            <h2 class="fs-5">${profeSeleccion.nivel} &bull; ${profeSeleccion.adscripcion}</h2>
-            <p>mail: ${profeSeleccion.mail}</p>
-            <h4 class="fs-5">Grado/Título</h4>
+            <h1 class="fs-3 pt-2">${profeSeleccion.nombre}</h1>
+            <h2 class="fs-4">${profeSeleccion.nivel}</h2>
+            <h2 class="fs-5">${profeSeleccion.adscripcion}</h2>
+            <h4 class="fs-5 text-body-tertiary">Estudios de postgrado y título profesional:</h4>
             ${grados(profeSeleccion.grados)}
-            <h4 class="fs-5">Enfoque de guiatura</h4>
-            <p>${profeSeleccion.descriptor}</p>
         </div>
-        <div class="col-md-12">
-            <h4 class="fs-5">Palabras clave</h4>
+    </div>
+    <div class="row align-items-top pt-4 mt-4 border-top">
+        <div class="col-md-5">
+            <p class="fw-bold mb-1">Palabras clave</p>
+            <p>Pendiente…</p>
+            <p class="fw-bold mb-1">Más información</p>
             <p>Pendiente…</p>
         </div>
+        <div class="col-md-7">
+            <p class="fw-bold mb-1">Enfoque de guiatura</p>
+            <p>${profeSeleccion.descriptor}</p>
+        </div>
+    </div>
     `;
 
-    asignaturasAqui.innerHTML = `<h2 class="fs-4">Asignaturas impartidas</h2><object data="${profeSeleccion.asignaturas}" type="image/svg+xml" class="w-100 mt-4">
+    asignaturasAqui.innerHTML = `<h2 class="fs-4">Asignaturas impartidas por ${profeSeleccion.nombre}</h2><object data="${profeSeleccion.asignaturas}" type="image/svg+xml" class="w-100 mt-4">
             </object>`;
 
-    dialogoAqui.innerHTML = `<h2 class="fs-4 my-3">Conversemos</h2>${dialogante(profeSeleccion.dialogo)}`;
+    dialogoAqui.innerHTML = `<h2 class="fs-4 my-3">Conversemos con ${profeSeleccion.nombre}</h2>${dialogante(profeSeleccion.dialogo)}`;
 
-    detallesAqui.innerHTML = `<div class="col-md-6"><dl><dt>Áreas FAU</dt>${areas(profeSeleccion.areas.toString())}</dl></div><div class="col-md-3"><dl><dt>Líneas DdD</dt>${lineas(
+    detallesAqui.innerHTML = `<div class="col"><dl><dt class="mb-2">Énfasis</dt>${enfasis(profeSeleccion.enfasis.toString())}</dl></div><div class="col"><dl><dt class="mb-2">Líneas DdD</dt>${lineas(
         profeSeleccion.lineas.toString()
-    )}</dl></div><div class="col-md-3"><dl><dt>Énfasis en Título</dt>${enfasis(profeSeleccion.enfasis.toString())}</dl></div>`;
+    )}</dl></div><div class="col-md-7"><dl class="mb-2"><dt class="mb-2">Áreas de investigación/creación FAU</dt>${areas(profeSeleccion.areas.toString())}</dl></div>`;
 
     profeOtres.forEach((a) => {
-        afinesAqui.innerHTML += `<div class="col-4"><a href="profes.html?data=${a.name}"><img src="${a.foto}" class="w-100"> <p>${a.nombre}</p></a></div>`;
+        afinesAqui.innerHTML += `<div class="col-4"><a href="profes.html?data=${a.name}"><img src="${a.foto}" class="w-100 rounded"> <p>${a.nombre}</p></a></div>`;
     });
 
     if (profeSeleccion.titulades !== 0) {
@@ -114,10 +121,10 @@ async function datos(criterio) {
             }
         }
 
-        resultadosAqui.innerHTML = `<h2 class="fs-4 mt-4">Resultados en Examen de Título*</h2>
+        resultadosAqui.innerHTML = `<h2 class="fs-4 mt-4">Resultados en Examen de Título<sup>*</sup></h2>
                 <p class="lead" id="resumen"></p>
                 <div class="table-responsive">
-                    <table class="table small">
+                    <table class="table small border-top border-2">
                         <thead>
                             <th>Egresado/a</th>
                             <th>Título</th>
@@ -258,28 +265,28 @@ function dialogante(array) {
 function areas(data) {
     var susAreas = "";
     if (data.includes("1")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 1. SISTEMAS FÍSICOS, NATURALES Y CAMBIOS AMBIENTALES</dd>";
+        susAreas += "<dd>A1. SISTEMAS FÍSICOS, NATURALES Y CAMBIOS AMBIENTALES</dd>";
     }
     if (data.includes("2")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 2. DIMENSIONES SOCIOECOLÓGICAS EN EL TERRITORIO</dd>";
+        susAreas += "<dd>A2. DIMENSIONES SOCIOECOLÓGICAS EN EL TERRITORIO</dd>";
     }
     if (data.includes("3")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 3. ASENTAMIENTOS, MOVILIDADES Y ORGÁNICAS COMUNITARIAS</dd>";
+        susAreas += "<dd>A3. ASENTAMIENTOS, MOVILIDADES Y ORGÁNICAS COMUNITARIAS</dd>";
     }
     if (data.includes("4")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 4. DINÁMICAS Y TRANSFORMACIONES MORFOLÓGICAS, URBANAS Y RURALES</dd>";
+        susAreas += "<dd>A4. DINÁMICAS Y TRANSFORMACIONES MORFOLÓGICAS, URBANAS Y RURALES</dd>";
     }
     if (data.includes("5")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 5. CREACIÓN, INNOVACIÓN PROYECTUAL Y DESARROLLOS TECNOLÓGICOS</dd>";
+        susAreas += "<dd>A5. CREACIÓN, INNOVACIÓN PROYECTUAL Y DESARROLLOS TECNOLÓGICOS</dd>";
     }
     if (data.includes("6")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 6. CONSERVACIÓN E INTERVENCIÓN DE OBRAS, ENTORNOS Y CIUDADES PATRIMONIALES</dd>";
+        susAreas += "<dd>A6. CONSERVACIÓN E INTERVENCIÓN DE OBRAS, ENTORNOS Y CIUDADES PATRIMONIALES</dd>";
     }
     if (data.includes("7")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 7. CULTURAS VISUALES, MATERIALES-INMATERIALES Y MEDIALES</dd>";
+        susAreas += "<dd>A7. CULTURAS VISUALES, MATERIALES-INMATERIALES Y MEDIALES</dd>";
     }
     if (data.includes("8")) {
-        susAreas += "<dd>ÁREA PRIOTARIA 8. FENÓMENOS SENSIBLES, PERCEPTUALES Y CORPORALES EN EL ENTORNO</dd>";
+        susAreas += "<dd>A8. FENÓMENOS SENSIBLES, PERCEPTUALES Y CORPORALES EN EL ENTORNO</dd>";
     }
     return susAreas;
 }
@@ -287,22 +294,22 @@ function areas(data) {
 function lineas(data) {
     var susLineas = "";
     if (data.includes("1")) {
-        susLineas += "<dd>Diseño centrado en la persona</dd>";
+        susLineas += "<dd>L1. Diseño centrado en la persona</dd>";
     }
     if (data.includes("2")) {
-        susLineas += "<dd>Materiales, Tecnologías y Procesos</dd>";
+        susLineas += "<dd>L2. Materiales, Tecnologías y Procesos</dd>";
     }
     if (data.includes("3")) {
-        susLineas += "<dd>Morfología, Percepción y Color</dd>";
+        susLineas += "<dd>L3. Morfología, Percepción y Color</dd>";
     }
     if (data.includes("4")) {
-        susLineas += "<dd>Identidad y Patrimonio</dd>";
+        susLineas += "<dd>L4. Identidad y Patrimonio</dd>";
     }
     if (data.includes("5")) {
-        susLineas += "<dd>Estudios Visuales y Mediales</dd>";
+        susLineas += "<dd>L5. Estudios Visuales y Mediales</dd>";
     }
     if (data.includes("6")) {
-        susLineas += "<dd>Diseño Editorial y Tipografía</dd>";
+        susLineas += "<dd>L6. Diseño Editorial y Tipografía</dd>";
     }
     return susLineas;
 }
@@ -310,21 +317,21 @@ function lineas(data) {
 function enfasis(data) {
     var susEnfasis = "";
     if (data.includes("1")) {
-        susEnfasis += "<dd>Innovación</dd>";
+        susEnfasis += "<dd>E1. Innovación</dd>";
     }
     if (data.includes("2")) {
-        susEnfasis += "<dd>Creación</dd>";
+        susEnfasis += "<dd>E2. Creación</dd>";
     }
     if (data.includes("3")) {
-        susEnfasis += "<dd>Investigación</dd>";
+        susEnfasis += "<dd>E3. Investigación</dd>";
     }
     return susEnfasis;
 }
 
 function grados(data) {
-    var susGrados = "<ul>";
+    var susGrados = `<ul class="m-0 p-0">`;
     data.forEach((d)=> {
-        susGrados += "<li>"+d+"</li>";
+        susGrados += `<li class="ms-3 mb-1">${d}</li>`;
     });
     susGrados += "</ul>";
     return susGrados;

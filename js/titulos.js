@@ -35,11 +35,11 @@ async function datos(criterio) {
     seleccion.forEach((s, i) => {
         if (s.repositorio_academico) {
             tabla.innerHTML += `
-                    <tr><td>${s.nombre}</td><td>${s.profe_guia}</td><td>${s.semestre_examen}</td><td><a href="${s.repositorio_academico}" target="_blank">${s.proyecto}</a></td><td class="text-center">${s.nota_proyecto.toFixed(
+                    <tr><td>${s.nombre}</td><td>${s.profe_guia}</td><td class="d-none d-md-table-cell">${s.semestre_examen}</td><td><a href="${s.repositorio_academico}" target="_blank">${s.proyecto}</a></td><td class="text-center">${s.nota_proyecto.toFixed(
                 1
-            )}</td></tr>`;
+            ).replace(".",",")}</td></tr>`;
         } else {
-            tabla.innerHTML += `<tr><td>${s.nombre}</td><td>${s.profe_guia}</td><td>${s.semestre_examen}</td><td>${s.proyecto}</td><td class="text-center">${s.nota_proyecto.toFixed(1)}</td></tr>`;
+            tabla.innerHTML += `<tr><td>${s.nombre}</td><td>${s.profe_guia}</td><td class="d-none d-md-table-cell">${s.semestre_examen}</td><td>${s.proyecto}</td><td class="text-center">${s.nota_proyecto.toFixed(1).replace(".",",")}</td></tr>`;
         }
         notas.push(s.nota_proyecto);
     });
@@ -54,7 +54,7 @@ async function datos(criterio) {
 
     console.log(promedio);
 
-    resumen.innerHTML = `<em>${promedio}</em> es la nota promedio de los <em>${notas.length}</em> proyectos. Y la desviación estándar entre notas es de <em>${desviacionEstandar(notas).toFixed(2)}</em>:`;
+    resumen.innerHTML = `Son <em>${notas.length}</em> los proyectos aprobados para la obtención del título profesional de ${criterio}. El promedio de las notas de aprobación es de <em>${promedio.replace(".",",")}</em> (con una desviación estándar de <em>${desviacionEstandar(notas).toFixed(2).replace(".",",")}</em>).`;
 
     var words = "";
     seleccion.forEach((s) => {
@@ -151,12 +151,12 @@ async function datos(criterio) {
     var total = cuentaRepeticiones(palabrasAcotadas);
     var texto = "";
     total.forEach((x) => {
-        if (x.count > 1) {
-            texto = texto + `<span><em>${x.name}</em> (${x.count} veces)</span> `;
+        if (x.count > 2) {
+            texto = texto + `<span class="badge text-bg-primary">${x.name}</span> `;
         }
     });
     if (texto) {
-        palabreo.innerHTML = `<p>Se revisan los nombres de los proyectos en el grupo buscando palabras repetidas (omitiendo artículos, adverbios, preposiciones y conjunciones). El resultado:</p>
+        palabreo.innerHTML = `<p>Se revisan los nombres de los proyectos en el grupo buscando palabras repetidas dos veces o más (omitiendo artículos, adverbios, preposiciones y conjunciones). El resultado:</p>
                         <p>${texto}</p>`;
     } else {
         palabreo.innerHTML = `<p>Se revisan los nombres de los proyectos en el grupo, pero <em>no</em> se encuentran palabras repetidas.</p>`;

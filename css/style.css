@@ -10,10 +10,9 @@ em{
     font-weight: 500;
 }
 
-@media (max-width:800px){
-    nav div a span{
-        display:none;
-    }
+
+.table-responsive{
+    margin:0 -0.4rem;
 }
 
 .profesor{
@@ -25,7 +24,7 @@ font-size: 90%;
 
 .profesor .burbuja {
 position:relative;
-background:#f0f0f0;
+background:#f5f5f5;
 margin-right:3rem;
 padding:1rem;
 }
@@ -40,7 +39,7 @@ width:0;
 height:0;
 border-top:0.5rem solid transparent;
 border-bottom:0.5rem solid transparent;
-border-left:1rem solid #f0f0f0;
+border-left:1rem solid #f5f5f5;
 }
 
 .estudiante{
@@ -52,7 +51,7 @@ font-size: 90%;
 
 .estudiante .burbuja {
 position:relative;
-background:#e6e6e6;
+background:#ebebeb;
 margin-left:3rem;
 padding:1rem;
 font-weight: bold;
@@ -68,5 +67,5 @@ width:0;
 height:0;
 border-top:0.5rem solid transparent;
 border-bottom:0.5rem solid transparent;
-border-right:1rem solid #e6e6e6;
+border-right:1rem solid #ebebeb;
 }

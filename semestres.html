@@ -10,10 +10,10 @@
     <body>
         <nav class="fixed-top bg-light py-3 shadow-sm">
             <div class="d-flex justify-content-around align-items-center">
-                <a href="index.html" class="link-secondary">Resumen <span>de Proyectos de Título</span></a>
-                <a href="profes.html" class="link-secondary"><span>Proyectos por </span>Profesor(a) Guía</a>
-                <a href="titulos.html" class="link-secondary"><span>Proyectos por </span>Título Profesional</a>
-                <a href="semestres.html" class="link-dark"><span>Proyectos por </span>Semestre</a>
+               <a href="index.html" class="link-secondary">Resumen <span class="d-none d-md-inline">de Proyectos de Título</span></a>
+                <a href="profes.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Prof. Guía</a>
+                <a href="titulos.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Título Profesional</a>
+                <a href="semestres.html" class="link-dark fw-bold"><span class="d-none d-md-inline">Proyectos por </span>Semestre</a>
             </div>
         </nav>
         <div class="container mt-5 pt-5">
@@ -21,8 +21,8 @@
                 <div class="col-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
 
         <header>
-            <h1 class="display-6">Proyectos por Semestre</h1>
-            <select class="form-select mb-3">
+            <h1 class="display-6 text-body-secondary">Proyectos por Semestre</h1>
+            <select class="form-select mb-3 shadow-sm">
                 <option value="2024-2">Segundo semestre del 2024</option>
                 <option value="2024-1">Primer semestre del 2024</option>
                 <option value="2023-2">Segundo semestre del 2023</option>
@@ -33,19 +33,20 @@
             </select>
         </header>
         <main>
-            <p class="lead"></p>
-            <table class="table">
-                <thead>
-                    <th>Egresado/a</th>
-                    <th>Prof. Guía</th>
-                    <th>Título</th>
-                    <th>Proyecto</th>
-                    <th>Nota</th>
-                </thead>
-                <tbody id="mencion"></tbody>
-            </table>
-
-            <div id="palabreo"></div>
+            <p class="lead px-1"></p>
+            <div class="table-responsive">
+            <table class="table border-top border-2 small">
+                    <thead>
+                        <th>Egresado/a</th>
+                        <th class="d-none d-md-table-cell">Prof. Guía</th>
+                        <th>Título</th>
+                        <th>Proyecto</th>
+                        <th>Nota</th>
+                    </thead>
+                    <tbody id="mencion"></tbody>
+                </table>
+            </div>
+            <div id="palabreo" class="px-1"></div>
 
         </main>
                     <footer class="border-top my-5 pt-2">
