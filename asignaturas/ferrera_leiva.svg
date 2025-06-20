@@ -1,48 +1,150 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 25" style="enable-background:new 0 0 100 25;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st2{fill:#FCCBBA;}
-	.st3{fill:#FE5420;}
-	.st4{fill:none;}
-	.st5{font-family:'Arial-BoldMT';}
-	.st6{font-size:2px;}
-	.st7{font-family:'ArialMT';}
-	.st8{font-size:1.3px;}
-	.st9{font-family:'ArialNarrow';}
-</style>
-<g>
-	<line class="st0" x1="4" y1="15.26" x2="95.98" y2="15.26"/>
-	<line class="st1" x1="22.13" y1="17.01" x2="22.13" y2="15.26"/>
-	<line class="st1" x1="49.99" y1="17.01" x2="49.99" y2="15.26"/>
-	<line class="st1" x1="77.85" y1="17.01" x2="77.85" y2="15.26"/>
-</g>
-<g>
-	<rect x="11.69" y="10.51" class="st2" width="21" height="4.5"/>
-	<rect x="11.69" y="14.21" class="st3" width="21" height="0.8"/>
-</g>
-<rect x="13.32" y="18.49" class="st4" width="17.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 16.3372 20.2098)" class="st5 st6">Ciclo Básico</text>
-<text transform="matrix(1 0 0 1 19.8772 22.6098)" class="st5 st6">I a IV</text>
-<rect x="38.68" y="18.49" class="st4" width="22.75" height="4.75"/>
-<text transform="matrix(1 0 0 1 40.8021 20.2098)" class="st5 st6">Ciclo Especializado</text>
-<text transform="matrix(1 0 0 1 46.7421 22.6098)" class="st5 st6">V a VIII</text>
-<rect x="69.16" y="18.49" class="st4" width="17.5" height="4.75"/>
-<text transform="matrix(1 0 0 1 69.8326 20.2098)" class="st5 st6">Ciclo Profesional</text>
-<text transform="matrix(1 0 0 1 75.1526 22.6098)" class="st5 st6">IX a X</text>
-<g>
-	<rect x="11.69" y="3.86" class="st2" width="21" height="5.9"/>
-	<rect x="11.69" y="8.99" class="st3" width="21" height="0.8"/>
-</g>
-<text transform="matrix(1 0 0 1 13.1204 12.1124)" class="st7 st8">Gestión del proyecto de Diseño</text>
-<rect x="14.49" y="4.24" class="st4" width="15.5" height="4.75"/>
-<text transform="matrix(1 0 0 1 17.3477 5.326)" class="st7 st8">Comunicación del </text>
-<text transform="matrix(1 0 0 1 16.1612 6.886)" class="st7 st8">  Proyecto de Diseño</text>
-<rect x="18.74" y="7.47" class="st4" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 19.5887 8.5939)" class="st9 st8">AUD30003</text>
-<rect x="18.74" y="12.76" class="st4" width="7" height="1.92"/>
-<text transform="matrix(1 0 0 1 19.8796 13.8844)" class="st9 st8">AUD4004</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.02 31.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #393f95;
+      }
+
+      .cls-2 {
+        fill: #ff5432;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-8 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 1.5px;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 2px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-9 {
+        fill: #ffa300;
+      }
+
+      .cls-10 {
+        fill: #ffe7b6;
+      }
+
+      .cls-6 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-7 {
+        font-size: 1px;
+      }
+
+      .cls-11 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-12 {
+        fill: #d1cfe8;
+      }
+
+      .cls-13 {
+        fill: #ffd3cc;
+      }
+    </style>
+  </defs>
+  <g id="NARANJA">
+    <g>
+      <rect class="cls-13" x=".01" y="9.92" width="30.15" height="8.59"/>
+      <rect class="cls-2" x=".01" y="17.59" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-13" x=".08" width="30.15" height="8.59"/>
+      <rect class="cls-2" x=".08" y="7.68" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-13" x="69.87" y="9.92" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="69.87" y="17.59" width="30.15" height="1.28"/>
+    </g>
+  </g>
+  <g id="INDICE">
+    <g>
+      <g>
+        <rect class="cls-12" x="40.81" y="28.88" width="2" height="1.92"/>
+        <rect class="cls-1" x="40.81" y="30.59" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(43.53 30.29) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-13" x="60.14" y="28.98" width="2" height="1.92"/>
+        <rect class="cls-2" x="60.14" y="30.69" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(62.85 30.28) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(11.28 30.31) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(8.65 30.49)"><tspan x="0" y="0">E</tspan></text>
+        <text class="cls-3" transform="translate(9.65 30.49)"><tspan x="0" y="0">T</tspan></text>
+        <text class="cls-3" transform="translate(10.4 30.49)"><tspan x="0" y="0">.</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(2.34 30.31) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(0 30.49)"><tspan x="0" y="0">E.</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-10" x="22.03" y="28.98" width="2" height="1.92"/>
+        <rect class="cls-9" x="22.03" y="30.69" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(24.71 30.37) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Línea">
+    <g>
+      <line class="cls-11" x1="15.09" y1="21.54" x2="15.09" y2="18.74"/>
+      <line class="cls-11" x1=".01" y1="18.87" x2="100.01" y2="18.87"/>
+      <line class="cls-11" x1="50.01" y1="21.67" x2="50.01" y2="18.87"/>
+      <line class="cls-11" x1="84.94" y1="21.67" x2="84.94" y2="18.87"/>
+    </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(10.3 24.09)"><tspan x="0" y="0">Ciclo básico</tspan></text>
+      <text class="cls-6" transform="translate(13.36 26.09)"><tspan x="0" y="0">I a IV</tspan></text>
+    </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(41.38 24)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
+      <text class="cls-6" transform="translate(46.77 26)"><tspan x="0" y="0">V a VIII</tspan></text>
+    </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(77.55 23.99)"><tspan x="0" y="0">Ciclo profesional</tspan></text>
+      <text class="cls-6" transform="translate(82.22 25.99)"><tspan x="0" y="0">IX a X</tspan></text>
+    </g>
+  </g>
+  <text class="cls-8" transform="translate(8.7 3.92)"><tspan x="0" y="0">Comunicación del </tspan><tspan x="-.54" y="1.8">Proyecto de Diseño</tspan></text>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(77 15)"><tspan x="0" y="0">Proyecto de Título I y II</tspan></text>
+  </g>
+  <text class="cls-8" transform="translate(11.1 13.52)"><tspan x="0" y="0">Gestión del </tspan><tspan x="-2.92" y="1.8">Proyecto de Diseño</tspan></text>
 </svg>

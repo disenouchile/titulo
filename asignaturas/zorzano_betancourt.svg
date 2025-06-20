@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.02 40.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #393f95;
+      }
+
+      .cls-2 {
+        fill: #ff5432;
+      }
+
+      .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 1.5px;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 2px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-8 {
+        fill: #ffa300;
+      }
+
+      .cls-9 {
+        fill: #ffe7b6;
+      }
+
+      .cls-6 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-7 {
+        font-size: 1px;
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-11 {
+        fill: #d1cfe8;
+      }
+
+      .cls-12 {
+        fill: #ffd3cc;
+      }
+    </style>
+  </defs>
+  <g id="NARANJA">
+    <g>
+      <rect class="cls-12" x="35.38" y="19.77" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="35.38" y="27.44" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-12" x="35.39" y="10.04" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="35.39" y="17.71" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-12" x="69.87" y="19.77" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="69.87" y="27.44" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-12" x="69.87" y="10.01" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="69.87" y="17.68" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-12" x="69.87" width="30.15" height="8.59"/>
+      <rect class="cls-2" x="69.87" y="7.67" width="30.15" height="1.28"/>
+    </g>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(42.5 14.85)"><tspan x="0" y="0">E. Diseño de vehículos</tspan></text>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(77.65 4.86)"><tspan x="0" y="0">Proyecto de Título I y II</tspan></text>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(77.76 24.6)"><tspan x="0" y="0">Práctica Profesional</tspan></text>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(79.44 14.85)"><tspan x="0" y="0">Práctica Laboral</tspan></text>
+  </g>
+  <g class="cls-4">
+    <g class="cls-4">
+      <text class="cls-3" transform="translate(39.64 24.6)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
+    </g>
+  </g>
+  <g id="INDICE">
+    <g>
+      <g>
+        <rect class="cls-11" x="40.81" y="38.73" width="2" height="1.92"/>
+        <rect class="cls-1" x="40.81" y="40.44" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(43.53 40.14) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-12" x="60.14" y="38.83" width="2" height="1.92"/>
+        <rect class="cls-2" x="60.14" y="40.54" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(62.85 40.13) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(11.28 40.16) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(8.65 40.34)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(9.65 40.34)"><tspan x="0" y="0">T</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(10.4 40.34)"><tspan x="0" y="0">.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(2.34 40.16) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(0 40.34)"><tspan x="0" y="0">E.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-9" x="22.03" y="38.83" width="2" height="1.92"/>
+        <rect class="cls-8" x="22.03" y="40.54" width="2" height=".29"/>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(24.71 40.22) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Línea">
+    <g>
+      <line class="cls-10" x1="15.09" y1="31.39" x2="15.09" y2="28.59"/>
+      <line class="cls-10" x1="0" y1="28.72" x2="100.01" y2="28.72"/>
+      <line class="cls-10" x1="50.01" y1="31.52" x2="50.01" y2="28.72"/>
+      <line class="cls-10" x1="84.94" y1="31.52" x2="84.94" y2="28.72"/>
+    </g>
+    <g class="cls-4">
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(10.3 33.94)"><tspan x="0" y="0">Ciclo básico</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(13.36 35.94)"><tspan x="0" y="0">I a IV</tspan></text>
+      </g>
+    </g>
+    <g class="cls-4">
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(41.38 33.85)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(46.77 35.85)"><tspan x="0" y="0">V a VIII</tspan></text>
+      </g>
+    </g>
+    <g class="cls-4">
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(77.55 33.84)"><tspan x="0" y="0">Ciclo profesional</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(82.22 35.84)"><tspan x="0" y="0">IX a X</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

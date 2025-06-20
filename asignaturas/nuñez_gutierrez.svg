@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.3, SVG Export Plug-In . SVG Version: 9.03 Build 53313)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 42.89" style="enable-background:new 0 0 100 42.89;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFE7B6;}
+	.st1{fill:#FFA300;}
+	.st2{fill:#FFD3CC;}
+	.st3{fill:#FF5432;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:1.5px;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:1px;}
+	.st8{fill:#D1CFE8;}
+	.st9{fill:#393F95;}
+	.st10{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st11{font-size:2px;}
+	.st12{font-family:'Arial-ItalicMT';}
+</style>
+<g id="Cuadros">
+	<g>
+		<rect x="35.38" y="21.02" class="st0" width="30.15" height="8.59"/>
+		<rect x="35.38" y="28.69" class="st1" width="30.15" height="1.28"/>
+	</g>
+	<g>
+		<rect x="69.85" y="21.02" class="st2" width="30.15" height="8.59"/>
+		<rect x="69.85" y="28.69" class="st3" width="30.15" height="1.28"/>
+	</g>
+	<text transform="matrix(1 0 0 1 46.5597 25.8448)" class="st4 st5">Proyecto V</text>
+	<text transform="matrix(1 0 0 1 76.72 25.85)" class="st4 st5">Proyecto de Título I y II</text>
+	<g>
+		<rect x="21.33" y="39.53" class="st0" width="2" height="1.92"/>
+		<rect x="21.33" y="41.24" class="st1" width="2" height="0.29"/>
+	</g>
+	<text transform="matrix(1.1 0 0 1 24.0103 40.9199)" class="st6 st7">Mención industrial y servicios</text>
+	<g>
+		<g>
+			<rect x="40.8" y="39.49" class="st8" width="2" height="1.92"/>
+			<rect x="40.8" y="41.2" class="st9" width="2" height="0.29"/>
+		</g>
+		<text transform="matrix(1.1 0 0 1 43.5205 40.8999)" class="st6 st7">Mención visualidad y medios</text>
+	</g>
+	<g>
+		<g>
+			<rect x="60.12" y="39.59" class="st2" width="2" height="1.92"/>
+			<rect x="60.12" y="41.3" class="st3" width="2" height="0.29"/>
+		</g>
+		<text transform="matrix(1.1 0 0 1 62.8403 40.8901)" class="st6 st7">Ambas menciones</text>
+	</g>
+	<g>
+		<text transform="matrix(1.1 0 0 1 11.2705 40.9102)" class="st6 st7">Electivo troncal</text>
+		<text transform="matrix(1 0 0 1 8.64 41.1)" class="st4 st5">E</text>
+		<text transform="matrix(1 0 0 1 9.64 41.1)" class="st4 st5">T</text>
+		<text transform="matrix(1 0 0 1 10.39 41.1)" class="st4 st5">.</text>
+	</g>
+	<g>
+		<text transform="matrix(1.1 0 0 1 2.3306 40.9102)" class="st6 st7">Electivo</text>
+		<text transform="matrix(1 0 0 1 -0.01 41.1)" class="st4 st5">E.</text>
+	</g>
+	<g>
+		<rect x="35.38" y="11.24" class="st2" width="30.15" height="8.59"/>
+		<rect x="35.38" y="18.92" class="st3" width="30.15" height="1.28"/>
+	</g>
+	<text transform="matrix(1 0 0 1 39.7011 15.9835)" class="st4 st5">Seminario de licenciatura I y II</text>
+	<g>
+		<rect x="35.38" y="1.1" class="st2" width="30.15" height="8.59"/>
+		<rect x="35.38" y="8.77" class="st3" width="30.15" height="1.28"/>
+	</g>
+	<text transform="matrix(1 0 0 1 43.4115 5.9373)" class="st4 st5">E. Sociedad y Moda</text>
+</g>
+<g id="Línea">
+	<g>
+		<line class="st10" x1="15.07" y1="32.64" x2="15.07" y2="29.85"/>
+		<line class="st10" x1="0" y1="29.97" x2="100" y2="29.97"/>
+		<line class="st10" x1="50" y1="32.77" x2="50" y2="29.97"/>
+		<line class="st10" x1="84.93" y1="32.77" x2="84.93" y2="29.97"/>
+	</g>
+	<text transform="matrix(1 0 0 1 10.28 35.2)" class="st6 st11">Ciclo básico</text>
+	<text transform="matrix(1 0 0 1 13.34 37.2)" class="st12 st11">I a IV</text>
+	<text transform="matrix(1 0 0 1 41.37 35.1)" class="st6 st11">Ciclo Especializado</text>
+	<text transform="matrix(1 0 0 1 46.76 37.1)" class="st12 st11">V a VIII</text>
+	<text transform="matrix(1 0 0 1 77.53 35.09)" class="st6 st11">Ciclo profesional</text>
+	<text transform="matrix(1 0 0 1 82.2 37.09)" class="st12 st11">IX a X</text>
+</g>
+</svg>

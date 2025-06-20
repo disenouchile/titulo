@@ -1,57 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 32.83">
   <defs>
     <style>
       .cls-1 {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
+        font-size: 1px;
       }
 
-      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
-        stroke-width: 0px;
-      }
-
-      .cls-7 {
-        letter-spacing: -.02em;
+      .cls-1, .cls-2 {
+        font-family: ArialMT, Arial;
       }
 
       .cls-3 {
-        fill: #393e95;
+        fill: #393f95;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #ff5432;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-7 {
+        fill: #ffa300;
       }
 
       .cls-8 {
-        font-family: ArialMT, Arial;
-        font-size: 1.54px;
+        letter-spacing: -.11em;
       }
 
-      .cls-4 {
-        fill: #d1cee8;
+      .cls-9 {
+        fill: #ffe7b6;
       }
 
-      .cls-5 {
-        fill: #ff3f0d;
+      .cls-10 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 1.5px;
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
       }
 
       .cls-6 {
-        fill: #ffccbe;
+        fill: none;
+      }
+
+      .cls-12 {
+        font-size: 2px;
+      }
+
+      .cls-13 {
+        fill: #d1cfe8;
+      }
+
+      .cls-14 {
+        fill: #ffd3cc;
       }
     </style>
   </defs>
-  <rect class="cls-6" x="72.4" y="7.47" width="20.15" height="5.5"/>
-  <rect class="cls-5" x="72.4" y="12.97" width="20.15" height=".87"/>
-  <rect class="cls-4" x="39.92" y="7.51" width="20.15" height="5.5"/>
-  <rect class="cls-3" x="39.92" y="13.01" width="20.15" height=".87"/>
-  <text class="cls-8" transform="translate(42.73 9.94)"><tspan x="0" y="0">Electivo V y M: Oficio </tspan><tspan x="5.52" y="2.02">dijital</tspan></text>
-  <text class="cls-8" transform="translate(76.24 9.9)"><tspan x="0" y="0">Proyecto de</tspan><tspan class="cls-7" x="8.21" y="0"> </tspan><tspan x="8.61" y="0">Título</tspan><tspan x="4.78" y="2.02">I y II</tspan></text>
-  <text class="cls-8" transform="translate(11.76 17.09)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="2.35" y="2.03">I a IV</tspan></text>
-  <text class="cls-8" transform="translate(43.41 17.09)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="4.06" y="2.03">V a VIII</tspan></text>
-  <text class="cls-8" transform="translate(76.78 16.96)"><tspan x="0" y="0">Ciclo profesional</tspan><tspan x="3.59" y="2.03">IX a X</tspan></text>
-  <line class="cls-1" x1="5.85" y1="14.37" x2="92.55" y2="14.37"/>
-  <rect class="cls-2" x="15.51" y="14.87" width=".8" height=".8"/>
-  <rect class="cls-2" x="49.6" y="14.87" width=".8" height=".8"/>
-  <rect class="cls-2" x="82.07" y="14.87" width=".8" height=".8"/>
-  <rect class="cls-6" x="39.92" width="20.15" height="5.5"/>
-  <rect class="cls-5" x="39.92" y="5.5" width="20.15" height=".87"/>
-  <text class="cls-8" transform="translate(41.1 2.43)"><tspan x="0" y="0">Seminario de Licenciatura</tspan><tspan x="7.44" y="2.02">I y II</tspan></text>
+  <g id="Cuadros">
+    <g>
+      <rect class="cls-14" x="35.38" y="10.97" width="30.15" height="8.59"/>
+      <rect class="cls-5" x="35.38" y="18.64" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-14" x="69.85" y="10.97" width="30.15" height="8.59"/>
+      <rect class="cls-5" x="69.85" y="18.64" width="30.15" height="1.28"/>
+    </g>
+    <g>
+      <rect class="cls-13" x="35.38" y="1.19" width="30.15" height="8.59"/>
+      <rect class="cls-3" x="35.38" y="8.86" width="30.15" height="1.28"/>
+    </g>
+    <text class="cls-10" transform="translate(39.44 15.71)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
+    <text class="cls-10" transform="translate(44.99 5.86)"><tspan x="0" y="0">E. Oficio digital</tspan></text>
+    <text class="cls-10" transform="translate(76.72 15.41)"><tspan x="0" y="0">Proyecto de Título I y II</tspan></text>
+  </g>
+  <g id="Info_lectura" data-name="Info lectura">
+    <g>
+      <g>
+        <g>
+          <rect class="cls-9" x="21.33" y="29.48" width="2" height="1.92"/>
+          <rect class="cls-7" x="21.33" y="31.19" width="2" height=".29"/>
+        </g>
+        <text class="cls-1" transform="translate(24.01 30.86) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-13" x="40.8" y="29.43" width="2" height="1.92"/>
+          <rect class="cls-3" x="40.8" y="31.14" width="2" height=".29"/>
+        </g>
+        <text class="cls-1" transform="translate(43.52 30.85) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-14" x="60.12" y="29.53" width="2" height="1.92"/>
+          <rect class="cls-5" x="60.12" y="31.25" width="2" height=".29"/>
+        </g>
+        <text class="cls-1" transform="translate(62.84 30.84) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+      </g>
+      <g>
+        <text class="cls-1" transform="translate(11.27 30.86) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
+        <text class="cls-10" transform="translate(8.64 31.04)"><tspan x="0" y="0">E</tspan><tspan class="cls-8" x="1" y="0">T</tspan><tspan x="1.75" y="0">.</tspan></text>
+      </g>
+      <g>
+        <text class="cls-1" transform="translate(2.33 30.86) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+        <text class="cls-10" transform="translate(-.01 31.04)"><tspan x="0" y="0">E.</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Línea">
+    <g>
+      <line class="cls-6" x1="15.07" y1="22.59" x2="15.07" y2="19.79"/>
+      <line class="cls-4" y1="19.92" x2="100" y2="19.92"/>
+      <line class="cls-6" x1="50" y1="22.72" x2="50" y2="19.92"/>
+      <line class="cls-6" x1="84.93" y1="22.72" x2="84.93" y2="19.92"/>
+    </g>
+    <text class="cls-12" transform="translate(10.28 25.14)"><tspan class="cls-2"><tspan x="0" y="0">Ciclo básico</tspan></tspan><tspan class="cls-11"><tspan x="3.06" y="2">I a IV</tspan></tspan></text>
+    <text class="cls-12" transform="translate(41.37 25.05)"><tspan class="cls-2"><tspan x="0" y="0">Ciclo Especializado</tspan></tspan><tspan class="cls-11"><tspan x="5.39" y="2">V a VIII</tspan></tspan></text>
+    <text class="cls-12" transform="translate(77.53 25.04)"><tspan class="cls-2"><tspan x="0" y="0">Ciclo profesional</tspan></tspan><tspan class="cls-11"><tspan x="4.67" y="2">IX a X</tspan></tspan></text>
+  </g>
 </svg>
