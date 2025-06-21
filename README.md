@@ -16,7 +16,7 @@ El “vistazo” se divide en 4 páginas:
 
 La página de [Proyectos por Prof. Guía](https://disenouchile.github.io/titulo/profes.html) contiene, en la mayoría de los casos, un diálogo que es útil en dos dimensiones: 
 
-1. En la dimensión institucional: Dando evidencia del conocimiento del modelo educativo y del perfil de egreso de nuestro plantel académico, además de transparentar un aspecto vinculado a la responsabilidad docente en cuanto a la programación de la asignatura. 
+1. En la dimensión institucional: Dando evidencia del conocimiento del modelo educativo y del perfil de egreso de nuestro profesorado, además de transparentar un aspecto vinculado a la responsabilidad docente en la programación de la asignatura. 
 
 2. En la dimensión estudiantil: permitiendo:
 
