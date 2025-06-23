@@ -14,15 +14,13 @@ El “vistazo” se divide en 4 páginas:
 
 - [Proyectos por Semestre](https://disenouchile.github.io/titulo/semestres.html)
 
-La página de [Proyectos por Prof. Guía](https://disenouchile.github.io/titulo/profes.html) contiene, en la mayoría de los casos, un diálogo que es útil en dos dimensiones: 
+La página de [Proyectos por Prof. Guía](https://disenouchile.github.io/titulo/profes.html) contiene, en la mayoría de los casos, un diálogo que es útil en tres dimensiones: 
 
-1. En la dimensión institucional: Dando evidencia del conocimiento del modelo educativo y del perfil de egreso de nuestro profesorado, además de transparentar un aspecto vinculado a la responsabilidad docente en la programación de la asignatura. 
+1. En la dimensión estudiantil: Invita a informarse sobre sus Profesoras y Profesores más allá del rumor que, en ocasiones, desinforma y tergiversa. 
 
-2. En la dimensión estudiantil: permitiendo:
+2. En la dimensión académica: Dando pistas a las afinidades desde las que se podrían levarse “las temáticas declaradas por los grupos de estudio establecidos en el Departamento de Diseño”, a las que refiere el reglamento de carrera cuando trata de la elección de tema y Prof. Guía.
 
-- en lo inmediato: Invitar al estudiantado a informarse sobre sus Profesoras y Profesores más allá del rumor que, en más de alguna ocasión, desinforma y tergiversa. 
-
-- a mediano plazo: Dar pistas a las afinidades desde las que se podrían  levarse “las temáticas declaradas por los grupos de estudio establecidos en el Departamento de Diseño”, a las que refiere el reglamento de carrera cuando trata de la elección de tema y Prof. Guía; con esto podríamos evitarnos, por ejemplo, a 10 estudiantes con un mismo tema pidiendo la guía de un/a único/a Profesor/a.
+3. En la dimensión institucional: Dando evidencia del conocimiento del modelo educativo y del perfil de egreso de nuestro profesorado, además de transparentar un aspecto vinculado a la responsabilidad docente en la programación de la asignatura.
 
 Este sitio web se suma a los esfuerzos por informar ya desplegados en: 
 
