@@ -1,222 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.01 61.23">
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40">
   <defs>
     <style>
       .cls-1 {
-        fill: #393f95;
-      }
-
-      .cls-2 {
-        fill: #ff5432;
-      }
-
-      .cls-3, .cls-4 {
         font-family: Arial-BoldMT, Arial;
         font-size: 1.5px;
         font-weight: 700;
       }
 
-      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
         isolation: isolate;
       }
 
-      .cls-4 {
-        letter-spacing: -.04em;
+      .cls-11, .cls-2 {
+        fill: #1f5592;
       }
 
-      .cls-6, .cls-7 {
-        font-size: 2px;
+      .cls-2, .cls-3, .cls-9 {
+        opacity: .5;
       }
 
-      .cls-6, .cls-8 {
+      .cls-3, .cls-12 {
+        fill: #da4f40;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-10 {
         font-family: ArialMT, Arial;
       }
 
-      .cls-9 {
-        fill: #ffa300;
+      .cls-5, .cls-8 {
+        font-size: 2px;
       }
 
-      .cls-10 {
-        fill: #ffe7b6;
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-7, .cls-10 {
+        font-size: 1px;
       }
 
       .cls-7 {
+        fill: #444;
+      }
+
+      .cls-8 {
         font-family: Arial-ItalicMT, Arial;
         font-style: italic;
       }
 
-      .cls-8 {
-        font-size: 1px;
+      .cls-13 {
+        fill: #1d1d1b;
       }
 
-      .cls-11 {
+      .cls-9, .cls-14 {
+        fill: #f7ce65;
+      }
+
+      .cls-15 {
         fill: none;
         stroke: #1d1d1b;
         stroke-miterlimit: 10;
         stroke-width: .5px;
       }
-
-      .cls-12 {
-        fill: #d1cfe8;
-      }
-
-      .cls-13 {
-        fill: #ffd3cc;
-      }
     </style>
   </defs>
-  <g>
-    <rect class="cls-13" x="0" y="40.1" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="0" y="47.77" width="30.15" height="1.28"/>
-  </g>
-  <g>
-    <rect class="cls-13" x="35.38" y="40.1" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="35.38" y="47.77" width="30.15" height="1.28"/>
-  </g>
-  <g>
-    <rect class="cls-13" x="35.39" y="30.37" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="35.39" y="38.04" width="30.15" height="1.28"/>
-  </g>
-  <g>
-    <rect class="cls-13" x="35.39" y="20.38" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="35.39" y="28.05" width="30.15" height="1.28"/>
-  </g>
-  <g>
-    <rect class="cls-13" x="35.39" y="10.21" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="35.39" y="17.88" width="30.15" height="1.28"/>
-  </g>
-  <g>
-    <rect class="cls-13" x="35.39" width="30.15" height="8.59"/>
-    <rect class="cls-2" x="35.39" y="7.67" width="30.15" height="1.28"/>
-  </g>
-  <g class="cls-5">
-    <g class="cls-5">
-      <text class="cls-3" transform="translate(40.93 44.85)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
-    </g>
-  </g>
-  <g class="cls-5">
-    <g class="cls-5">
-      <text class="cls-3" transform="translate(4.79 44.85)"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></text>
-    </g>
-  </g>
-  <g class="cls-5">
-    <g class="cls-5">
-      <text class="cls-3" transform="translate(39.58 24.15)"><tspan x="0" y="0">Formulación metodológica del </tspan></text>
-      <text class="cls-3" transform="translate(41.37 25.95)"><tspan x="0" y="0">seminario: teoría y crítica</tspan></text>
-    </g>
-  </g>
-  <g class="cls-5">
-    <g class="cls-5">
-      <text class="cls-3" transform="translate(40.46 14.14)"><tspan x="0" y="0">Optativo de Profundización: </tspan></text>
-      <text class="cls-4" transform="translate(40.78 15.94)"><tspan x="0" y="0">A</tspan></text>
-      <text class="cls-3" transform="translate(41.81 15.94)"><tspan x="0" y="0">yudantía de investigación</tspan></text>
-    </g>
-  </g>
-  <g class="cls-5">
-    <g class="cls-5">
-      <text class="cls-3" transform="translate(39.42 3.78)"><tspan x="0" y="0">E. Muralismo en Chile: espacio </tspan></text>
-      <text class="cls-3" transform="translate(40.96 5.58)"><tspan x="0" y="0">público y contexto político</tspan></text>
-    </g>
-  </g>
-  <g id="INDICE">
-    <g>
+  <g id="Simbología">
+    <g id="V">
       <g>
-        <rect class="cls-12" x="40.81" y="59.06" width="2" height="1.92"/>
-        <rect class="cls-1" x="40.81" y="60.77" width="2" height=".29"/>
-      </g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-8" transform="translate(43.53 60.47) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+        <g>
+          <rect class="cls-2" x="28.21" y="38" width="2" height="1.92"/>
+          <rect class="cls-11" x="28.21" y="39.71" width="2" height=".29"/>
+        </g>
+        <g class="cls-4">
+          <text class="cls-10" transform="translate(30.93 39.37) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
         </g>
       </g>
     </g>
-    <g>
+    <g id="I">
       <g>
-        <rect class="cls-13" x="60.14" y="59.16" width="2" height="1.92"/>
-        <rect class="cls-2" x="60.14" y="60.87" width="2" height=".29"/>
-      </g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-8" transform="translate(62.85 60.46) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+        <g>
+          <rect class="cls-9" x="8.64" y="38.04" width="2" height="1.92"/>
+          <rect class="cls-14" x="8.64" y="39.75" width="2" height=".29"/>
+        </g>
+        <g class="cls-4">
+          <text class="cls-10" transform="translate(11.32 39.42) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
         </g>
       </g>
     </g>
-    <g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-8" transform="translate(11.28 60.49) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
-        </g>
-      </g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-3" transform="translate(8.65 60.67)"><tspan x="0" y="0">E</tspan></text>
-        </g>
-        <g class="cls-5">
-          <text class="cls-3" transform="translate(9.65 60.67)"><tspan x="0" y="0">T</tspan></text>
-        </g>
-        <g class="cls-5">
-          <text class="cls-3" transform="translate(10.4 60.67)"><tspan x="0" y="0">.</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-8" transform="translate(2.34 60.49) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
-        </g>
-      </g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-3" transform="translate(0 60.67)"><tspan x="0" y="0">E.</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g>
+    <g id="DOS">
       <g>
-        <rect class="cls-10" x="22.03" y="59.16" width="2" height="1.92"/>
-        <rect class="cls-9" x="22.03" y="60.87" width="2" height=".29"/>
-      </g>
-      <g class="cls-5">
-        <g class="cls-5">
-          <text class="cls-8" transform="translate(24.71 60.55) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+        <g>
+          <rect class="cls-3" x="47.61" y="38.01" width="2" height="1.92"/>
+          <rect class="cls-12" x="47.61" y="39.72" width="2" height=".29"/>
         </g>
+        <g class="cls-4">
+          <text class="cls-10" transform="translate(50.32 39.37) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="ELECTIVO">
+      <g id="ELEC">
+        <g class="cls-4">
+          <text class="cls-10" transform="translate(2.21 39.63) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(-.14 39.81)"><tspan x="0" y="0">E.</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Cuadros">
+    <g id="AZUL">
+      <g id="B2">
+        <g>
+          <rect class="cls-2" x="34.9" y="9.81" width="30.15" height="8.2"/>
+          <rect class="cls-11" x="34.9" y="17.25" width="30.15" height="1.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="AMARILLO">
+      <g id="A2">
+        <g>
+          <rect class="cls-9" x="34.9" y="19.75" width="30.15" height="8.24"/>
+          <rect class="cls-14" x="34.9" y="27.2" width="30.15" height="1.49"/>
+        </g>
+      </g>
+    </g>
+    <g id="ROJO">
+      <g id="_1" data-name=" 1">
+        <g>
+          <rect class="cls-3" x="0" y="19.77" width="30.15" height="8.24"/>
+          <rect class="cls-12" x="0" y="27.22" width="30.15" height="1.49"/>
+        </g>
+      </g>
+      <g id="_2" data-name=" 2">
+        <g>
+          <rect class="cls-3" x="34.93" y=".04" width="30.15" height="8.24"/>
+          <rect class="cls-12" x="34.93" y="7.49" width="30.15" height="1.49"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="TEXTO">
+    <g id="T1">
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(4.9 23.56)"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></text>
+        <text class="cls-7" transform="translate(9.8 25.06)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+      </g>
+    </g>
+    <g id="T2">
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(40.21 23.46)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
+        <text class="cls-7" transform="translate(44.61 24.96)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(41.11 13.59)"><tspan x="0" y="0">Seminario Licenciatura II</tspan></text>
+        <text class="cls-7" transform="translate(44.18 15.09)"><tspan x="0" y="0">(Segundo semestre-2024)</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(36.29 2.81)"><tspan x="0" y="0">E. Muralismo en Chile:espacio público </tspan></text>
+        <text class="cls-1" transform="translate(43.36 4.81)"><tspan x="0" y="0">y contexto político</tspan></text>
+        <text class="cls-7" transform="translate(44.71 6.31)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="CODIGO">
+    <g id="C1">
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(12.09 28.18)"><tspan x="0" y="0">(AUD10002)</tspan></text>
+      </g>
+    </g>
+    <g id="C2">
+      <g class="cls-4">
+        <text class="cls-10" transform="translate(47.36 28.29)"><tspan x="0" y="0">(AUD7I002)</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(47.14 18.35)"><tspan x="0" y="0">(AUD8V001)</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-6" transform="translate(47.3 8.5)"><tspan x="0" y="0">(AUDIV058)</tspan></text>
       </g>
     </g>
   </g>
   <g id="Línea">
     <g>
-      <line class="cls-11" x1="15.09" y1="51.72" x2="15.09" y2="48.92"/>
-      <line class="cls-11" x1="0" y1="49.05" x2="100.01" y2="49.05"/>
-      <line class="cls-11" x1="50.01" y1="51.85" x2="50.01" y2="49.05"/>
-      <line class="cls-11" x1="84.94" y1="51.85" x2="84.94" y2="49.05"/>
+      <line class="cls-15" x1="15.04" y1="31.6" x2="15.04" y2="28.8"/>
+      <line class="cls-15" x1="-.03" y1="28.93" x2="99.98" y2="28.93"/>
+      <line class="cls-15" x1="49.97" y1="31.72" x2="49.97" y2="28.93"/>
+      <line class="cls-15" x1="84.9" y1="31.72" x2="84.9" y2="28.93"/>
     </g>
-    <g class="cls-5">
-      <g class="cls-5">
-        <text class="cls-6" transform="translate(10.3 54.27)"><tspan x="0" y="0">Ciclo básico</tspan></text>
-      </g>
-      <g class="cls-5">
-        <text class="cls-7" transform="translate(13.36 56.27)"><tspan x="0" y="0">I a IV</tspan></text>
-      </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(10.26 33.79)"><tspan x="0" y="0">Ciclo básico</tspan></text>
+      <text class="cls-8" transform="translate(8.76 35.79)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
     </g>
-    <g class="cls-5">
-      <g class="cls-5">
-        <text class="cls-6" transform="translate(41.38 54.18)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
-      </g>
-      <g class="cls-5">
-        <text class="cls-7" transform="translate(46.77 56.18)"><tspan x="0" y="0">V a VIII</tspan></text>
-      </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(41.3 33.83)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
+      <text class="cls-8" transform="translate(42.14 35.83)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
     </g>
-    <g class="cls-5">
-      <g class="cls-5">
-        <text class="cls-6" transform="translate(77.55 54.17)"><tspan x="0" y="0">Ciclo profesional</tspan></text>
-      </g>
-      <g class="cls-5">
-        <text class="cls-7" transform="translate(82.22 56.17)"><tspan x="0" y="0">IX a X</tspan></text>
-      </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(77.4 33.82)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
+      <text class="cls-8" transform="translate(77.61 35.82)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
     </g>
   </g>
-  <g class="cls-5">
-    <text class="cls-3" transform="translate(40.87 34.14)"><tspan x="0" y="0">Seminario de Licenciatura: </tspan></text>
-    <text class="cls-3" transform="translate(45.37 35.94)"><tspan x="0" y="0">teoría y crítica</tspan></text>
-  </g>
+  <rect class="cls-13" x="54.86" y="8.97" width=".84" height=".84"/>
 </svg>
