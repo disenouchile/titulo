@@ -265,28 +265,28 @@ function dialogante(array) {
 function areas(data) {
     var susAreas = "";
     if (data.includes("1")) {
-        susAreas += "<dd>A1. SISTEMAS FÍSICOS, NATURALES Y CAMBIOS AMBIENTALES</dd>";
+        susAreas += `<dd class="small">A1. SISTEMAS FÍSICOS, NATURALES Y CAMBIOS AMBIENTALES</dd>`;
     }
     if (data.includes("2")) {
-        susAreas += "<dd>A2. DIMENSIONES SOCIOECOLÓGICAS EN EL TERRITORIO</dd>";
+        susAreas += `<dd class="small">A2. DIMENSIONES SOCIOECOLÓGICAS EN EL TERRITORIO</dd>`;
     }
     if (data.includes("3")) {
-        susAreas += "<dd>A3. ASENTAMIENTOS, MOVILIDADES Y ORGÁNICAS COMUNITARIAS</dd>";
+        susAreas += `<dd class="small">A3. ASENTAMIENTOS, MOVILIDADES Y ORGÁNICAS COMUNITARIAS</dd>`;
     }
     if (data.includes("4")) {
-        susAreas += "<dd>A4. DINÁMICAS Y TRANSFORMACIONES MORFOLÓGICAS, URBANAS Y RURALES</dd>";
+        susAreas += `<dd class="small">A4. DINÁMICAS Y TRANSFORMACIONES MORFOLÓGICAS, URBANAS Y RURALES</dd>`;
     }
     if (data.includes("5")) {
-        susAreas += "<dd>A5. CREACIÓN, INNOVACIÓN PROYECTUAL Y DESARROLLOS TECNOLÓGICOS</dd>";
+        susAreas += `<dd class="small">A5. CREACIÓN, INNOVACIÓN PROYECTUAL Y DESARROLLOS TECNOLÓGICOS</dd>`;
     }
     if (data.includes("6")) {
-        susAreas += "<dd>A6. CONSERVACIÓN E INTERVENCIÓN DE OBRAS, ENTORNOS Y CIUDADES PATRIMONIALES</dd>";
+        susAreas += `<dd class="small">A6. CONSERVACIÓN E INTERVENCIÓN DE OBRAS, ENTORNOS Y CIUDADES PATRIMONIALES</dd>`;
     }
     if (data.includes("7")) {
-        susAreas += "<dd>A7. CULTURAS VISUALES, MATERIALES-INMATERIALES Y MEDIALES</dd>";
+        susAreas += `<dd class="small">A7. CULTURAS VISUALES, MATERIALES-INMATERIALES Y MEDIALES</dd>`;
     }
     if (data.includes("8")) {
-        susAreas += "<dd>A8. FENÓMENOS SENSIBLES, PERCEPTUALES Y CORPORALES EN EL ENTORNO</dd>";
+        susAreas += `<dd class="small">A8. FENÓMENOS SENSIBLES, PERCEPTUALES Y CORPORALES EN EL ENTORNO</dd>`;
     }
     return susAreas;
 }
@@ -294,22 +294,22 @@ function areas(data) {
 function lineas(data) {
     var susLineas = "";
     if (data.includes("1")) {
-        susLineas += "<dd>L1. Diseño centrado en la persona</dd>";
+        susLineas += `<dd class="small">L1. Diseño centrado en la persona</dd>`;
     }
     if (data.includes("2")) {
-        susLineas += "<dd>L2. Materiales, Tecnologías y Procesos</dd>";
+        susLineas += `<dd class="small">L2. Materiales, Tecnologías y Procesos</dd>`;
     }
     if (data.includes("3")) {
-        susLineas += "<dd>L3. Morfología, Percepción y Color</dd>";
+        susLineas += `<dd class="small">L3. Morfología, Percepción y Color</dd>`;
     }
     if (data.includes("4")) {
-        susLineas += "<dd>L4. Identidad y Patrimonio</dd>";
+        susLineas += `<dd class="small">L4. Identidad y Patrimonio</dd>`;
     }
     if (data.includes("5")) {
-        susLineas += "<dd>L5. Estudios Visuales y Mediales</dd>";
+        susLineas += `<dd class="small">L5. Estudios Visuales y Mediales</dd>`;
     }
     if (data.includes("6")) {
-        susLineas += "<dd>L6. Diseño Editorial y Tipografía</dd>";
+        susLineas += `<dd class="small">L6. Diseño Editorial y Tipografía</dd>`;
     }
     return susLineas;
 }
@@ -317,13 +317,13 @@ function lineas(data) {
 function enfasis(data) {
     var susEnfasis = "";
     if (data.includes("1")) {
-        susEnfasis += "<dd>E1. Innovación</dd>";
+        susEnfasis += `<dd class="small">E1. Innovación</dd>`;
     }
     if (data.includes("2")) {
-        susEnfasis += "<dd>E2. Creación</dd>";
+        susEnfasis += `<dd class="small">E2. Creación</dd>`;
     }
     if (data.includes("3")) {
-        susEnfasis += "<dd>E3. Investigación</dd>";
+        susEnfasis += `<dd class="small">E3. Investigación</dd>`;
     }
     return susEnfasis;
 }
@@ -347,9 +347,9 @@ function keywords(data) {
 
 function more(data) {
     var suInfo = "";
-    if(data.perfil){ suInfo += `<a href="${data.perfil}" target="_blank" class="link-dark">Portafolio académico</a> `;}
-    if(data.website){ suInfo += `<a href="${data.website}" target="_blank" class="link-dark">Sitio web</a> `;}
-    if(data.linkedin){ suInfo += `<a href="${data.linkedin}" target="_blank" class="link-dark">LinkedIn</a> `;}
-    if(data.scholar){ suInfo += `<a href="${data.scholar}" target="_blank" class="link-dark">Google Académico</a> `;}
+    if(data.perfil){ suInfo += `<a href="${data.perfil}" target="_blank" class="link-dark">Portafolio académico</a> &nbsp;`;}
+    if(data.website){ suInfo += `<a href="${data.website}" target="_blank" class="link-dark">Sitio web</a> &nbsp;`;}
+    if(data.linkedin){ suInfo += `<a href="${data.linkedin}" target="_blank" class="link-dark">LinkedIn</a> &nbsp;`;}
+    if(data.scholar){ suInfo += `<a href="${data.scholar}" target="_blank" class="link-dark">Google Académico</a> &nbsp;`;}
     return suInfo;
 }
