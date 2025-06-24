@@ -10,10 +10,6 @@
         font-family: ArialMT, Arial;
       }
 
-      .cls-2 {
-        fill: #fff;
-      }
-
       .cls-5 {
         fill: #ff5432;
       }
@@ -24,7 +20,7 @@
         stroke-width: .5px;
       }
 
-      .cls-3 {
+      .cls-2 {
         fill: #444;
       }
 
@@ -46,15 +42,24 @@
         fill: #da4f40;
       }
 
-      .cls-10, .cls-12 {
+      .cls-10, .cls-12, .cls-13 {
         fill: #1f5592;
       }
 
-      .cls-13 {
+      .cls-14 {
         letter-spacing: -.07em;
       }
 
-      .cls-14 {
+      .cls-3 {
+        fill: #fff;
+        letter-spacing: .03em;
+      }
+
+      .cls-13 {
+        opacity: .4;
+      }
+
+      .cls-15 {
         font-family: Arial-ItalicMT, Arial;
         font-style: italic;
       }
@@ -63,7 +68,7 @@
         fill: none;
       }
 
-      .cls-15 {
+      .cls-16 {
         font-size: 2px;
       }
     </style>
@@ -88,29 +93,29 @@
   </g>
   <g id="Cuadros">
     <g>
-      <rect class="cls-10" x="69.84" y="9.78" width="30.15" height="8.25"/>
+      <rect class="cls-13" x="69.84" y="9.78" width="30.15" height="8.25"/>
       <rect class="cls-12" x="69.84" y="17.23" width="30.15" height="1.49"/>
     </g>
     <g>
-      <rect class="cls-10" x="34.93" y="9.78" width="30.15" height="8.24"/>
+      <rect class="cls-13" x="34.93" y="9.78" width="30.15" height="8.24"/>
       <rect class="cls-12" x="34.93" y="17.23" width="30.15" height="1.49"/>
     </g>
-    <text transform="translate(46.08 13.28)"><tspan class="cls-7"><tspan x="0" y="0">Proyecto V</tspan></tspan><tspan class="cls-3"><tspan x="-1.36" y="1.5">(Primer semestre-2025)</tspan></tspan></text>
-    <text transform="translate(77.97 13.31)"><tspan class="cls-8"><tspan x="0" y="0">Proyecto de Título I</tspan></tspan><tspan class="cls-3"><tspan x="1.68" y="1.5">(Primer semestre-2025) </tspan></tspan></text>
+    <text transform="translate(46.08 13.28)"><tspan class="cls-7"><tspan x="0" y="0">Proyecto V</tspan></tspan><tspan class="cls-2"><tspan x="-1.36" y="1.5">(Primer semestre-2025)</tspan></tspan></text>
+    <text transform="translate(77.97 13.31)"><tspan class="cls-8"><tspan x="0" y="0">Proyecto de Título I</tspan></tspan><tspan class="cls-2"><tspan x="1.68" y="1.5">(Primer semestre-2025) </tspan></tspan></text>
     <g>
       <rect class="cls-9" width="30.15" height="8.2"/>
       <rect class="cls-11" y="7.44" width="30.15" height="1.5"/>
     </g>
-    <text transform="translate(4.79 3.51)"><tspan class="cls-7"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></tspan><tspan class="cls-3"><tspan x="4.44" y="1.5">(Segundo semestre-2024)</tspan></tspan></text>
-    <text class="cls-2" transform="translate(12.3 8.51)"><tspan x="0" y="0">(AUD10002)</tspan></text>
-    <text class="cls-2" transform="translate(82.09 18.34)"><tspan x="0" y="0">(AUD9V001)</tspan></text>
-    <text class="cls-2" transform="translate(47.17 18.27)"><tspan x="0" y="0">(AUD5V001)</tspan></text>
+    <text transform="translate(4.79 3.51)"><tspan class="cls-7"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></tspan><tspan class="cls-2"><tspan x="4.44" y="1.5">(Segundo semestre-2024)</tspan></tspan></text>
+    <text class="cls-3" transform="translate(12.18 8.51)"><tspan x="0" y="0">(AUD10002)</tspan></text>
+    <text class="cls-3" transform="translate(81.98 18.34)"><tspan x="0" y="0">(AUD9V001)</tspan></text>
+    <text class="cls-3" transform="translate(47.05 18.27)"><tspan x="0" y="0">(AUD5V001)</tspan></text>
     <g>
       <rect class="cls-9" x="0" y="9.78" width="30.15" height="8.25"/>
       <rect class="cls-11" y="17.23" width="30.15" height="1.49"/>
     </g>
-    <text transform="translate(5.73 13.29)"><tspan class="cls-8"><tspan class="cls-13" x="0" y="0">T</tspan><tspan x=".8" y="0">eoría y Crítica del Diseño</tspan></tspan><tspan class="cls-3"><tspan x="-1.92" y="1.5">(Primer semestre-2025 y Segundo semestre-2024) </tspan></tspan></text>
-    <text class="cls-2" transform="translate(12.29 18.36)"><tspan x="0" y="0">(AUD20002)</tspan></text>
+    <text transform="translate(5.73 13.29)"><tspan class="cls-8"><tspan class="cls-14" x="0" y="0">T</tspan><tspan x=".8" y="0">eoría y Crítica del Diseño</tspan></tspan><tspan class="cls-2"><tspan x="-1.92" y="1.5">(Primer semestre-2025 y Segundo semestre-2024) </tspan></tspan></text>
+    <text class="cls-3" transform="translate(12.18 18.36)"><tspan x="0" y="0">(AUD20002)</tspan></text>
   </g>
   <g id="Línea">
     <g>
@@ -119,8 +124,8 @@
       <line class="cls-6" x1="50" y1="21.75" x2="50" y2="18.96"/>
       <line class="cls-6" x1="84.93" y1="21.75" x2="84.93" y2="18.96"/>
     </g>
-    <text class="cls-15" transform="translate(10.28 23.82)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo básico</tspan></tspan><tspan class="cls-14"><tspan x="-1.5" y="2">Semestre I a IV</tspan></tspan></text>
-    <text class="cls-15" transform="translate(41.33 23.86)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo Especializado</tspan></tspan><tspan class="cls-14"><tspan x=".83" y="2">Semestre V a VIII</tspan></tspan></text>
-    <text class="cls-15" transform="translate(77.42 23.85)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo Profesional</tspan></tspan><tspan class="cls-14"><tspan x=".22" y="2">Semestre IX a X</tspan></tspan></text>
+    <text class="cls-16" transform="translate(10.28 23.82)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo básico</tspan></tspan><tspan class="cls-15"><tspan x="-1.5" y="2">Semestre I a IV</tspan></tspan></text>
+    <text class="cls-16" transform="translate(41.33 23.86)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo Especializado</tspan></tspan><tspan class="cls-15"><tspan x=".83" y="2">Semestre V a VIII</tspan></tspan></text>
+    <text class="cls-16" transform="translate(77.42 23.85)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo Profesional</tspan></tspan><tspan class="cls-15"><tspan x=".22" y="2">Semestre IX a X</tspan></tspan></text>
   </g>
 </svg>

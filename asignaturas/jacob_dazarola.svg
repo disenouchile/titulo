@@ -1,131 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20">
-  <defs>
-    <style>
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
-        isolation: isolate;
-      }
-
-      .cls-1, .cls-5 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 1.5px;
-        font-weight: 700;
-      }
-
-      .cls-3, .cls-4, .cls-7, .cls-9 {
-        font-family: ArialMT, Arial;
-      }
-
-      .cls-3, .cls-6 {
-        font-size: 2px;
-      }
-
-      .cls-10 {
-        letter-spacing: -.08em;
-      }
-
-      .cls-4 {
-        fill: #444;
-      }
-
-      .cls-4, .cls-7, .cls-9 {
-        font-size: 1px;
-      }
-
-      .cls-11 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-5 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-6 {
-        font-family: Arial-ItalicMT, Arial;
-        font-style: italic;
-      }
-
-      .cls-7 {
-        fill: #1d1d1b;
-      }
-
-      .cls-8 {
-        opacity: .5;
-      }
-
-      .cls-8, .cls-12 {
-        fill: #f7ce65;
-      }
-
-      .cls-13 {
-        fill: none;
-        stroke: #1d1d1b;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-    </style>
-  </defs>
-  <g id="Simbología">
-    <g>
-      <rect class="cls-8" y="18" width="2" height="1.92"/>
-      <rect class="cls-12" y="19.71" width="2" height=".29"/>
-    </g>
-    <g class="cls-2">
-      <text class="cls-9" transform="translate(2.68 19.39) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
-    </g>
-  </g>
-  <g id="Cuadros">
-    <g>
-      <rect class="cls-8" x="69.84" y="-.02" width="30.15" height="8.25"/>
-      <rect class="cls-12" x="69.84" y="7.43" width="30.15" height="1.49"/>
-    </g>
-    <g>
-      <rect class="cls-8" x="34.93" y="-.02" width="30.15" height="8.24"/>
-      <rect class="cls-12" x="34.93" y="7.43" width="30.15" height="1.49"/>
-    </g>
-    <g class="cls-2">
-      <text class="cls-1" transform="translate(39.21 3.48)"><tspan x="0" y="0">Seminario de Licenciatura I y II </tspan></text>
-      <text class="cls-4" transform="translate(38.93 4.98)"><tspan x="0" y="0">(Segundo semestre-2024 y Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-2">
-      <text class="cls-1" transform="translate(76.92 3.51)"><tspan x="0" y="0">Proyecto de </tspan></text>
-      <text class="cls-5" transform="translate(85.92 3.51)"><tspan x="0" y="0">T</tspan></text>
-      <text class="cls-1" transform="translate(86.81 3.51)"><tspan x="0" y="0">itulo I y II</tspan></text>
-      <text class="cls-4" transform="translate(73.83 5.01)"><tspan x="0" y="0">(Segundo semestre-2024 y Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-2">
-      <text class="cls-7" transform="translate(44.62 8.43)"><tspan class="cls-11" x="0" y="0">(</tspan><tspan class="cls-10" x=".31" y="0">A</tspan></text>
-      <text class="cls-7" transform="translate(45.49 8.43)"><tspan x="0" y="0">UD7I002) | </tspan></text>
-      <text class="cls-7" transform="translate(50.38 8.43)"><tspan class="cls-11" x="0" y="0">(</tspan><tspan class="cls-10" x=".31" y="0">A</tspan></text>
-      <text class="cls-7" transform="translate(51.25 8.43)"><tspan x="0" y="0">UD8I001)</tspan></text>
-    </g>
-    <g class="cls-2">
-      <text class="cls-7" transform="translate(79.71 8.46)"><tspan class="cls-11" x="0" y="0">(</tspan><tspan class="cls-10" x=".31" y="0">A</tspan></text>
-      <text class="cls-7" transform="translate(80.58 8.46)"><tspan x="0" y="0">UD9I001) | </tspan></text>
-      <text class="cls-7" transform="translate(85.37 8.46)"><tspan class="cls-11" x="0" y="0">(</tspan><tspan class="cls-10" x=".31" y="0">A</tspan></text>
-      <text class="cls-7" transform="translate(86.24 8.46)"><tspan x="0" y="0">U</tspan></text>
-      <text class="cls-7" transform="translate(86.92 8.46)"><tspan x="0" y="0">D</tspan></text>
-      <text class="cls-7" transform="translate(87.58 8.46)"><tspan x="0" y="0">10I01)</tspan></text>
-    </g>
-  </g>
-  <g id="Línea">
-    <g>
-      <line class="cls-13" x1="15.07" y1="11.83" x2="15.07" y2="9.03"/>
-      <line class="cls-13" y1="9.16" x2="100" y2="9.16"/>
-      <line class="cls-13" x1="50" y1="11.95" x2="50" y2="9.16"/>
-      <line class="cls-13" x1="84.93" y1="11.95" x2="84.93" y2="9.16"/>
-    </g>
-    <g class="cls-2">
-      <text class="cls-3" transform="translate(10.28 14.02)"><tspan x="0" y="0">Ciclo básico</tspan></text>
-      <text class="cls-6" transform="translate(8.78 16.02)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
-    </g>
-    <g class="cls-2">
-      <text class="cls-3" transform="translate(41.33 14.06)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
-      <text class="cls-6" transform="translate(42.16 16.06)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
-    </g>
-    <g class="cls-2">
-      <text class="cls-3" transform="translate(77.42 14.05)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
-      <text class="cls-6" transform="translate(77.64 16.05)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 30" style="enable-background:new 0 0 100 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.5;fill:#F7CE65;enable-background:new    ;}
+	.st1{fill:#F7CE65;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:1px;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:1.5px;}
+	.st6{fill:#444444;}
+	.st7{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{font-size:2px;}
+	.st9{font-family:'Arial-ItalicMT';}
+	.st10{fill:none;}
+</style>
+<g id="Simbología">
+	<g>
+		<rect y="28" class="st0" width="2" height="1.9"/>
+		<rect y="29.7" class="st1" width="2" height="0.3"/>
+	</g>
+	<g>
+		<text transform="matrix(1.1 0 0 1 2.6802 29.3852)" class="st2 st3">Mención industrial y servicios</text>
+	</g>
+</g>
+<g id="Cuadros">
+	<g>
+		<rect x="69.8" y="10" class="st0" width="30.2" height="8.2"/>
+		<rect x="69.8" y="17.4" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<rect x="34.9" y="10" class="st0" width="30.2" height="8.2"/>
+		<rect x="34.9" y="17.4" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 40.0589 13.475)" class="st4 st5">Seminario de Licenciatura I</text>
+		<text transform="matrix(1 0 0 1 38.93 14.975)" class="st6 st2 st3">(Segundo semestre-2024 y Primer semestre-2025)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 76.92 13.5051)" class="st4 st5">Proyecto de</text>
+		<text transform="matrix(1 0 0 1 85.92 13.5051)" class="st4 st5">T</text>
+		<text transform="matrix(1 0 0 1 86.81 13.5051)" class="st4 st5">itulo II</text>
+		<text transform="matrix(1 0 0 1 73.83 15.0051)" class="st6 st2 st3">(Segundo semestre-2024 y Primer semestre-2025)</text>
+	</g>
+</g>
+<g id="Cuadros_00000011713212448141004910000013547692572296574644_">
+	<g>
+		<rect x="69.8" y="0.2" class="st0" width="30.2" height="8.2"/>
+		<rect x="69.8" y="7.6" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<rect x="34.9" y="0.2" class="st0" width="30.2" height="8.2"/>
+		<rect x="34.9" y="7.6" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 39.8502 3.673)" class="st4 st5">Seminario de Licenciatura II</text>
+		<text transform="matrix(1 0 0 1 38.93 5.173)" class="st6 st2 st3">(Segundo semestre-2024 y Primer semestre-2025)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 76.92 3.7031)" class="st4 st5">Proyecto de</text>
+		<text transform="matrix(1 0 0 1 85.92 3.7031)" class="st4 st5">T</text>
+		<text transform="matrix(1 0 0 1 86.81 3.7031)" class="st4 st5">itulo II</text>
+		<text transform="matrix(1 0 0 1 73.83 5.2031)" class="st6 st2 st3">(Segundo semestre-2024 y Primer semestre-2025)</text>
+	</g>
+</g>
+<g id="Línea">
+	<g>
+		<line class="st7" x1="15.1" y1="21.8" x2="15.1" y2="19"/>
+		<line class="st7" x1="0" y1="19.2" x2="100" y2="19.2"/>
+		<line class="st7" x1="50" y1="21.9" x2="50" y2="19.2"/>
+		<line class="st7" x1="84.9" y1="21.9" x2="84.9" y2="19.2"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 10.28 24.0151)" class="st2 st8">Ciclo básico</text>
+		<text transform="matrix(1 0 0 1 8.78 26.0151)" class="st9 st8">Semestre I a IV</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 41.33 24.0551)" class="st2 st8">Ciclo Especializado</text>
+		<text transform="matrix(1 0 0 1 42.16 26.0551)" class="st9 st8">Semestre V a VIII</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 77.42 24.0451)" class="st2 st8">Ciclo Profesional</text>
+		<text transform="matrix(1 0 0 1 77.64 26.0451)" class="st9 st8">Semestre IX a X</text>
+	</g>
+</g>
+<rect x="46.8" y="17.8" class="st10" width="6.3" height="0.9"/>
+<text transform="matrix(1 0 0 1 47.2482 18.478)" class="st2 st3">(AUD7I002)</text>
+<rect x="46.8" y="7.9" class="st10" width="6.3" height="0.9"/>
+<text transform="matrix(1 0 0 1 47.2482 8.621)" class="st2 st3">(AUD8I001)</text>
+<rect x="82.3" y="17.8" class="st10" width="6.3" height="0.9"/>
+<text transform="matrix(1 0 0 1 82.6946 18.478)" class="st2 st3">(AUD9I001)</text>
+<rect x="81.8" y="7.9" class="st10" width="6.3" height="0.9"/>
+<text transform="matrix(1 0 0 1 82.1782 8.6209)" class="st2 st3">(AUD10I01)</text>
 </svg>

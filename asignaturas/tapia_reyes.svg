@@ -1,199 +1,170 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 50">
-  <defs>
-    <style>
-      .cls-1 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 1.5px;
-        font-weight: 700;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
-        isolation: isolate;
-      }
-
-      .cls-2, .cls-9 {
-        opacity: .5;
-      }
-
-      .cls-2, .cls-11 {
-        fill: #da4f40;
-      }
-
-      .cls-4, .cls-5, .cls-6, .cls-8, .cls-10 {
-        font-family: ArialMT, Arial;
-      }
-
-      .cls-4, .cls-7 {
-        font-size: 2px;
-      }
-
-      .cls-5 {
-        fill: #fff;
-      }
-
-      .cls-5, .cls-6, .cls-8, .cls-10 {
-        font-size: 1px;
-      }
-
-      .cls-12 {
-        letter-spacing: -.11em;
-      }
-
-      .cls-6 {
-        fill: #444;
-      }
-
-      .cls-7 {
-        font-family: Arial-ItalicMT, Arial;
-        font-style: italic;
-      }
-
-      .cls-8 {
-        fill: #1d1d1b;
-      }
-
-      .cls-9, .cls-13 {
-        fill: #f7ce65;
-      }
-
-      .cls-14 {
-        fill: none;
-        stroke: #1d1d1b;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-
-      .cls-15 {
-        letter-spacing: 0em;
-      }
-    </style>
-  </defs>
-  <g id="Cuadros">
-    <g>
-      <rect class="cls-9" x="69.84" y="29.54" width="30.15" height="8.25"/>
-      <rect class="cls-13" x="69.84" y="36.99" width="30.15" height="1.49"/>
-    </g>
-    <g>
-      <rect class="cls-9" x="34.93" y="29.55" width="30.15" height="8.24"/>
-      <rect class="cls-13" x="34.93" y="37" width="30.15" height="1.49"/>
-    </g>
-    <g>
-      <rect class="cls-9" x="34.92" y="19.76" width="30.15" height="8.2"/>
-      <rect class="cls-13" x="34.92" y="27.2" width="30.15" height="1.5"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(45.66 23.27)"><tspan x="0" y="0">Proyecto VII</tspan></text>
-      <text class="cls-6" transform="translate(44.7 24.77)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(39 33.05)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
-      <text class="cls-6" transform="translate(38.72 34.55)"><tspan x="0" y="0">(Primer semestre-2025 y Segundo semestre-2024)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(76.72 33.07)"><tspan x="0" y="0">Proyecto de Título I y II</tspan></text>
-      <text class="cls-6" transform="translate(79.64 34.57)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(47.54 28.26)"><tspan x="0" y="0">(AUD7I001)</tspan></text>
-    </g>
-    <g>
-      <rect class="cls-2" x="-.03" y="29.53" width="30.15" height="8.2"/>
-      <rect class="cls-11" x="-.03" y="36.97" width="30.15" height="1.5"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(6.46 33.03)"><tspan x="0" y="0">Procesos y Prototipos II</tspan></text>
-      <text class="cls-6" transform="translate(9.25 34.53)"><tspan x="0" y="0">(Segundo semestre-2024)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-5" transform="translate(12.35 38.02)"><tspan x="0" y="0">(AUD40005)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(79.68 38.09)"><tspan x="0" y="0">(AUD9I001) | (AUD10I01)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(44.59 38.02)"><tspan x="0" y="0">(AUD7I002) | (AUD8I001)</tspan></text>
-    </g>
-    <g>
-      <rect class="cls-9" x="34.92" y="9.97" width="30.15" height="8.2"/>
-      <rect class="cls-13" x="34.92" y="17.41" width="30.15" height="1.5"/>
-    </g>
-    <g>
-      <rect class="cls-9" x="34.93" y=".19" width="30.15" height="8.2"/>
-      <rect class="cls-13" x="34.93" y="7.63" width="30.15" height="1.5"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(40.16 12.47)"><tspan x="0" y="0">E</tspan><tspan class="cls-12" x="1" y="0">T</tspan><tspan class="cls-15" x="1.75" y="0">. Materiales, tecnologías y </tspan></text>
-      <text class="cls-1" transform="translate(41.74 14.47)"><tspan x="0" y="0">Procesos de fabricación</tspan></text>
-      <text class="cls-6" transform="translate(45.12 15.97)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(47.93 18.46)"><tspan x="0" y="0">(AUD6I016)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(40.35 1.69)"><tspan x="0" y="0">E. Principios de estructuras, </tspan></text>
-      <text class="cls-1" transform="translate(38.06 3.69)"><tspan x="0" y="0">materiales compuestos y plásticos </tspan></text>
-      <text class="cls-1" transform="translate(46.64 5.69)"><tspan x="0" y="0">reforzados</tspan></text>
-      <text class="cls-6" transform="translate(44.69 7.19)"><tspan x="0" y="0">(Segundo semestre-2024)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(47.92 8.68)"><tspan x="0" y="0">(AUD7I020)</tspan></text>
-    </g>
-  </g>
-  <g id="Línea">
-    <g>
-      <line class="cls-14" x1="15.07" y1="41.39" x2="15.07" y2="38.59"/>
-      <line class="cls-14" y1="38.72" x2="100" y2="38.72"/>
-      <line class="cls-14" x1="50" y1="41.52" x2="50" y2="38.72"/>
-      <line class="cls-14" x1="84.93" y1="41.52" x2="84.93" y2="38.72"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(10.28 43.58)"><tspan x="0" y="0">Ciclo básico</tspan></text>
-      <text class="cls-7" transform="translate(8.78 45.58)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(41.33 43.62)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
-      <text class="cls-7" transform="translate(42.16 45.62)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(77.42 43.61)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
-      <text class="cls-7" transform="translate(77.64 45.61)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
-    </g>
-  </g>
-  <g>
-    <g id="Simbología">
-      <g>
-        <rect class="cls-9" x="21.07" y="47.99" width="2" height="1.92"/>
-        <rect class="cls-13" x="21.07" y="49.71" width="2" height=".29"/>
-      </g>
-      <g class="cls-3">
-        <text class="cls-10" transform="translate(23.75 49.38) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
-      </g>
-      <g>
-        <g class="cls-3">
-          <text class="cls-10" transform="translate(11.07 49.38) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
-        </g>
-        <g class="cls-3">
-          <text class="cls-1" transform="translate(8.56 49.56)"><tspan x="0" y="0">E</tspan><tspan class="cls-12" x="1" y="0">T</tspan><tspan class="cls-15" x="1.75" y="0">.</tspan></text>
-        </g>
-      </g>
-      <g>
-        <g class="cls-3">
-          <text class="cls-10" transform="translate(2.24 49.38) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
-        </g>
-        <g class="cls-3">
-          <text class="cls-1" transform="translate(-.11 49.56)"><tspan x="0" y="0">E.</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g>
-      <g>
-        <rect class="cls-2" x="40.65" y="48.02" width="2" height="1.92"/>
-        <rect class="cls-11" x="40.65" y="49.73" width="2" height=".29"/>
-      </g>
-      <g class="cls-3">
-        <text class="cls-10" transform="translate(43.37 49.38) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 65" style="enable-background:new 0 0 100 65;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.5;fill:#F7CE65;enable-background:new    ;}
+	.st1{fill:#F7CE65;}
+	.st2{font-family:'Arial-BoldMT';}
+	.st3{font-size:1.5px;}
+	.st4{fill:#444444;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:1px;}
+	.st7{fill:#1D1D1B;}
+	.st8{opacity:0.5;fill:#DA4F40;enable-background:new    ;}
+	.st9{fill:#DA4F40;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st12{font-size:2px;}
+	.st13{font-family:'Arial-ItalicMT';}
+</style>
+<g>
+	<rect x="69.8" y="43" class="st0" width="30.2" height="8.2"/>
+	<rect x="69.8" y="50.5" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<rect x="34.9" y="43" class="st0" width="30.2" height="8.2"/>
+	<rect x="34.9" y="50.5" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<rect x="34.9" y="23.2" class="st0" width="30.2" height="8.2"/>
+	<rect x="34.9" y="30.7" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 45.65 26.7563)" class="st2 st3">Proyecto VII</text>
+	<text transform="matrix(1 0 0 1 44.69 28.2563)" class="st4 st5 st6">(Primer semestre-2025)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 40 46.55)" class="st2 st3">Seminario de Licenciatura II</text>
+	<text transform="matrix(1 0 0 1 44.1797 48.0706)" class="st4 st5 st6">(Segundo semestre-2024)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 77.72 46.5699)" class="st2 st3">Proyecto de Título II</text>
+	<text transform="matrix(1 0 0 1 73.64 48.0699)" class="st4 st5 st6">(Primer semestre-2025 y Segundo semestre-2024)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 47.11 31.7705)" class="st7 st5 st6">(AUD7I001)</text>
+</g>
+<g>
+	<rect x="0" y="43" class="st8" width="30.1" height="8.2"/>
+	<rect x="0" y="50.5" class="st9" width="30.1" height="1.5"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 6.46 46.53)" class="st2 st3">Procesos y Prototipos II</text>
+	<text transform="matrix(1 0 0 1 9.25 48.03)" class="st4 st5 st6">(Segundo semestre-2024)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 12.2163 51.52)" class="st10 st5 st6">(AUD40005)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 82.1757 51.59)" class="st7 st5 st6">(AUD10I01)</text>
+</g>
+<rect x="69.8" y="33.2" class="st0" width="30.2" height="8.2"/>
+<rect x="69.8" y="40.6" class="st1" width="30.2" height="1.5"/>
+<g>
+	<text transform="matrix(1 0 0 1 77.8899 36.6486)" class="st2 st3">Proyecto de Título I</text>
+	<text transform="matrix(1 0 0 1 79.64 38.1896)" class="st4 st5 st6">(Primer semestre-2025)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 82.0183 41.7096)" class="st7 st5 st6">(AUD9I001)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 46.8902 51.6145)" class="st7 st5 st6">(AUD8I001)</text>
+</g>
+<g>
+	<rect x="34.9" y="33.1" class="st0" width="30.2" height="8.2"/>
+	<rect x="34.9" y="40.6" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 39.98 36.6482)" class="st2 st3">Seminario de Licenciatura I</text>
+	<text transform="matrix(1 0 0 1 38.7 37.9531)" class="st4 st5 st6">(Primer semestre-2025 y Segundo semestre-2024)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 46.829 41.6423)" class="st7 st5 st6">(AUD7I002)</text>
+</g>
+<g>
+	<rect x="34.9" y="13.5" class="st0" width="30.2" height="8.2"/>
+	<rect x="34.9" y="20.9" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<rect x="34.9" y="3.7" class="st0" width="30.2" height="8.2"/>
+	<rect x="34.9" y="11.1" class="st1" width="30.2" height="1.5"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 40.15 15.9563)" class="st2 st3">E</text>
+	<text transform="matrix(1 0 0 1 41.15 15.9563)" class="st2 st3">T</text>
+	<text transform="matrix(1 0 0 1 41.9 15.9563)" class="st2 st3">. Materiales, tecnologías y</text>
+	<text transform="matrix(1 0 0 1 41.73 17.9563)" class="st2 st3">Procesos de fabricación</text>
+	<text transform="matrix(1 0 0 1 45.11 19.4563)" class="st4 st5 st6">(Primer semestre-2025)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 47.5 21.9705)" class="st7 st5 st6">(AUD6I016)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 40.34 5.1763)" class="st2 st3">E. Principios de estructuras,</text>
+	<text transform="matrix(1 0 0 1 38.05 7.1763)" class="st2 st3">materiales compuestos y plásticos</text>
+	<text transform="matrix(1 0 0 1 46.63 9.1763)" class="st2 st3">reforzados</text>
+	<text transform="matrix(1 0 0 1 44.68 10.6763)" class="st4 st5 st6">(Segundo semestre-2024)</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 47.49 12.1906)" class="st7 st5 st6">(AUD7I020)</text>
+</g>
+<g id="Línea">
+	<g>
+		<line class="st11" x1="15.1" y1="54.9" x2="15.1" y2="52.1"/>
+		<line class="st11" x1="0" y1="52.2" x2="100" y2="52.2"/>
+		<line class="st11" x1="50" y1="55" x2="50" y2="52.2"/>
+		<line class="st11" x1="84.9" y1="55" x2="84.9" y2="52.2"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 10.28 57.08)" class="st5 st12">Ciclo básico</text>
+		<text transform="matrix(1 0 0 1 8.78 59.08)" class="st13 st12">Semestre I a IV</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 41.33 57.12)" class="st5 st12">Ciclo Especializado</text>
+		<text transform="matrix(1 0 0 1 42.16 59.12)" class="st13 st12">Semestre V a VIII</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 77.42 57.11)" class="st5 st12">Ciclo Profesional</text>
+		<text transform="matrix(1 0 0 1 77.64 59.11)" class="st13 st12">Semestre IX a X</text>
+	</g>
+</g>
+<g>
+	<g id="Simbología">
+		<g>
+			<rect x="21.1" y="61.5" class="st0" width="2" height="1.9"/>
+			<rect x="21.1" y="63.2" class="st1" width="2" height="0.3"/>
+		</g>
+		<g>
+			<text transform="matrix(1.1 0 0 1 23.75 62.8799)" class="st5 st6">Mención industrial y servicios</text>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1.1 0 0 1 11.0698 62.8799)" class="st5 st6">Electivo troncal</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 8.56 63.0601)" class="st2 st3">E</text>
+				<text transform="matrix(1 0 0 1 9.56 63.0601)" class="st2 st3">T</text>
+				<text transform="matrix(1 0 0 1 10.31 63.0601)" class="st2 st3">.</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1.1 0 0 1 2.2402 62.8799)" class="st5 st6">Electivo</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 -0.11 63.0601)" class="st2 st3">E.</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="40.7" y="61.5" class="st8" width="2" height="1.9"/>
+			<rect x="40.7" y="63.2" class="st9" width="2" height="0.3"/>
+		</g>
+		<g>
+			<text transform="matrix(1.1 0 0 1 43.3701 62.8799)" class="st5 st6">Ambas menciones</text>
+		</g>
+	</g>
+</g>
 </svg>

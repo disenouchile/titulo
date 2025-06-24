@@ -1,151 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 30">
-  <defs>
-    <style>
-      .cls-1 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 1.5px;
-        font-weight: 700;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
-        isolation: isolate;
-      }
-
-      .cls-2, .cls-9 {
-        opacity: .5;
-      }
-
-      .cls-2, .cls-11 {
-        fill: #da4f40;
-      }
-
-      .cls-4, .cls-5, .cls-6, .cls-8, .cls-10 {
-        font-family: ArialMT, Arial;
-      }
-
-      .cls-4, .cls-7 {
-        font-size: 2px;
-      }
-
-      .cls-5 {
-        fill: #fff;
-      }
-
-      .cls-5, .cls-6, .cls-8, .cls-10 {
-        font-size: 1px;
-      }
-
-      .cls-6 {
-        fill: #444;
-      }
-
-      .cls-7 {
-        font-family: Arial-ItalicMT, Arial;
-        font-style: italic;
-      }
-
-      .cls-8 {
-        fill: #1d1d1b;
-      }
-
-      .cls-9, .cls-12 {
-        fill: #f7ce65;
-      }
-
-      .cls-13 {
-        fill: none;
-        stroke: #1d1d1b;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-
-      .cls-14 {
-        letter-spacing: -.04em;
-      }
-    </style>
-  </defs>
-  <g id="Simbología">
-    <g>
-      <rect class="cls-9" x="8.53" y="28.02" width="2" height="1.92"/>
-      <rect class="cls-12" x="8.53" y="29.74" width="2" height=".29"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-10" transform="translate(11.21 29.41) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
-    </g>
-    <g>
-      <g>
-        <rect class="cls-2" x="28" y="28.07" width="2" height="1.92"/>
-        <rect class="cls-11" x="28" y="29.78" width="2" height=".29"/>
-      </g>
-      <g class="cls-3">
-        <text class="cls-10" transform="translate(30.71 29.43) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
-      </g>
-    </g>
-    <g>
-      <g class="cls-3">
-        <text class="cls-10" transform="translate(2.24 29.44) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
-      </g>
-      <g class="cls-3">
-        <text class="cls-1" transform="translate(-.11 29.62)"><tspan x="0" y="0">E.</tspan></text>
-      </g>
-    </g>
-  </g>
-  <g id="Cuadros">
-    <g>
-      <rect class="cls-9" x="34.93" y="9.79" width="30.15" height="8.24"/>
-      <rect class="cls-12" x="34.93" y="17.24" width="30.15" height="1.49"/>
-    </g>
-    <g>
-      <rect class="cls-9" x="34.92" y="0" width="30.15" height="8.2"/>
-      <rect class="cls-12" x="34.92" y="7.44" width="30.15" height="1.5"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(42.04 2.51)"><tspan x="0" y="0">E:</tspan><tspan class="cls-14" x="1.5" y="0"> </tspan><tspan x="1.86" y="0">Artesanías: cultura, </tspan></text>
-      <text class="cls-1" transform="translate(43.33 4.51)"><tspan x="0" y="0">técnica y producto</tspan></text>
-      <text class="cls-6" transform="translate(44.71 6.01)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(40.25 13.29)"><tspan x="0" y="0">Seminario de Licenciatura I </tspan></text>
-      <text class="cls-6" transform="translate(44.71 14.79)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(47.54 8.5)"><tspan x="0" y="0">(AUD5I031)</tspan></text>
-    </g>
-    <g>
-      <rect class="cls-2" y="9.79" width="30.15" height="8.2"/>
-      <rect class="cls-11" y="17.23" width="30.15" height="1.5"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-1" transform="translate(4.07 12.29)"><tspan x="0" y="0">Introducción a la Investigación </tspan></text>
-      <text class="cls-1" transform="translate(10.65 14.29)"><tspan x="0" y="0">en el Diseño</tspan></text>
-      <text class="cls-6" transform="translate(9.78 15.79)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-5" transform="translate(12.29 18.28)"><tspan x="0" y="0">(AUD40002)</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-8" transform="translate(47.44 18.26)"><tspan x="0" y="0">(AUD7I002)</tspan></text>
-    </g>
-  </g>
-  <g id="Línea">
-    <g>
-      <line class="cls-13" x1="15.07" y1="21.63" x2="15.07" y2="18.83"/>
-      <line class="cls-13" y1="18.96" x2="100" y2="18.96"/>
-      <line class="cls-13" x1="50" y1="21.76" x2="50" y2="18.96"/>
-      <line class="cls-13" x1="84.93" y1="21.76" x2="84.93" y2="18.96"/>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(10.28 23.82)"><tspan x="0" y="0">Ciclo básico</tspan></text>
-      <text class="cls-7" transform="translate(8.78 25.82)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(41.33 23.86)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
-      <text class="cls-7" transform="translate(42.16 25.86)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
-    </g>
-    <g class="cls-3">
-      <text class="cls-4" transform="translate(77.42 23.85)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
-      <text class="cls-7" transform="translate(77.64 25.85)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 30" style="enable-background:new 0 0 100 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.5;fill:#F7CE65;enable-background:new    ;}
+	.st1{fill:#F7CE65;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:1px;}
+	.st4{opacity:0.5;fill:#DA4F40;enable-background:new    ;}
+	.st5{fill:#DA4F40;}
+	.st6{font-family:'Arial-BoldMT';}
+	.st7{font-size:1.5px;}
+	.st8{fill:#444444;}
+	.st9{fill:#1D1D1B;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st12{font-size:2px;}
+	.st13{font-family:'Arial-ItalicMT';}
+</style>
+<g id="Simbología">
+	<g>
+		<rect x="8.5" y="28" class="st0" width="2" height="1.9"/>
+		<rect x="8.5" y="29.7" class="st1" width="2" height="0.3"/>
+	</g>
+	<g>
+		<text transform="matrix(1.1 0 0 1 11.21 29.4102)" class="st2 st3">Mención industrial y servicios</text>
+	</g>
+	<g>
+		<g>
+			<rect x="28" y="28.1" class="st4" width="2" height="1.9"/>
+			<rect x="28" y="29.8" class="st5" width="2" height="0.3"/>
+		</g>
+		<g>
+			<text transform="matrix(1.1 0 0 1 30.71 29.4302)" class="st2 st3">Ambas menciones</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1.1 0 0 1 2.2402 29.4399)" class="st2 st3">Electivo</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 -0.11 29.62)" class="st6 st7">E.</text>
+		</g>
+	</g>
+</g>
+<g id="Cuadros">
+	<g>
+		<rect x="34.9" y="9.8" class="st0" width="30.2" height="8.2"/>
+		<rect x="34.9" y="17.2" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<rect x="34.9" class="st0" width="30.2" height="8.2"/>
+		<rect x="34.9" y="7.4" class="st1" width="30.2" height="1.5"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 42.04 2.51)" class="st6 st7">E:</text>
+		<text transform="matrix(1 0 0 1 43.54 2.51)" class="st6 st7"> </text>
+		<text transform="matrix(1 0 0 1 43.9 2.51)" class="st6 st7">Artesanías: cultura,</text>
+		<text transform="matrix(1 0 0 1 43.33 4.51)" class="st6 st7">técnica y producto</text>
+		<text transform="matrix(1 0 0 1 44.71 6.01)" class="st8 st2 st3">(Primer semestre-2025)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 40.25 13.29)" class="st6 st7">Seminario de Licenciatura I</text>
+		<text transform="matrix(1 0 0 1 44.71 14.79)" class="st8 st2 st3">(Primer semestre-2025)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 47.1533 8.4296)" class="st9 st2 st3">(AUD5I031)</text>
+	</g>
+	<g>
+		<rect y="9.8" class="st4" width="30.1" height="8.2"/>
+		<rect y="17.2" class="st5" width="30.1" height="1.5"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4.07 12.29)" class="st6 st7">Introducción a la Investigación</text>
+		<text transform="matrix(1 0 0 1 10.65 14.29)" class="st6 st7">en el Diseño</text>
+		<text transform="matrix(1 0 0 1 9.78 15.79)" class="st8 st2 st3">(Primer semestre-2025)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 12.0779 18.1892)" class="st10 st2 st3">(AUD40002)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 47.0533 18.1896)" class="st9 st2 st3">(AUD7I002)</text>
+	</g>
+</g>
+<g id="Línea">
+	<g>
+		<line class="st11" x1="15.1" y1="21.6" x2="15.1" y2="18.8"/>
+		<line class="st11" x1="0" y1="19" x2="100" y2="19"/>
+		<line class="st11" x1="50" y1="21.8" x2="50" y2="19"/>
+		<line class="st11" x1="84.9" y1="21.8" x2="84.9" y2="19"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 10.28 23.8199)" class="st2 st12">Ciclo básico</text>
+		<text transform="matrix(1 0 0 1 8.78 25.8199)" class="st13 st12">Semestre I a IV</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 41.33 23.86)" class="st2 st12">Ciclo Especializado</text>
+		<text transform="matrix(1 0 0 1 42.16 25.86)" class="st13 st12">Semestre V a VIII</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 77.42 23.85)" class="st2 st12">Ciclo Profesional</text>
+		<text transform="matrix(1 0 0 1 77.64 25.85)" class="st13 st12">Semestre IX a X</text>
+	</g>
+</g>
 </svg>

@@ -49,15 +49,11 @@
         font-style: italic;
       }
 
-      .cls-13 {
-        fill: #1d1d1b;
-      }
-
-      .cls-9, .cls-14 {
+      .cls-9, .cls-13 {
         fill: #f7ce65;
       }
 
-      .cls-15 {
+      .cls-14 {
         fill: none;
         stroke: #1d1d1b;
         stroke-miterlimit: 10;
@@ -73,7 +69,9 @@
           <rect class="cls-11" x="28.21" y="39.71" width="2" height=".29"/>
         </g>
         <g class="cls-4">
-          <text class="cls-10" transform="translate(30.93 39.37) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+          <g class="cls-4">
+            <text class="cls-10" transform="translate(30.93 39.37) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+          </g>
         </g>
       </g>
     </g>
@@ -81,10 +79,12 @@
       <g>
         <g>
           <rect class="cls-9" x="8.64" y="38.04" width="2" height="1.92"/>
-          <rect class="cls-14" x="8.64" y="39.75" width="2" height=".29"/>
+          <rect class="cls-13" x="8.64" y="39.75" width="2" height=".29"/>
         </g>
         <g class="cls-4">
-          <text class="cls-10" transform="translate(11.32 39.42) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+          <g class="cls-4">
+            <text class="cls-10" transform="translate(11.32 39.42) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+          </g>
         </g>
       </g>
     </g>
@@ -95,17 +95,23 @@
           <rect class="cls-12" x="47.61" y="39.72" width="2" height=".29"/>
         </g>
         <g class="cls-4">
-          <text class="cls-10" transform="translate(50.32 39.37) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+          <g class="cls-4">
+            <text class="cls-10" transform="translate(50.32 39.37) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+          </g>
         </g>
       </g>
     </g>
     <g id="ELECTIVO">
       <g id="ELEC">
         <g class="cls-4">
-          <text class="cls-10" transform="translate(2.21 39.63) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+          <g class="cls-4">
+            <text class="cls-10" transform="translate(2.21 39.63) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+          </g>
         </g>
         <g class="cls-4">
-          <text class="cls-1" transform="translate(-.14 39.81)"><tspan x="0" y="0">E.</tspan></text>
+          <g class="cls-4">
+            <text class="cls-1" transform="translate(-.14 39.81)"><tspan x="0" y="0">E.</tspan></text>
+          </g>
         </g>
       </g>
     </g>
@@ -123,15 +129,15 @@
       <g id="A2">
         <g>
           <rect class="cls-9" x="34.9" y="19.75" width="30.15" height="8.24"/>
-          <rect class="cls-14" x="34.9" y="27.2" width="30.15" height="1.49"/>
+          <rect class="cls-13" x="34.9" y="27.2" width="30.15" height="1.49"/>
         </g>
       </g>
     </g>
     <g id="ROJO">
       <g id="_1" data-name=" 1">
         <g>
-          <rect class="cls-3" x="0" y="19.77" width="30.15" height="8.24"/>
-          <rect class="cls-12" x="0" y="27.22" width="30.15" height="1.49"/>
+          <rect class="cls-3" y="19.77" width="30.15" height="8.24"/>
+          <rect class="cls-12" y="27.22" width="30.15" height="1.49"/>
         </g>
       </g>
       <g id="_2" data-name=" 2">
@@ -145,63 +151,100 @@
   <g id="TEXTO">
     <g id="T1">
       <g class="cls-4">
-        <text class="cls-1" transform="translate(4.9 23.56)"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></text>
-        <text class="cls-7" transform="translate(9.8 25.06)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(4.9 23.56)"><tspan x="0" y="0">Historia y Cultura del Diseño</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(9.8 25.06)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+        </g>
       </g>
     </g>
     <g id="T2">
       <g class="cls-4">
-        <text class="cls-1" transform="translate(40.21 23.46)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
-        <text class="cls-7" transform="translate(44.61 24.96)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(40.21 23.46)"><tspan x="0" y="0">Seminario de Licenciatura I</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(44.61 24.96)"><tspan x="0" y="0">(Primer Semestre-2025)</tspan></text>
+        </g>
       </g>
       <g class="cls-4">
-        <text class="cls-1" transform="translate(41.11 13.59)"><tspan x="0" y="0">Seminario Licenciatura II</tspan></text>
-        <text class="cls-7" transform="translate(44.18 15.09)"><tspan x="0" y="0">(Segundo semestre-2024)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(41.11 13.59)"><tspan x="0" y="0">Seminario Licenciatura II</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(44.18 15.09)"><tspan x="0" y="0">(Segundo semestre-2024)</tspan></text>
+        </g>
       </g>
       <g class="cls-4">
-        <text class="cls-1" transform="translate(36.29 2.81)"><tspan x="0" y="0">E. Muralismo en Chile:espacio público </tspan></text>
-        <text class="cls-1" transform="translate(43.36 4.81)"><tspan x="0" y="0">y contexto político</tspan></text>
-        <text class="cls-7" transform="translate(44.71 6.31)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(36.29 2.81)"><tspan x="0" y="0">E. Muralismo en Chile:espacio público</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-1" transform="translate(43.36 4.81)"><tspan x="0" y="0">y contexto político</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-7" transform="translate(44.71 6.31)"><tspan x="0" y="0">(Primer semestre-2025)</tspan></text>
+        </g>
       </g>
     </g>
   </g>
   <g id="CODIGO">
     <g id="C1">
       <g class="cls-4">
-        <text class="cls-6" transform="translate(12.09 28.18)"><tspan x="0" y="0">(AUD10002)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(12.09 28.18)"><tspan x="0" y="0">(AUD10002)</tspan></text>
+        </g>
       </g>
     </g>
     <g id="C2">
       <g class="cls-4">
-        <text class="cls-10" transform="translate(47.36 28.29)"><tspan x="0" y="0">(AUD7I002)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-10" transform="translate(47.36 28.29)"><tspan x="0" y="0">(AUD7I002)</tspan></text>
+        </g>
       </g>
       <g class="cls-4">
-        <text class="cls-6" transform="translate(47.14 18.35)"><tspan x="0" y="0">(AUD8V001)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(47.14 18.35)"><tspan x="0" y="0">(AUD8V001)</tspan></text>
+        </g>
       </g>
       <g class="cls-4">
-        <text class="cls-6" transform="translate(47.3 8.5)"><tspan x="0" y="0">(AUDIV058)</tspan></text>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(47.3 8.5)"><tspan x="0" y="0">(AUDIV058)</tspan></text>
+        </g>
       </g>
     </g>
   </g>
   <g id="Línea">
     <g>
-      <line class="cls-15" x1="15.04" y1="31.6" x2="15.04" y2="28.8"/>
-      <line class="cls-15" x1="-.03" y1="28.93" x2="99.98" y2="28.93"/>
-      <line class="cls-15" x1="49.97" y1="31.72" x2="49.97" y2="28.93"/>
-      <line class="cls-15" x1="84.9" y1="31.72" x2="84.9" y2="28.93"/>
+      <line class="cls-14" x1="15.04" y1="31.6" x2="15.04" y2="28.8"/>
+      <line class="cls-14" x1="-.03" y1="28.93" x2="99.98" y2="28.93"/>
+      <line class="cls-14" x1="49.97" y1="31.72" x2="49.97" y2="28.93"/>
+      <line class="cls-14" x1="84.9" y1="31.72" x2="84.9" y2="28.93"/>
     </g>
     <g class="cls-4">
-      <text class="cls-5" transform="translate(10.26 33.79)"><tspan x="0" y="0">Ciclo básico</tspan></text>
-      <text class="cls-8" transform="translate(8.76 35.79)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(10.26 33.79)"><tspan x="0" y="0">Ciclo básico</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-8" transform="translate(8.76 35.79)"><tspan x="0" y="0">Semestre I a IV</tspan></text>
+      </g>
     </g>
     <g class="cls-4">
-      <text class="cls-5" transform="translate(41.3 33.83)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
-      <text class="cls-8" transform="translate(42.14 35.83)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(41.3 33.83)"><tspan x="0" y="0">Ciclo Especializado</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-8" transform="translate(42.14 35.83)"><tspan x="0" y="0">Semestre V a VIII</tspan></text>
+      </g>
     </g>
     <g class="cls-4">
-      <text class="cls-5" transform="translate(77.4 33.82)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
-      <text class="cls-8" transform="translate(77.61 35.82)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(77.4 33.82)"><tspan x="0" y="0">Ciclo Profesional</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-8" transform="translate(77.61 35.82)"><tspan x="0" y="0">Semestre IX a X</tspan></text>
+      </g>
     </g>
   </g>
-  <rect class="cls-13" x="54.86" y="8.97" width=".84" height=".84"/>
 </svg>

@@ -1,123 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Línea" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 42.68">
+<svg id="Guías" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 30">
   <defs>
     <style>
-      .cls-1 {
-        fill: #ffd3cc;
-      }
-
-      .cls-2 {
-        font-size: 2px;
-      }
-
-      .cls-3 {
-        font-size: 1px;
-      }
-
-      .cls-3, .cls-4 {
+      .cls-1, .cls-2, .cls-3, .cls-4 {
         font-family: ArialMT, Arial;
       }
 
-      .cls-5, .cls-6 {
-        fill: #ff5432;
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
       }
 
-      .cls-7 {
-        fill: #393f95;
-      }
-
-      .cls-8 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 1.5px;
-        font-weight: 700;
-      }
-
-      .cls-9 {
-        fill: #ffa300;
+      .cls-5, .cls-7, .cls-9 {
+        fill: #1f5592;
       }
 
       .cls-10 {
-        fill: none;
+        fill: #ff5432;
       }
 
-      .cls-10, .cls-6 {
+      .cls-10, .cls-11 {
         stroke: #1d1d1b;
         stroke-miterlimit: 10;
         stroke-width: .5px;
       }
 
-      .cls-11 {
-        fill: #ffe7b6;
+      .cls-12 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 1.5px;
+        font-weight: 700;
       }
 
-      .cls-12 {
+      .cls-12, .cls-2, .cls-13 {
+        fill: #000;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #da4f40;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-14 {
         font-family: Arial-ItalicMT, Arial;
         font-style: italic;
       }
 
-      .cls-13 {
-        letter-spacing: -.11em;
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 1px;
       }
 
-      .cls-14 {
-        fill: #d1cfe8;
+      .cls-3 {
+        fill: #fff;
+        letter-spacing: .03em;
+      }
+
+      .cls-7, .cls-8 {
+        opacity: .5;
+      }
+
+      .cls-4 {
+        fill: #444;
+      }
+
+      .cls-13 {
+        font-size: 2px;
+      }
+
+      .cls-9 {
+        opacity: .4;
       }
     </style>
   </defs>
   <g>
-    <rect class="cls-1" x="69.85" y="20.81" width="30.15" height="8.59"/>
-    <rect class="cls-5" x="69.85" y="28.48" width="30.15" height="1.28"/>
+    <rect class="cls-9" x="69.86" y="9.79" width="30.15" height="8.2"/>
+    <rect class="cls-5" x="69.86" y="17.23" width="30.15" height="1.5"/>
   </g>
   <g>
-    <rect class="cls-1" x="35.38" y="20.81" width="30.15" height="8.59"/>
-    <rect class="cls-5" x="35.38" y="28.48" width="30.15" height="1.28"/>
-  </g>
-  <text class="cls-8" transform="translate(76.72 25.64)"><tspan x="0" y="0">Proyecto de Título I y II</tspan></text>
-  <g>
-    <g>
-      <rect class="cls-14" x="40.8" y="39.27" width="2" height="1.92"/>
-      <rect class="cls-7" x="40.8" y="40.99" width="2" height=".29"/>
-    </g>
-    <text class="cls-3" transform="translate(43.52 40.69) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
+    <rect class="cls-9" x="34.93" y="9.79" width="30.15" height="8.2"/>
+    <rect class="cls-5" x="34.93" y="17.23" width="30.15" height="1.5"/>
   </g>
   <g>
     <g>
-      <rect class="cls-1" x="60.12" y="39.38" width="2" height="1.92"/>
-      <rect class="cls-5" x="60.12" y="41.09" width="2" height=".29"/>
+      <rect class="cls-7" x="8.68" y="28.03" width="2" height="1.92"/>
+      <rect class="cls-5" x="8.68" y="29.74" width="2" height=".29"/>
     </g>
-    <text class="cls-3" transform="translate(62.84 40.68) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
+    <text class="cls-2" transform="translate(11.41 29.4) scale(1.1 1)"><tspan x="0" y="0">Mención visualidad y medios</tspan></text>
   </g>
   <g>
-    <text class="cls-3" transform="translate(11.27 40.7) scale(1.1 1)"><tspan x="0" y="0">Electivo troncal</tspan></text>
-    <text class="cls-8" transform="translate(8.64 40.89)"><tspan x="0" y="0">E</tspan><tspan class="cls-13" x="1" y="0">T</tspan><tspan x="1.75" y="0">.</tspan></text>
+    <g>
+      <rect class="cls-8" x="28.04" y="28.03" width="2" height="1.92"/>
+      <rect class="cls-6" x="28.04" y="29.74" width="2" height=".29"/>
+    </g>
+    <text class="cls-2" transform="translate(30.75 29.4) scale(1.1 1)"><tspan x="0" y="0">Ambas menciones</tspan></text>
   </g>
   <g>
-    <text class="cls-3" transform="translate(2.33 40.7) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
-    <text class="cls-8" transform="translate(-.01 40.89)"><tspan x="0" y="0">E.</tspan></text>
+    <text class="cls-2" transform="translate(2.25 29.4) scale(1.1 1)"><tspan x="0" y="0">Electivo</tspan></text>
+    <text class="cls-12" transform="translate(-.1 29.59)"><tspan x="0" y="0">E.</tspan></text>
   </g>
-  <text class="cls-8" transform="translate(40.07 25.55)"><tspan x="0" y="0">E. Fundamentos fotográficos</tspan></text>
   <g>
-    <rect class="cls-11" x="21.33" y="39.32" width="2" height="1.92"/>
-    <rect class="cls-9" x="21.33" y="41.03" width="2" height=".29"/>
+    <rect class="cls-9" x="34.93" y=".03" width="30.15" height="8.2"/>
+    <rect class="cls-5" x="34.93" y="7.47" width="30.15" height="1.5"/>
   </g>
-  <text class="cls-3" transform="translate(24.01 40.71) scale(1.1 1)"><tspan x="0" y="0">Mención industrial y servicios</tspan></text>
+  <text transform="translate(39.63 3.53)"><tspan class="cls-12"><tspan x="0" y="0">E. Fundamentos fotográficos</tspan></tspan><tspan class="cls-4"><tspan x="5.1" y="1.5">(Primer semestre-2025)</tspan></tspan></text>
+  <text transform="translate(40.34 12.41)"><tspan class="cls-12"><tspan x="0" y="0">E. Lenguaje y composición </tspan></tspan><tspan class="cls-12"><tspan x=".54" y="1.8">fotográfica para el diseño</tspan></tspan><tspan class="cls-4"><tspan x="4.39" y="3.3">(Primer semestre-2024)</tspan></tspan></text>
+  <text transform="translate(77.97 13.33)"><tspan class="cls-12"><tspan x="0" y="0">Proyecto de Título I</tspan></tspan><tspan class="cls-4"><tspan x="1.68" y="1.5">(Primer semestre-2025) </tspan></tspan></text>
+  <text class="cls-3" transform="translate(47.06 8.53)"><tspan x="0" y="0">(AUD6V010)</tspan></text>
+  <text class="cls-3" transform="translate(81.99 18.31)"><tspan x="0" y="0">(AUD9V001)</tspan></text>
+  <text class="cls-3" transform="translate(47.06 18.29)"><tspan x="0" y="0">(AUD5V010)</tspan></text>
   <g>
-    <rect class="cls-14" x="35.38" y="11.03" width="30.05" height="8.59"/>
-    <rect class="cls-7" x="35.38" y="18.7" width="30.05" height="1.28"/>
+    <line class="cls-11" x1="15.08" y1="21.65" x2="15.08" y2="18.86"/>
+    <line class="cls-10" x1="0" y1="18.98" x2="100.01" y2="18.98"/>
+    <line class="cls-11" x1="50.01" y1="21.78" x2="50.01" y2="18.98"/>
+    <line class="cls-11" x1="84.93" y1="21.78" x2="84.93" y2="18.98"/>
   </g>
-  <text class="cls-8" transform="translate(40.85 14.95)"><tspan x="0" y="0">E. Lenguaje y composición </tspan><tspan x=".54" y="1.8">fotográfica para el diseño</tspan></text>
+  <text class="cls-13" transform="translate(10.29 23.85)"><tspan class="cls-1"><tspan x="0" y="0">Ciclo básico</tspan></tspan><tspan class="cls-14"><tspan x="-1.5" y="2">Semestre I a IV</tspan></tspan></text>
+  <text class="cls-13" transform="translate(41.34 23.88)"><tspan class="cls-1"><tspan x="0" y="0">Ciclo Especializado</tspan></tspan><tspan class="cls-14"><tspan x=".83" y="2">Semestre V a VIII</tspan></tspan></text>
+  <text class="cls-13" transform="translate(77.43 23.87)"><tspan class="cls-1"><tspan x="0" y="0">Ciclo Profesional</tspan></tspan><tspan class="cls-14"><tspan x=".22" y="2">Semestre IX a X</tspan></tspan></text>
   <g>
-    <line class="cls-10" x1="15.07" y1="32.43" x2="15.07" y2="29.63"/>
-    <line class="cls-6" y1="29.76" x2="100" y2="29.76"/>
-    <line class="cls-10" x1="50" y1="32.56" x2="50" y2="29.76"/>
-    <line class="cls-10" x1="84.93" y1="32.56" x2="84.93" y2="29.76"/>
+    <rect class="cls-8" x="0" y="9.81" width="30.15" height="8.25"/>
+    <rect class="cls-6" x="0" y="17.25" width="30.15" height="1.49"/>
   </g>
-  <text class="cls-2" transform="translate(10.28 34.98)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo básico</tspan></tspan><tspan class="cls-12"><tspan x="3.06" y="2">I a IV</tspan></tspan></text>
-  <text class="cls-2" transform="translate(41.37 34.89)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo Especializado</tspan></tspan><tspan class="cls-12"><tspan x="5.39" y="2">V a VIII</tspan></tspan></text>
-  <text class="cls-2" transform="translate(77.53 34.88)"><tspan class="cls-4"><tspan x="0" y="0">Ciclo profesional</tspan></tspan><tspan class="cls-12"><tspan x="4.67" y="2">IX a X</tspan></tspan></text>
+  <text transform="translate(11.13 13.33)"><tspan class="cls-12"><tspan x="0" y="0">Proyecto IV</tspan></tspan><tspan class="cls-4"><tspan x="-1.68" y="1.5">(Segundo semestre-2024)</tspan></tspan></text>
+  <text class="cls-3" transform="translate(12.2 18.36)"><tspan x="0" y="0">(AUD40001)</tspan></text>
   <g>
-    <rect class="cls-14" x="35.38" y="1.25" width="30.05" height="8.59"/>
-    <rect class="cls-7" x="35.38" y="8.93" width="30.05" height="1.28"/>
+    <rect class="cls-9" x="69.86" width="30.15" height="8.2"/>
+    <rect class="cls-5" x="69.86" y="7.44" width="30.15" height="1.5"/>
   </g>
-  <text class="cls-8" transform="translate(46.32 5.91)"><tspan x="0" y="0">Proyecto IV</tspan></text>
+  <text transform="translate(77.77 3.54)"><tspan class="cls-12"><tspan x="0" y="0">Proyecto de Título II</tspan></tspan><tspan class="cls-4"><tspan x="1.89" y="1.5">(Primer semestre-2025) </tspan></tspan></text>
+  <text class="cls-3" transform="translate(81.99 8.52)"><tspan x="0" y="0">(AUD10V01)</tspan></text>
 </svg>
