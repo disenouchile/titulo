@@ -67,13 +67,15 @@ async function datos(criterio) {
     <div class="row align-items-top pt-4 mt-4 border-top">
         <div class="col-md-5">
             <p class="fw-bold mb-1">Palabras clave</p>
-            <p>Pendiente…</p>
-            <p class="fw-bold mb-1">Más información</p>
-            <p>Pendiente…</p>
+            <p>${keywords(profeSeleccion.keywords)}</p>
         </div>
         <div class="col-md-7">
             <p class="fw-bold mb-1">Enfoque de guiatura</p>
             <p>${profeSeleccion.descriptor}</p>
+        </div>        
+        <div class="col-md-12">
+            <p class="fw-bold mb-1">Más información</p>
+            <p class="small">${more(profeSeleccion.info)}</p>
         </div>
     </div>
     `;
@@ -81,7 +83,9 @@ async function datos(criterio) {
     asignaturasAqui.innerHTML = `<h2 class="fs-4">Asignaturas impartidas por ${profeSeleccion.nombre}</h2><object data="${profeSeleccion.asignaturas}" type="image/svg+xml" class="w-100 mt-4">
             </object>`;
 
-    dialogoAqui.innerHTML = `<h2 class="fs-4 my-3">Conversemos con ${profeSeleccion.nombre}</h2>${dialogante(profeSeleccion.dialogo)}`;
+    if(profeSeleccion.dialogo){
+        dialogoAqui.innerHTML = `<h2 class="fs-4 my-3 border-top pt-3">Conversando sobre nuestro sello universitario, perfil de egreso y la gestión de su docencia con ${profeSeleccion.nombre}</h2>${dialogante(profeSeleccion.dialogo)}`;
+    }
 
     detallesAqui.innerHTML = `<div class="col"><dl><dt class="mb-2">Énfasis</dt>${enfasis(profeSeleccion.enfasis.toString())}</dl></div><div class="col"><dl><dt class="mb-2">Líneas DdD</dt>${lineas(
         profeSeleccion.lineas.toString()
@@ -121,7 +125,7 @@ async function datos(criterio) {
             }
         }
 
-        resultadosAqui.innerHTML = `<h2 class="fs-4 mt-4">Resultados en Examen de Título<sup>*</sup></h2>
+        resultadosAqui.innerHTML = `<h2 class="fs-4 mt-4 border-top pt-3">Resultados en Examen de Título<sup>*</sup></h2>
                 <p class="lead" id="resumen"></p>
                 <div class="table-responsive">
                     <table class="table small border-top border-2">
@@ -189,10 +193,6 @@ async function datos(criterio) {
         for (var i = 0; i < notas.length; i++) {
             document.querySelector("#slope").innerHTML += `<g><text x="0.5" y="${140 - notasPrevias[i] * 20 + 2.5}" font-size="2.3" dominant-baseline="middle">${notasPrevias[i].toFixed(1)}</text><circle cx="5" cy="${140 - notasPrevias[i] * 20 + 2.5}" r=".5" fill="var(--acento)"/><line x1="5" y1="${140 - notasPrevias[i] * 20 + 2.5}" x2="60" y2="${140 - notas[i] * 20 + 2.5}" stroke="var(--acento)" stroke-width=".3"/><circle cx="60" cy="${140 - notas[i] * 20 + 2.5}" r=".5" fill="var(--acento)"/><text x="61.25" y="${140 - notas[i] * 20 + 2.5}" font-size="2.3" dominant-baseline="middle">${notas[i].toFixed(1)}</text></g>`;
         }
-
-
-    } else {
-        resultadosAqui.innerHTML = `<p class="lead">Aún no hay registros de sus resultados como Prof. Guía en Examen de Título</p>`;
     }
 }
 
@@ -335,4 +335,21 @@ function grados(data) {
     });
     susGrados += "</ul>";
     return susGrados;
+}
+
+function keywords(data) {
+    var susKeywords = "";
+    data.forEach((d)=> {
+            susKeywords += `<span class="badge text-bg-secondary">${d}</span> `;
+    });
+    return susKeywords;
+}
+
+function more(data) {
+    var suInfo = "";
+    if(data.perfil){ suInfo += `<a href="${data.perfil}" target="_blank" class="link-dark">Portafolio académico</a> `;}
+    if(data.website){ suInfo += `<a href="${data.website}" target="_blank" class="link-dark">Sitio web</a> `;}
+    if(data.linkedin){ suInfo += `<a href="${data.linkedin}" target="_blank" class="link-dark">LinkedIn</a> `;}
+    if(data.scholar){ suInfo += `<a href="${data.scholar}" target="_blank" class="link-dark">Google Académico</a> `;}
+    return suInfo;
 }
